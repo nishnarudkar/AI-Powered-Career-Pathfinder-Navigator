@@ -6,8 +6,9 @@ from langchain_openai import ChatOpenAI
 from langchain_core.messages import HumanMessage
 from dotenv import load_dotenv
 
-# Load environment variables from .env file
-load_dotenv()
+# Load environment variables from .env file (check parent directory first)
+load_dotenv("../.env")  # Try parent directory first
+load_dotenv()           # Fallback to current directory
 
 # Read environment variables
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
