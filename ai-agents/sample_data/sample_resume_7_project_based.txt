@@ -1,0 +1,11 @@
+PROJECT 1: E-commerce Platform
+- Built using React.js frontend and Node.js backend
+- Integrated Stripe payment processing
+- Used MongoDB for data storage
+- Deployed on AWS with Docker containers
+
+PROJECT 2: Data Analytics Dashboard
+- Developed with Python and Flask
+- Used Pandas for data processing
+- Created visualizations with D3.js
+- Connected to PostgreSQL database

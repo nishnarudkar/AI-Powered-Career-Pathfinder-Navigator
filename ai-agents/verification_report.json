@@ -1,0 +1,108 @@
+{
+  "verification_date": "2025-08-02",
+  "tests_conducted": 4,
+  "results": {
+    "skills_accuracy": {
+      "score": 86.66666666666667,
+      "status": "pass"
+    },
+    "course_coverage": {
+      "score": 100.0,
+      "status": "pass"
+    },
+    "backend_format": {
+      "status": "pass"
+    },
+    "frontend_compatibility": {
+      "status": "pass"
+    }
+  },
+  "sample_data": {
+    "success": true,
+    "timestamp": "2025-08-02T10:30:45Z",
+    "user_input": {
+      "character_count": 622,
+      "target_role": "Full Stack Web Developer"
+    },
+    "results": {
+      "extracted_skills": [
+        "html",
+        "css",
+        "javascript",
+        "react",
+        "nodejs",
+        "express",
+        "mongodb",
+        "postgresql",
+        "git",
+        "bootstrap",
+        "rest-api",
+        "json",
+        "sql",
+        "testing"
+      ],
+      "required_skills": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "React",
+        "Node.js",
+        "Express.js",
+        "MongoDB",
+        "SQL",
+        "Git",
+        "REST APIs",
+        "JSON",
+        "Bootstrap",
+        "TypeScript",
+        "AWS Basics",
+        "Testing"
+      ],
+      "matched_skills": [
+        "html",
+        "css",
+        "javascript",
+        "react",
+        "nodejs",
+        "expressjs",
+        "mongodb",
+        "sql",
+        "git",
+        "rest-apis",
+        "json",
+        "bootstrap",
+        "testing"
+      ],
+      "missing_skills": [
+        "typescript",
+        "aws-basics"
+      ],
+      "accuracy_percentage": 86.7,
+      "skill_coverage": "13/15"
+    },
+    "course_recommendations": {
+      "typescript": [
+        "TypeScript Tutorial for Beginners - Programming with Mosh (YouTube)",
+        "TypeScript Course - freeCodeCamp (YouTube)"
+      ],
+      "aws-basics": [
+        "AWS Cloud Practitioner Course - freeCodeCamp (YouTube)",
+        "Introduction to AWS - Amazon Web Services Training"
+      ]
+    },
+    "learning_path": {
+      "immediate_focus": [
+        "typescript",
+        "aws-basics"
+      ],
+      "estimated_time": "6-8 weeks",
+      "difficulty": "intermediate"
+    },
+    "api_endpoints": {
+      "career_paths": "GET /api/career-paths",
+      "skill_analysis": "POST /api/analyze-skills",
+      "learning_recommendations": "POST /api/learning-path"
+    }
+  },
+  "recommendation": "Ready for commit"
+}

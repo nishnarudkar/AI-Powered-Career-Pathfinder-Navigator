@@ -1,0 +1,237 @@
+{
+  "success": true,
+  "execution_time": 2.34,
+  "timestamp": "2025-08-02T10:30:45Z",
+  "input_summary": {
+    "character_count": 621,
+    "format_detected": "technical_resume",
+    "target_role": "Full Stack Web Developer"
+  },
+  "extracted_skills": [
+    "html",
+    "css",
+    "javascript",
+    "react",
+    "nodejs",
+    "express",
+    "mongodb",
+    "postgresql",
+    "git",
+    "bootstrap",
+    "rest-api",
+    "json"
+  ],
+  "skill_analysis": {
+    "total_extracted": 12,
+    "confidence_score": 0.94,
+    "extraction_method": "ai_primary_with_fallback"
+  },
+  "gap_analysis": {
+    "target_role": "Full Stack Web Developer",
+    "required_skills": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "React",
+      "Node.js",
+      "Express.js",
+      "MongoDB",
+      "SQL",
+      "Git",
+      "REST APIs",
+      "JSON",
+      "Bootstrap",
+      "TypeScript",
+      "AWS Basics",
+      "Testing"
+    ],
+    "matched_skills": [
+      {
+        "skill": "HTML",
+        "user_skill": "html",
+        "confidence": 1.0
+      },
+      {
+        "skill": "CSS",
+        "user_skill": "css",
+        "confidence": 1.0
+      },
+      {
+        "skill": "JavaScript",
+        "user_skill": "javascript",
+        "confidence": 1.0
+      },
+      {
+        "skill": "React",
+        "user_skill": "react",
+        "confidence": 1.0
+      },
+      {
+        "skill": "Express.js",
+        "user_skill": "express",
+        "confidence": 0.95
+      },
+      {
+        "skill": "MongoDB",
+        "user_skill": "mongodb",
+        "confidence": 1.0
+      },
+      {
+        "skill": "Git",
+        "user_skill": "git",
+        "confidence": 1.0
+      },
+      {
+        "skill": "REST APIs",
+        "user_skill": "rest-api",
+        "confidence": 0.98
+      },
+      {
+        "skill": "JSON",
+        "user_skill": "json",
+        "confidence": 1.0
+      },
+      {
+        "skill": "Bootstrap",
+        "user_skill": "bootstrap",
+        "confidence": 1.0
+      }
+    ],
+    "missing_skills": [
+      {
+        "skill": "Node.js",
+        "priority": "high",
+        "category": "backend"
+      },
+      {
+        "skill": "TypeScript",
+        "priority": "medium",
+        "category": "language"
+      },
+      {
+        "skill": "AWS Basics",
+        "priority": "medium",
+        "category": "cloud"
+      },
+      {
+        "skill": "Testing",
+        "priority": "high",
+        "category": "quality"
+      }
+    ],
+    "skill_coverage": 73.3,
+    "readiness_level": "intermediate"
+  },
+  "learning_roadmap": {
+    "total_phases": 3,
+    "estimated_duration": "3-4 months",
+    "phases": [
+      {
+        "phase": "Phase 1: Foundation",
+        "duration": "4-6 weeks",
+        "priority": "high",
+        "skills": [
+          {
+            "skill": "Node.js",
+            "reason": "Essential backend technology for full-stack development",
+            "courses": [
+              {
+                "title": "Node.js Tutorial for Beginners",
+                "provider": "Programming with Mosh",
+                "platform": "YouTube",
+                "duration": "1 hour",
+                "cost": "free",
+                "rating": 4.8,
+                "url": "https://youtube.com/watch?v=TlB_eWDSMt4"
+              },
+              {
+                "title": "Node.js Complete Course",
+                "provider": "freeCodeCamp",
+                "platform": "YouTube",
+                "duration": "8 hours",
+                "cost": "free",
+                "rating": 4.7
+              }
+            ]
+          },
+          {
+            "skill": "Testing",
+            "reason": "Critical for code quality and maintainability",
+            "courses": [
+              {
+                "title": "JavaScript Testing Introduction",
+                "provider": "Jest Documentation",
+                "platform": "Official Docs",
+                "duration": "2 hours",
+                "cost": "free",
+                "rating": 4.6
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "phase": "Phase 2: Intermediate",
+        "duration": "6-8 weeks",
+        "priority": "medium",
+        "skills": [
+          {
+            "skill": "TypeScript",
+            "reason": "Modern JavaScript with type safety",
+            "courses": [
+              {
+                "title": "TypeScript Tutorial for Beginners",
+                "provider": "Programming with Mosh",
+                "platform": "YouTube",
+                "duration": "1.5 hours",
+                "cost": "free",
+                "rating": 4.9
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "phase": "Phase 3: Advanced",
+        "duration": "4-6 weeks",
+        "priority": "low",
+        "skills": [
+          {
+            "skill": "AWS Basics",
+            "reason": "Cloud deployment and scaling knowledge",
+            "courses": [
+              {
+                "title": "AWS Cloud Practitioner Course",
+                "provider": "freeCodeCamp",
+                "platform": "YouTube",
+                "duration": "4 hours",
+                "cost": "free",
+                "rating": 4.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "career_insights": {
+    "current_level": "intermediate",
+    "target_level": "senior",
+    "salary_potential": {
+      "current_range": "$65,000 - $85,000",
+      "target_range": "$85,000 - $120,000"
+    },
+    "job_market": {
+      "demand": "high",
+      "growth_rate": "22%",
+      "openings": "1.2M+"
+    }
+  },
+  "next_steps": [
+    "Complete Node.js fundamentals course",
+    "Build a full-stack project using learned skills",
+    "Learn testing frameworks (Jest, Cypress)",
+    "Practice TypeScript in personal projects",
+    "Deploy projects to AWS or similar cloud platform"
+  ]
+}

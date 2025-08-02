@@ -48,18 +48,25 @@ class MyState(TypedDict):
 
 
 def agent1_skill_extractor(state):
-    """Extract skills from user input"""
+    """Extract skills from user input with enhanced fallback mechanism"""
     llm = ChatOpenAI(model="gpt-4o", temperature=0)
     
-    prompt = f"""ROLE: Senior NLP engineer.
+    prompt = f"""ROLE: Senior NLP engineer specializing in resume/CV skill extraction.
 TASK:
-1. Read the user's raw resume/CV text or bullet list.
-2. Extract distinct skills.
-3. Normalise synonyms.
+1. Read the user's raw resume/CV text, project descriptions, or bullet list.
+2. Extract distinct technical skills, tools, frameworks, and technologies.
+3. Normalize synonyms (e.g., "React.js" → "react", "Node.js" → "nodejs").
+4. Focus on technical skills relevant for software development careers.
+
 OUTPUT SCHEMA:
-{{"extracted_skills": ["python", "sql"]}}
+{{"extracted_skills": ["python", "sql", "react", "git"]}}
+
 CONSTRAINTS:
-- Max 30 skills, lower-snake-case, no duplicates.
+- Max 30 skills, lowercase, hyphenated format, no duplicates
+- Include programming languages, frameworks, databases, tools, platforms
+- Exclude soft skills, job titles, company names
+- Normalize common variations (JavaScript/JS → "javascript", PostgreSQL/Postgres → "postgresql")
+
 Respond ONLY with valid JSON that matches the schema.
 
 USER INPUT: {state.get('input', '')}"""
@@ -76,17 +83,116 @@ USER INPUT: {state.get('input', '')}"""
             content = content.replace('```', '').strip()
         
         result = json.loads(content)
-        state['extracted_skills'] = result.get('extracted_skills', [])
+        extracted_skills = result.get('extracted_skills', [])
+        
+        # Validate and clean the extracted skills
+        cleaned_skills = []
+        for skill in extracted_skills:
+            if isinstance(skill, str) and len(skill.strip()) > 0:
+                # Normalize skill format
+                normalized_skill = skill.strip().lower().replace(' ', '-')
+                if normalized_skill not in cleaned_skills:
+                    cleaned_skills.append(normalized_skill)
+        
+        state['extracted_skills'] = cleaned_skills[:30]  # Limit to 30 skills
+        
     except (json.JSONDecodeError, KeyError) as e:
         print(f"Agent1 JSON parsing error: {e}")
-        # Try to extract skills manually as fallback
-        content = response.content.lower()
-        if 'python' in content:
-            state['extracted_skills'] = ['python', 'javascript', 'react', 'nodejs', 'mongodb', 'git']
-        else:
-            state['extracted_skills'] = []
+        print(f"Response content: {response.content[:200]}...")
+        
+        # Enhanced fallback mechanism using pattern matching
+        fallback_skills = extract_skills_fallback(state.get('input', ''))
+        state['extracted_skills'] = fallback_skills
+        print(f"Using fallback extraction: {len(fallback_skills)} skills found")
     
     return state
+
+
+def extract_skills_fallback(text: str) -> list[str]:
+    """Enhanced fallback skill extraction using pattern matching"""
+    import re
+    
+    # Comprehensive skill dictionary with common variations
+    skill_patterns = {
+        'python': r'\b(python|py)\b',
+        'javascript': r'\b(javascript|js|java-script)\b',
+        'java': r'\b(java)\b(?!script)',  # Java but not JavaScript
+        'csharp': r'\b(c#|csharp|c-sharp)\b',
+        'cpp': r'\b(c\+\+|cpp|c plus plus)\b',
+        'typescript': r'\b(typescript|ts)\b',
+        'react': r'\b(react|react\.js|reactjs)\b',
+        'nodejs': r'\b(node\.js|nodejs|node js)\b',
+        'vuejs': r'\b(vue\.js|vue|vuejs)\b',
+        'angular': r'\b(angular|angularjs)\b',
+        'django': r'\b(django)\b',
+        'flask': r'\b(flask)\b',
+        'express': r'\b(express|express\.js|expressjs)\b',
+        'mongodb': r'\b(mongodb|mongo)\b',
+        'postgresql': r'\b(postgresql|postgres)\b',
+        'mysql': r'\b(mysql)\b',
+        'sqlite': r'\b(sqlite)\b',
+        'redis': r'\b(redis)\b',
+        'git': r'\b(git)\b',
+        'docker': r'\b(docker)\b',
+        'kubernetes': r'\b(kubernetes|k8s)\b',
+        'aws': r'\b(aws|amazon web services)\b',
+        'azure': r'\b(azure|microsoft azure)\b',
+        'gcp': r'\b(gcp|google cloud|google cloud platform)\b',
+        'html': r'\b(html|html5)\b',
+        'css': r'\b(css|css3)\b',
+        'bootstrap': r'\b(bootstrap)\b',
+        'tailwind': r'\b(tailwind|tailwindcss)\b',
+        'sass': r'\b(sass|scss)\b',
+        'sql': r'\b(sql)\b',
+        'nosql': r'\b(nosql)\b',
+        'rest-api': r'\b(rest|rest api|rest apis|restful)\b',
+        'graphql': r'\b(graphql)\b',
+        'json': r'\b(json)\b',
+        'xml': r'\b(xml)\b',
+        'pandas': r'\b(pandas)\b',
+        'numpy': r'\b(numpy)\b',
+        'scikit-learn': r'\b(scikit-learn|sklearn)\b',
+        'tensorflow': r'\b(tensorflow)\b',
+        'pytorch': r'\b(pytorch)\b',
+        'machine-learning': r'\b(machine learning|ml|machine-learning)\b',
+        'data-science': r'\b(data science|data-science)\b',
+        'deep-learning': r'\b(deep learning|deep-learning)\b',
+        'tableau': r'\b(tableau)\b',
+        'powerbi': r'\b(power bi|powerbi|power-bi)\b',
+        'excel': r'\b(excel|microsoft excel)\b',
+        'jupyter': r'\b(jupyter|jupyter notebook|jupyter notebooks)\b',
+        'linux': r'\b(linux|ubuntu|centos)\b',
+        'windows': r'\b(windows)\b',
+        'macos': r'\b(macos|mac os)\b',
+        'bash': r'\b(bash|shell scripting)\b',
+        'powershell': r'\b(powershell)\b',
+        'jira': r'\b(jira)\b',
+        'confluence': r'\b(confluence)\b',
+        'slack': r'\b(slack)\b',
+        'figma': r'\b(figma)\b',
+        'photoshop': r'\b(photoshop|adobe photoshop)\b'
+    }
+    
+    text_lower = text.lower()
+    extracted_skills = []
+    
+    # Use regex patterns to find skills
+    for skill, pattern in skill_patterns.items():
+        if re.search(pattern, text_lower):
+            if skill not in extracted_skills:
+                extracted_skills.append(skill)
+    
+    # Additional pattern for programming languages mentioned in context
+    prog_lang_pattern = r'\b(programming languages?|languages?|coded?\s+in|built\s+with|using|experience\s+with)\s*:?\s*([a-zA-Z+#.,\s]+)'
+    matches = re.findall(prog_lang_pattern, text_lower)
+    for match in matches:
+        lang_text = match[1]
+        for skill, pattern in skill_patterns.items():
+            if re.search(pattern, lang_text):
+                if skill not in extracted_skills:
+                    extracted_skills.append(skill)
+    
+    return extracted_skills[:30]  # Limit to 30 skills
 
 
 def agent2_gap_analyzer(state):

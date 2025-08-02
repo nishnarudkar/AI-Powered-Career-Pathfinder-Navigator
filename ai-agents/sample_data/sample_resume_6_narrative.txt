@@ -1,0 +1,6 @@
+I am a full-stack developer with extensive experience in building modern web applications. 
+My expertise includes frontend development with React and Vue.js, backend development 
+using Node.js and Express.js, and database management with MongoDB and PostgreSQL. 
+I have worked extensively with JavaScript and TypeScript, and I'm proficient in 
+HTML, CSS, and responsive design. I use Git for version control and have experience 
+with cloud platforms like AWS and deployment tools like Docker.

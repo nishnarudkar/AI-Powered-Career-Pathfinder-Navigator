@@ -1,0 +1,9 @@
+SKILLS:
+✓ Python programming for data science
+✓ SQL database management
+✓ Pandas and NumPy for data manipulation
+✓ Machine Learning with Scikit-Learn
+✓ Data visualization using Tableau
+✓ Git version control
+✓ Jupyter Notebooks
+✓ Statistical analysis
