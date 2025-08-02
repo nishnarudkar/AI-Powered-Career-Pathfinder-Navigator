@@ -14,7 +14,7 @@ An intelligent career guidance platform that analyzes skill gaps and recommends 
 ## 🚀 Quick Demo
 
 ```python
-from career_pathfinder_langgraph import run_pipeline
+from ai_agents.career_pathfinder_langgraph import run_pipeline
 out = run_pipeline(
     input="Experienced in python and sql, built dashboards.",
     target_role="Data Scientist"
@@ -77,6 +77,7 @@ cp .env.example .env
 # Edit .env with your API keys
 
 # Run the AI pipeline
+cd ai-agents
 python career_pathfinder_langgraph.py
 ```
 
@@ -105,18 +106,19 @@ GET  /api/courses          # Course recommendations by skill
 ## 📁 Project Structure
 ```
 AI-Powered-Career-Pathfinder-Navigator/
-├── career_pathfinder_langgraph.py    # ✅ Main AI pipeline implementation
-├── career_logger.py                  # ✅ Logging system
-├── view_logs.py                      # ✅ Log viewer utility
-├── requirements.txt                  # ✅ Python dependencies
-├── documentation.md                  # ✅ Technical documentation
-├── SECURITY.md                       # ✅ Security guidelines
+├── ai-agents/                       # ✅ M2 - AI agents implementation
+│   ├── career_pathfinder_langgraph.py    # Main AI pipeline
+│   ├── career_logger.py                  # Logging system
+│   ├── view_logs.py                      # Log viewer utility
+│   ├── requirements.txt                  # AI agent dependencies
+│   └── career_pathfinder_logs.json       # Execution logs
 ├── data/                            # ✅ Skills & courses dataset
 ├── backend/                         # 🔄 M1 - API development
 ├── frontend/                        # 🔄 M3 - React UI development  
-├── ai-agents/                       # ✅ M2 - AI agents implementation
 ├── docs/                           # ✅ M5 - Documentation
-└── deployment/                     # ⏳ Team - Deployment config
+├── deployment/                     # ⏳ Team - Deployment config
+├── documentation.md                # ✅ Technical documentation
+└── SECURITY.md                     # ✅ Security guidelines
 ```
 
 ## 🤖 AI Agent Architecture
@@ -136,6 +138,7 @@ Input → Agent1 (Skill Extract) → Agent2 (Gap Analysis) → Agent3 (Roadmap) 
 
 ```bash
 # View execution logs
+cd ai-agents
 python view_logs.py --stats
 
 # Filter by target role
