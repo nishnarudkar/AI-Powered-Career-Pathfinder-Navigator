@@ -1,0 +1,434 @@
+{
+  "Python": [
+    "Python for Everybody - Coursera (University of Michigan)",
+    "Introduction to Python Programming - IBM SkillsBuild",
+    "Python Tutorial for Beginners - Programming with Mosh (YouTube)",
+    "Automate the Boring Stuff with Python - Free Book & Course"
+  ],
+  "SQL": [
+    "SQL for Data Science - Coursera (UC Davis)",
+    "Introduction to SQL - IBM SkillsBuild",
+    "SQL Tutorial - Full Database Course for Beginners - freeCodeCamp (YouTube)",
+    "W3Schools SQL Tutorial - Free Online"
+  ],
+  "Pandas": [
+    "Data Analysis with Python - freeCodeCamp (YouTube)",
+    "Pandas Tutorial Series - Corey Schafer (YouTube)",
+    "Python for Data Analysis - IBM SkillsBuild",
+    "Pandas Documentation - Official Tutorials"
+  ],
+  "NumPy": [
+    "NumPy Tutorial for Beginners - Keith Galli (YouTube)",
+    "Scientific Computing with Python - freeCodeCamp",
+    "NumPy Quickstart Tutorial - Official Documentation",
+    "Python NumPy Tutorial - W3Schools"
+  ],
+  "Machine Learning": [
+    "Machine Learning Course - Andrew Ng (Coursera)",
+    "Machine Learning Crash Course - Google AI",
+    "Introduction to Machine Learning - IBM SkillsBuild",
+    "Machine Learning Tutorial Python - TechWorld with Nana (YouTube)"
+  ],
+  "Scikit-Learn": [
+    "Scikit-Learn Tutorial - Data School (YouTube)",
+    "Machine Learning with Python - IBM SkillsBuild",
+    "Scikit-Learn User Guide - Official Documentation",
+    "Python Machine Learning Tutorial - Sentdex (YouTube)"
+  ],
+  "Statistics": [
+    "Statistics Fundamentals - StatQuest (YouTube)",
+    "Introduction to Statistics - Khan Academy",
+    "Statistics for Data Science - IBM SkillsBuild",
+    "Think Stats - Free Online Book"
+  ],
+  "Data Visualization": [
+    "Data Visualization with Python - IBM SkillsBuild",
+    "Matplotlib Tutorial Series - Corey Schafer (YouTube)",
+    "Data Visualization - Coursera (University of Illinois)",
+    "Seaborn Tutorial - Official Documentation"
+  ],
+  "Jupyter Notebooks": [
+    "Jupyter Notebook Tutorial - Corey Schafer (YouTube)",
+    "Getting Started with Jupyter Notebook - IBM SkillsBuild",
+    "Jupyter Notebook Tutorial for Beginners - edureka! (YouTube)",
+    "JupyterLab Documentation - Official Guide"
+  ],
+  "Git": [
+    "Git Tutorial for Beginners - Programming with Mosh (YouTube)",
+    "Version Control with Git - Coursera (Atlassian)",
+    "Git and GitHub Crash Course - Traversy Media (YouTube)",
+    "Learn Git Branching - Interactive Tutorial"
+  ],
+  "R Programming": [
+    "R Programming - Coursera (Johns Hopkins University)",
+    "R Tutorial for Beginners - edureka! (YouTube)",
+    "Introduction to R - DataCamp (Free Introduction)",
+    "R for Data Science - Free Online Book"
+  ],
+  "TensorFlow": [
+    "TensorFlow Developer Certificate - Coursera (DeepLearning.AI)",
+    "TensorFlow 2.0 Complete Course - TensorFlow (YouTube)",
+    "Introduction to TensorFlow - IBM SkillsBuild",
+    "TensorFlow Tutorials - Official Documentation"
+  ],
+  "Tableau": [
+    "Tableau Public Training - Free Official Training",
+    "Data Visualization with Tableau - Coursera (UC Davis)",
+    "Tableau Tutorial for Beginners - edureka! (YouTube)",
+    "Tableau Desktop Specialist - Official Certification Path"
+  ],
+  "Excel": [
+    "Excel Skills for Business - Coursera (Macquarie University)",
+    "Microsoft Excel Tutorial - ExcelExposure (YouTube)",
+    "Excel Basics - IBM SkillsBuild",
+    "Excel Tutorial - Microsoft Learn (Free)"
+  ],
+  "HTML": [
+    "HTML Full Course - Build a Website Tutorial - freeCodeCamp (YouTube)",
+    "Introduction to Web Development - IBM SkillsBuild",
+    "HTML Tutorial - W3Schools",
+    "Responsive Web Design - freeCodeCamp"
+  ],
+  "CSS": [
+    "CSS Tutorial - Full Course for Beginners - freeCodeCamp (YouTube)",
+    "CSS Flexbox Course - freeCodeCamp",
+    "CSS Grid Course - freeCodeCamp",
+    "CSS Tutorial - W3Schools"
+  ],
+  "JavaScript": [
+    "JavaScript Tutorial for Beginners - Programming with Mosh (YouTube)",
+    "JavaScript Algorithms and Data Structures - freeCodeCamp",
+    "Modern JavaScript Course - The Net Ninja (YouTube)",
+    "JavaScript.info - Modern JavaScript Tutorial"
+  ],
+  "React": [
+    "React Tutorial for Beginners - Programming with Mosh (YouTube)",
+    "React - The Complete Guide - Academind (YouTube)",
+    "Full Stack Open - University of Helsinki (Free)",
+    "React Documentation - Official Tutorial"
+  ],
+  "Node.js": [
+    "Node.js Tutorial for Beginners - Programming with Mosh (YouTube)",
+    "Node.js Crash Course - Traversy Media (YouTube)",
+    "Introduction to Node.js - IBM SkillsBuild",
+    "Node.js Tutorial - W3Schools"
+  ],
+  "Express.js": [
+    "Express.js Tutorial - The Net Ninja (YouTube)",
+    "Node.js and Express.js Full Course - freeCodeCamp (YouTube)",
+    "Express.js Guide - Official Documentation",
+    "RESTful APIs with Node.js and Express - Traversy Media (YouTube)"
+  ],
+  "MongoDB": [
+    "MongoDB Tutorial for Beginners - Programming with Mosh (YouTube)",
+    "MongoDB Crash Course - Traversy Media (YouTube)",
+    "Introduction to MongoDB - MongoDB University (Free)",
+    "MongoDB Tutorial - W3Schools"
+  ],
+  "REST APIs": [
+    "REST API Tutorial - Programming with Mosh (YouTube)",
+    "APIs for Beginners - freeCodeCamp (YouTube)",
+    "RESTful Web Services Tutorial - edureka! (YouTube)",
+    "Understanding REST APIs - IBM SkillsBuild"
+  ],
+  "JSON": [
+    "JSON Tutorial - Programming with Mosh (YouTube)",
+    "Working with JSON Data - freeCodeCamp",
+    "JSON Tutorial - W3Schools",
+    "JSON Crash Course - Traversy Media (YouTube)"
+  ],
+  "Bootstrap": [
+    "Bootstrap Tutorial for Beginners - The Net Ninja (YouTube)",
+    "Bootstrap 5 Crash Course - Traversy Media (YouTube)",
+    "Bootstrap Tutorial - W3Schools",
+    "Bootstrap Documentation - Official Guide"
+  ],
+  "TypeScript": [
+    "TypeScript Tutorial for Beginners - Programming with Mosh (YouTube)",
+    "TypeScript Course - freeCodeCamp (YouTube)",
+    "TypeScript Handbook - Official Documentation",
+    "Learn TypeScript - Codecademy (Free Introduction)"
+  ],
+  "AWS Basics": [
+    "AWS Cloud Practitioner Course - freeCodeCamp (YouTube)",
+    "Introduction to AWS - Amazon Web Services Training",
+    "AWS Fundamentals - Coursera (Amazon Web Services)",
+    "AWS Certified Cloud Practitioner - A Cloud Guru"
+  ],
+  "Testing": [
+    "JavaScript Testing Introduction - Jest Documentation",
+    "Unit Testing Tutorial - Programming with Mosh (YouTube)",
+    "Testing JavaScript Applications - Kent C. Dodds (YouTube)",
+    "Software Testing Tutorial - Guru99"
+  ],
+  "PyTorch": [
+    "PyTorch Tutorial for Beginners - Python Engineer (YouTube)",
+    "Deep Learning with PyTorch - freeCodeCamp (YouTube)",
+    "PyTorch Tutorials - Official Documentation",
+    "Introduction to Deep Learning with PyTorch - Coursera"
+  ],
+  "Deep Learning": [
+    "Deep Learning Specialization - Coursera (DeepLearning.AI)",
+    "Deep Learning Crash Course - MIT (YouTube)",
+    "Neural Networks and Deep Learning - 3Blue1Brown (YouTube)",
+    "Introduction to Deep Learning - IBM SkillsBuild"
+  ],
+  "Neural Networks": [
+    "Neural Networks Explained - 3Blue1Brown (YouTube)",
+    "Neural Network Programming - Sentdex (YouTube)",
+    "Build a Neural Network from Scratch - freeCodeCamp (YouTube)",
+    "Introduction to Neural Networks - Coursera"
+  ],
+  "Computer Vision": [
+    "Computer Vision Course - freeCodeCamp (YouTube)",
+    "OpenCV Python Tutorial - Tech With Tim (YouTube)",
+    "Computer Vision Fundamentals - IBM SkillsBuild",
+    "CS231n: Convolutional Neural Networks - Stanford (YouTube)"
+  ],
+  "NLP": [
+    "Natural Language Processing - Coursera (DeepLearning.AI)",
+    "NLP with Python Tutorial - freeCodeCamp (YouTube)",
+    "NLTK Tutorial - Python Programming (YouTube)",
+    "Introduction to NLP - IBM SkillsBuild"
+  ],
+  "Docker": [
+    "Docker Tutorial for Beginners - Programming with Mosh (YouTube)",
+    "Docker Crash Course - Traversy Media (YouTube)",
+    "Docker Mastery - Complete Toolset - Udemy Preview (YouTube)",
+    "Introduction to Containers and Docker - IBM SkillsBuild"
+  ],
+  "Cloud Computing": [
+    "Cloud Computing Full Course - edureka! (YouTube)",
+    "Introduction to Cloud Computing - IBM SkillsBuild",
+    "Cloud Computing Concepts - Coursera (University of Illinois)",
+    "AWS vs Azure vs Google Cloud - Comparison"
+  ],
+  "MLOps": [
+    "MLOps Tutorial - Machine Learning Operations - freeCodeCamp (YouTube)",
+    "Introduction to MLOps - Google Cloud (YouTube)",
+    "MLOps Course - Made With ML",
+    "MLOps Fundamentals - IBM SkillsBuild"
+  ],
+  "Linear Algebra": [
+    "Linear Algebra - 3Blue1Brown (YouTube)",
+    "Linear Algebra Course - Khan Academy",
+    "Mathematics for Machine Learning - Coursera (Imperial College)",
+    "Linear Algebra Review - Andrew Ng (Coursera)"
+  ],
+  "Linux": [
+    "Linux Tutorial for Beginners - edureka! (YouTube)",
+    "Linux Command Line Basics - Traversy Media (YouTube)",
+    "Introduction to Linux - Linux Foundation (Free)",
+    "Linux Crash Course - Ryan's Tutorials"
+  ],
+  "Kubernetes": [
+    "Kubernetes Tutorial for Beginners - TechWorld with Nana (YouTube)",
+    "Kubernetes Course - freeCodeCamp (YouTube)",
+    "Introduction to Kubernetes - IBM SkillsBuild",
+    "Kubernetes Documentation - Official Tutorials"
+  ],
+  "CI/CD": [
+    "DevOps CI/CD Pipeline Tutorial - TechWorld with Nana (YouTube)",
+    "GitHub Actions Tutorial - Programming with Mosh (YouTube)",
+    "Introduction to DevOps - IBM SkillsBuild",
+    "CI/CD Pipeline Tutorial - edureka! (YouTube)"
+  ],
+  "Jenkins": [
+    "Jenkins Tutorial for Beginners - edureka! (YouTube)",
+    "Jenkins Full Course - Simplilearn (YouTube)",
+    "Getting Started with Jenkins - Official Documentation",
+    "DevOps with Jenkins - TechWorld with Nana (YouTube)"
+  ],
+  "Terraform": [
+    "Terraform Tutorial for Beginners - TechWorld with Nana (YouTube)",
+    "Terraform Course - freeCodeCamp (YouTube)",
+    "Introduction to Terraform - HashiCorp Learn",
+    "Terraform AWS Tutorial - Traversy Media (YouTube)"
+  ],
+  "Ansible": [
+    "Ansible Tutorial for Beginners - TechWorld with Nana (YouTube)",
+    "Ansible Full Course - edureka! (YouTube)",
+    "Getting Started with Ansible - Red Hat Learning",
+    "Ansible Crash Course - Jeff Geerling (YouTube)"
+  ],
+  "Monitoring": [
+    "Prometheus and Grafana Tutorial - TechWorld with Nana (YouTube)",
+    "System Monitoring with Prometheus - freeCodeCamp (YouTube)",
+    "Application Monitoring - IBM SkillsBuild",
+    "DevOps Monitoring Tutorial - edureka! (YouTube)"
+  ],
+  "Shell Scripting": [
+    "Shell Scripting Tutorial - Programming Knowledge (YouTube)",
+    "Bash Scripting Full Course - LinuxHint (YouTube)",
+    "Shell Scripting Crash Course - Traversy Media (YouTube)",
+    "Introduction to Shell Scripting - Linux Academy"
+  ],
+  "Networking": [
+    "Computer Networking Full Course - Gate Smashers (YouTube)",
+    "Networking Fundamentals - Professor Messer (YouTube)",
+    "Introduction to Networking - IBM SkillsBuild",
+    "Network+ Course - Professor Messer (Free)"
+  ],
+  "Security Basics": [
+    "Cybersecurity Full Course - freeCodeCamp (YouTube)",
+    "Information Security Tutorial - edureka! (YouTube)",
+    "Introduction to Cybersecurity - IBM SkillsBuild",
+    "Security+ Training Course - Professor Messer (Free)"
+  ],
+  "YAML": [
+    "YAML Tutorial for Beginners - TechWorld with Nana (YouTube)",
+    "YAML Crash Course - Traversy Media (YouTube)",
+    "YAML Tutorial - W3Schools",
+    "Introduction to YAML - Official Documentation"
+  ],
+  "Network Security": [
+    "Network Security Tutorial - edureka! (YouTube)",
+    "Cybersecurity Fundamentals - IBM SkillsBuild",
+    "Network Security Course - Cybrary (Free)",
+    "CISSP Training - Kelly Handerhan (YouTube)"
+  ],
+  "Ethical Hacking": [
+    "Ethical Hacking Full Course - edureka! (YouTube)",
+    "Penetration Testing Course - freeCodeCamp (YouTube)",
+    "Introduction to Ethical Hacking - IBM SkillsBuild",
+    "CEH Tutorial - Simplilearn (YouTube)"
+  ],
+  "Risk Assessment": [
+    "Risk Management Tutorial - Simplilearn (YouTube)",
+    "Cybersecurity Risk Assessment - IBM SkillsBuild",
+    "NIST Cybersecurity Framework - Official Guide",
+    "Risk Assessment Fundamentals - Cybrary (Free)"
+  ],
+  "Incident Response": [
+    "Incident Response Tutorial - Cybrary (Free)",
+    "Cyber Incident Response - IBM SkillsBuild",
+    "SANS Incident Response - Free Resources",
+    "Incident Response Planning - edureka! (YouTube)"
+  ],
+  "SIEM Tools": [
+    "SIEM Tutorial - Cybrary (Free)",
+    "Splunk Tutorial for Beginners - edureka! (YouTube)",
+    "Security Information and Event Management - IBM SkillsBuild",
+    "ELK Stack Tutorial - TechWorld with Nana (YouTube)"
+  ],
+  "Vulnerability Assessment": [
+    "Vulnerability Assessment Tutorial - edureka! (YouTube)",
+    "Nessus Tutorial - StationX (YouTube)",
+    "Vulnerability Management - IBM SkillsBuild",
+    "OpenVAS Tutorial - Cybrary (Free)"
+  ],
+  "Compliance": [
+    "Compliance and Audit Tutorial - Simplilearn (YouTube)",
+    "GDPR Compliance Course - IBM SkillsBuild",
+    "SOX Compliance Tutorial - Edureka (YouTube)",
+    "Regulatory Compliance Fundamentals - Coursera"
+  ],
+  "Windows Security": [
+    "Windows Security Tutorial - Professor Messer (YouTube)",
+    "Active Directory Tutorial - IT FreeTraining (YouTube)",
+    "Windows Server Security - Microsoft Learn",
+    "PowerShell for Security - John Hammond (YouTube)"
+  ],
+  "Cryptography": [
+    "Cryptography Course - Christof Paar (YouTube)",
+    "Introduction to Cryptography - Khan Academy",
+    "Applied Cryptography - IBM SkillsBuild",
+    "Cryptography Tutorial - Computerphile (YouTube)"
+  ],
+  "Penetration Testing": [
+    "Penetration Testing Course - freeCodeCamp (YouTube)",
+    "Kali Linux Tutorial - NetworkChuck (YouTube)",
+    "Penetration Testing - IBM SkillsBuild",
+    "Metasploit Tutorial - Cybrary (Free)"
+  ],
+  "Security Frameworks": [
+    "NIST Cybersecurity Framework Tutorial - Simplilearn (YouTube)",
+    "ISO 27001 Tutorial - edureka! (YouTube)",
+    "Security Frameworks Overview - IBM SkillsBuild",
+    "CIS Controls Tutorial - Center for Internet Security"
+  ],
+  "Forensics": [
+    "Digital Forensics Tutorial - edureka! (YouTube)",
+    "Computer Forensics Course - Cybrary (Free)",
+    "Digital Forensics Fundamentals - IBM SkillsBuild",
+    "Autopsy Digital Forensics - 13Cubed (YouTube)"
+  ],
+  "Threat Intelligence": [
+    "Threat Intelligence Tutorial - Cybrary (Free)",
+    "Cyber Threat Intelligence - IBM SkillsBuild",
+    "MITRE ATT&CK Framework - Official Training",
+    "Threat Hunting Tutorial - SANS (YouTube)"
+  ],
+  "Java": [
+    "Java Tutorial for Beginners - Programming with Mosh (YouTube)",
+    "Java Full Course - Bro Code (YouTube)",
+    "Introduction to Java - IBM SkillsBuild",
+    "Java Documentation - Oracle Official Tutorial"
+  ],
+  "Kotlin": [
+    "Kotlin Tutorial for Beginners - freeCodeCamp (YouTube)",
+    "Android Kotlin Course - Google Developers (YouTube)",
+    "Kotlin Bootcamp - Google Developers",
+    "Learn Kotlin - JetBrains Academy"
+  ],
+  "Swift": [
+    "Swift Tutorial for Beginners - CodeWithChris (YouTube)",
+    "iOS Development Course - freeCodeCamp (YouTube)",
+    "Swift Playgrounds - Apple Developer",
+    "100 Days of Swift - Hacking with Swift"
+  ],
+  "React Native": [
+    "React Native Tutorial - Programming with Mosh (YouTube)",
+    "React Native Crash Course - Traversy Media (YouTube)",
+    "React Native Course - The Net Ninja (YouTube)",
+    "React Native Documentation - Official Tutorial"
+  ],
+  "Flutter": [
+    "Flutter Tutorial for Beginners - The Net Ninja (YouTube)",
+    "Flutter Course - freeCodeCamp (YouTube)",
+    "Flutter Development - Google Developers (YouTube)",
+    "Flutter Documentation - Official Tutorials"
+  ],
+  "Dart": [
+    "Dart Programming Tutorial - freeCodeCamp (YouTube)",
+    "Learn Dart - Official Documentation",
+    "Dart Course for Beginners - The Net Ninja (YouTube)",
+    "DartPad - Interactive Dart Tutorial"
+  ],
+  "Android Studio": [
+    "Android Studio Tutorial - Programming Knowledge (YouTube)",
+    "Android Development Course - Google Developers",
+    "Android Studio Guide - Official Documentation",
+    "Android Basics - Google Developer Training"
+  ],
+  "Xcode": [
+    "Xcode Tutorial for Beginners - CodeWithChris (YouTube)",
+    "iOS Development with Xcode - Apple Developer",
+    "Xcode Interface Tutorial - Sean Allen (YouTube)",
+    "Getting Started with Xcode - Apple Documentation"
+  ],
+  "Mobile UI/UX": [
+    "Mobile UI/UX Design Course - freeCodeCamp (YouTube)",
+    "Mobile App Design - Google Design",
+    "iOS Human Interface Guidelines - Apple",
+    "Material Design for Android - Google"
+  ],
+  "App Store Deployment": [
+    "How to Upload App to App Store - CodeWithChris (YouTube)",
+    "Google Play Console Tutorial - Android Developers",
+    "App Store Connect Guide - Apple Developer",
+    "Mobile App Publishing - Complete Guide"
+  ],
+  "Firebase": [
+    "Firebase Tutorial - The Net Ninja (YouTube)",
+    "Firebase Crash Course - Traversy Media (YouTube)",
+    "Firebase for Web - Google (YouTube)",
+    "Firebase Documentation - Official Guide"
+  ],
+  "SQLite": [
+    "SQLite Tutorial - freeCodeCamp (YouTube)",
+    "SQLite Database Tutorial - Derek Banas (YouTube)",
+    "SQLite with Android - Coding in Flow (YouTube)",
+    "SQLite Documentation - Official Tutorial"
+  ]
+}
