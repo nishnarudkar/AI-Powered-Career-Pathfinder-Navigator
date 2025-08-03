@@ -1,129 +1,93 @@
-# 🚀 AI Career Pathfinder
+# 🚀 AI-Powered Career Pathfinder Navigator
 
-Welcome to the AI Career Pathfinder! This intelligent web application helps users chart a personalized journey to their dream tech career. By analyzing a user's resume, the application identifies existing skills, and then generates a custom, step-by-step learning roadmap to bridge the gap to their desired job role, complete with curated course recommendations.
-
-![AI Career Pathfinder Screenshot](https://i.imgur.com/rS2UaYy.png)
+Welcome to the **AI-Powered Career Pathfinder Navigator**!  
+This intelligent platform helps tech professionals analyze their skills, identify gaps, and receive personalized learning roadmaps to achieve their dream tech jobs.
 
 ---
 
 ## ✨ Features
 
-* **📄 Intelligent Resume Analysis**: Upload your resume in PDF or DOCX format. The app automatically extracts and identifies your key technical skills.
-* **🎯 Target Role Selection**: Choose from a list of popular tech job roles that you aspire to.
-* **🗺️ Dynamic Learning Roadmaps**: Generates a personalized, phased learning plan based on the gap between your current skills and the requirements of your target role.
-* **📚 Curated Course Recommendations**: Each step in the roadmap includes a specific, relevant course suggestion to help you learn the required skill.
-* **🤖 Powered by Large Language Models**: Utilizes the power of LangChain and OpenAI to understand skills, analyze job requirements, and build logical learning paths.
-* **🌐 Interactive Web Interface**: A sleek, modern, and user-friendly interface built with Flask and JavaScript.
+- **📄 Resume Analysis**: Upload your resume (PDF/DOCX) and let the system extract and identify your technical skills.
+- **🎯 Target Role Selection**: Choose your desired tech job role from a curated list.
+- **🗺️ Personalized Learning Roadmaps**: Get a logical, phased learning plan tailored to bridge your skill gaps.
+- **📚 Curated Course Recommendations**: Each roadmap step includes a recommended course to help you progress.
+- **🤖 AI Powered**: Built on LangChain, LangGraph, and OpenAI for advanced skill analysis and roadmap generation.
+- **🌐 Modern Web UI**: Interactive, responsive interface built with Flask and JavaScript.
 
 ---
 
-## ⚙️ How It Works
+## 🖼️ Screenshots
 
-The application follows a simple, three-step process to create your personalized roadmap:
+> Replace the image links below with your actual screenshots if needed.
 
-1.  **Upload Your Resume**: The user uploads their resume. The Flask backend processes the file, extracts the raw text, and prepares it for analysis.
-2.  **Select Target Job Role**: The user selects their desired job role from a dropdown menu. The application then uses its AI pipeline to analyze the user's extracted resume text to identify a list of current skills.
-3.  **Generate Learning Roadmap**: With the current skills and the target role identified, the user clicks "Generate". The backend sends this information to the core AI pipeline, which:
-    * Compares the user's skills to the required skills for the target role.
-    * Identifies the knowledge gap.
-    * Generates a logical, step-by-step roadmap to fill that gap.
-    * Suggests relevant online courses for each skill in the roadmap.
-    * Sends the complete roadmap back to the frontend to be displayed in a timeline format.
+### Landing Page
+![Landing Page](https://i.imgur.com/rS2UaYy.png)
+
+### Resume Upload & Analysis
+![Resume Upload](https://i.imgur.com/rS2UaYy.png)
+
+### Personalized Roadmap Output
+![Roadmap Output](https://i.imgur.com/rS2UaYy.png)
 
 ---
 
-## 🛠️ Tech Stack
+## 👥 Meet the Team
 
-This project is built with a modern stack, combining a Python backend for AI processing with a dynamic HTML/CSS/JS frontend.
+This project is a team effort!  
+**Team Members:**
+- [Nishant Narudkar](https://github.com/nishnarudkar) — Backend, AI Integration & Testing
+- [Vatsal Parmar](https://github.com/Vatsal211005) — Frontend Development
+- [Maitreya Pawar](https://github.com/Metzo64) — Data Curation
+- [Saksham Shukla](https://github.com/Saksham-3175) — AI Agents & ML
+- [Aamir Sarang](https://github.com/Aamir-Sarang31) — Documentation 
 
-* **Backend**:
-    * **[Flask](https://flask.palletsprojects.com/)**: A lightweight web framework for Python.
-    * **[LangChain](https://www.langchain.com/)**: A framework for developing applications powered by language models.
-    * **[LangGraph](https://langchain-ai.github.io/langgraph/)**: A library for building stateful, multi-actor applications with LLMs.
-    * **[OpenAI API](https://beta.openai.com/docs/)**: Used for the core intelligence of the application.
-    * **[PyPDF2](https://pypdf2.readthedocs.io/) & [python-docx](https://python-docx.readthedocs.io/)**: For extracting text from uploaded resumes.
+---
 
-* **Frontend**:
-    * **HTML5**
-    * **CSS3** (with modern styling and animations)
-    * **JavaScript (ES6+)**: For dynamic interactions and API communication (`fetch`).
+## ⚙️ Tech Stack
 
-* **Development & Deployment**:
-    * **Python 3.10+**
-    * **virtualenv**: For managing project dependencies.
-    * **Gunicorn / Waitress**: (Recommended for production deployment).
+- **Backend**: Python 3.10+, Flask, LangChain, LangGraph, OpenAI API, PyPDF2, python-docx
+- **Frontend**: HTML5, CSS3, JavaScript (ES6+)
+- **Data**: JSON (Courses & Job Roles)
+- **Deployment**: virtualenv, Gunicorn/Waitress
 
 ---
 
 ## 🚀 Getting Started
 
-To get a local copy up and running, follow these simple steps.
+**Prerequisites**
+- Python 3.10+
+- [OpenAI API Key](https://platform.openai.com/signup)
+- [LangSmith API Key](https://www.langchain.com/langsmith) (optional)
 
-### Prerequisites
+**Installation**
+```sh
+git clone https://github.com/nishnarudkar/AI-Powered-Career-Pathfinder-Navigator.git
+cd AI-Powered-Career-Pathfinder-Navigator/development
+python3 -m venv venv
+source venv/bin/activate  # On Windows: .\venv\Scripts\activate
+pip install -r requirements.txt
+```
 
-* Python 3.10 or higher
-* An API Key from [OpenAI](https://platform.openai.com/signup)
-* An API Key from [LangSmith](https://www.langchain.com/langsmith) (Optional, for tracing)
+**Set Environment Variables**
+Create `.env` in `development` folder:
+```
+OPENAI_API_KEY="your_openai_api_key_here"
+LANGSMITH_API_KEY="your_langsmith_api_key_here"
+```
 
-### Installation
-
-1.  **Clone the repository:**
-    ```sh
-    git clone [https://github.com/your-username/ai-career-pathfinder.git](https://github.com/your-username/ai-career-pathfinder.git)
-    cd ai-career-pathfinder
-    ```
-
-2.  **Navigate to the backend and set up the environment:**
-    ```sh
-    cd backend
-    ```
-    * **Create and activate a virtual environment:**
-        * On macOS/Linux:
-            ```sh
-            python3 -m venv venv
-            source venv/bin/activate
-            ```
-        * On Windows:
-            ```sh
-            python -m venv venv
-            .\venv\Scripts\activate
-            ```
-
-3.  **Install the required dependencies:**
-    ```sh
-    pip install -r requirements.txt
-    ```
-
-4.  **Set up your environment variables:**
-    * Create a new file named `.env` in the `backend` directory.
-    * Add your API keys to this file:
-        ```
-        OPENAI_API_KEY="your_openai_api_key_here"
-        LANGSMITH_API_KEY="your_langsmith_api_key_here"
-        ```
-
-### Running the Application
-
-1.  **Start the Flask server from the `backend` directory:**
-    ```sh
-    # Make sure you are in the /backend directory
-    flask run
-    ```
-    Or, more explicitly:
-    ```sh
-    python app.py
-    ```
-
-2.  **Open your browser:**
-    Navigate to `http://127.0.0.1:5000` and you should see the application running!
+**Run the Application**
+```sh
+flask run
+# or
+python app.py
+```
+Open [http://127.0.0.1:5000](http://127.0.0.1:5000) in your browser.
 
 ---
 
 ## 📂 Project Structure
 
-Here is an overview of the new, organized project structure:
-
-
+```
 /ai-career-pathfinder
 │
 ├── frontend/
@@ -151,12 +115,14 @@ Here is an overview of the new, organized project structure:
 ├── docs/
 │   └── (e.g., architecture.md)     # For project documentation, diagrams, etc.
 │
-└── README.md                       # This file
-
+└── README.md                      
+```
 
 ---
 
 ## 🙏 Acknowledgements
 
-* This project was inspired by the need for personalized career guidance in the ever-evolving tech industry.
-* Special thanks to the teams behind LangChain and OpenAI for their incredible tools.
+- Inspired by the need for accessible, personalized career guidance for tech professionals.
+- Thanks to the teams behind [LangChain](https://www.langchain.com/) and [OpenAI](https://openai.com/) for making this possible.
+
+---
