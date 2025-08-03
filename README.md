@@ -1,207 +1,149 @@
-# 🚀 AI-Powered Career Pathfinder Navigator
+# 🚀 AI Career Pathfinder
 
-## � Project Overview
-An intelligent career guidance platform that analyzes skill gaps and recommends personalized learning paths using AI agents. Built with a multi-agent LangGraph pipeline powered by OpenAI GPT-4o.
+Welcome to the AI Career Pathfinder! This intelligent web application helps users chart a personalized journey to their dream tech career. By analyzing a user's resume, the application identifies existing skills, and then generates a custom, step-by-step learning roadmap to bridge the gap to their desired job role, complete with curated course recommendations.
 
-## ✨ Features
-- 🔍 **Skill Gap Analysis**: Compare your skills with job requirements using AI
-- 🎯 **Personalized Learning Paths**: AI-curated course recommendations with 3-phase roadmaps
-- 📊 **Career Roadmaps**: Visual progression paths for 6+ tech careers
-- 🤖 **Resume Parsing**: Automatic skill extraction from resumes/CVs
-- 📈 **Progress Tracking**: Comprehensive logging and analytics system
-- 🛠️ **Multi-Agent Pipeline**: LangGraph-based workflow with skill extraction, gap analysis, and roadmap creation
-
-## 🚀 Quick Demo
-
-```python
-from ai_agents.career_pathfinder_langgraph import run_pipeline
-out = run_pipeline(
-    input="Experienced in python and sql, built dashboards.",
-    target_role="Data Scientist"
-)
-print(out["roadmap"][0])
-```
-
-## 🛠️ Tech Stack
-- **Backend**: Python 3.12+, Flask/FastAPI
-- **Frontend**: React, Tailwind CSS
-- **AI/ML**: OpenAI GPT-4o, LangGraph, LangChain
-- **Database**: MongoDB/PostgreSQL
-- **Data**: JSON-based skill and course mappings
-- **Logging**: Comprehensive execution tracking and analytics
-
-## 👥 Team Structure
-| Role | Member | Folder | Responsibilities |
-|------|--------|--------|------------------|
-| **M1** | Backend Lead | `/backend` | API development, database, server setup |
-| **M2** | AI Agent Developer | `/ai-agents` | Gap analysis, learning path, NLP agents ✅ |
-| **M3** | Frontend Developer | `/frontend` | React UI, user experience, dashboard |
-| **M4** | Data Curator | `/data` | Job roles, skills mapping, course curation ✅ |
-| **M5** | Documentation | `/docs` | Technical docs, user guides, presentations ✅ |
-
-## 🎯 Supported Career Paths
-- 📊 **Data Scientist** (14 skills mapped)
-- 💻 **Full Stack Web Developer** (15 skills mapped) ✅ Implemented
-- 🤖 **AI/ML Engineer** (15 skills mapped)
-- ⚙️ **DevOps Engineer** (15 skills mapped)
-- 🔒 **Cybersecurity Analyst** (15 skills mapped)
-- 📱 **Mobile App Developer** (15 skills mapped)
-
-## 📊 Dataset Overview
-- **89 Technical Skills** mapped across 6 career paths
-- **200+ Learning Resources** from IBM SkillsBuild, Coursera, YouTube
-- **70% Free Resources** ensuring accessibility
-- **JSON-based structure** optimized for AI agent integration
-
-## 🚀 Installation & Setup
-
-### Prerequisites
-```bash
-- Python 3.12+
-- OpenAI API Key
-- LangSmith API Key (optional)
-- Node.js 16+ (for frontend)
-```
-
-### AI Agents Setup (Currently Implemented)
-```bash
-# Clone repository
-git clone https://github.com/nishnarudkar/AI-Powered-Career-Pathfinder-Navigator.git
-cd AI-Powered-Career-Pathfinder-Navigator
-
-# Install AI agent dependencies
-pip install -r requirements.txt
-
-# Setup environment variables
-cp .env.example .env
-# Edit .env with your API keys
-
-# Run the AI pipeline
-cd ai-agents
-python career_pathfinder_langgraph.py
-```
-
-### Full Stack Setup (Coming Soon)
-```bash
-# Backend setup (M1's work)
-cd backend
-pip install -r requirements.txt
-python app.py
-
-# Frontend setup (M3's work)  
-cd frontend
-npm install
-npm start
-```
-
-## 🔧 API Endpoints
-```
-POST /api/analyze-skills    # Skill gap analysis ✅ Implemented
-POST /api/learning-path     # Get personalized recommendations ✅ Implemented
-POST /api/upload-resume     # Resume parsing and skill extraction ✅ Implemented
-GET  /api/career-paths      # Available career paths
-GET  /api/courses          # Course recommendations by skill
-```
-
-## 📁 Project Structure
-```
-AI-Powered-Career-Pathfinder-Navigator/
-├── ai-agents/                       # ✅ M2 - AI agents implementation
-│   ├── career_pathfinder_langgraph.py    # Main AI pipeline
-│   ├── career_logger.py                  # Logging system
-│   ├── view_logs.py                      # Log viewer utility
-│   ├── requirements.txt                  # AI agent dependencies
-│   └── career_pathfinder_logs.json       # Execution logs
-├── data/                            # ✅ Skills & courses dataset
-├── backend/                         # 🔄 M1 - API development
-├── frontend/                        # 🔄 M3 - React UI development  
-├── docs/                           # ✅ M5 - Documentation
-├── deployment/                     # ⏳ Team - Deployment config
-├── documentation.md                # ✅ Technical documentation
-└── SECURITY.md                     # ✅ Security guidelines
-```
-
-## 🤖 AI Agent Architecture
-
-The system uses a multi-agent pipeline built with LangGraph:
-
-```
-Input → Agent1 (Skill Extract) → Agent2 (Gap Analysis) → Agent3 (Roadmap) → Output
-```
-
-### Agent Functions
-- **Agent 1**: Extracts technical skills from resume/CV text
-- **Agent 2**: Compares user skills with target role requirements
-- **Agent 3**: Creates structured 3-phase learning roadmap with course recommendations
-
-## 📊 Logging & Analytics
-
-```bash
-# View execution logs
-cd ai-agents
-python view_logs.py --stats
-
-# Filter by target role
-python view_logs.py --role "Data Scientist"
-
-# Full roadmap details
-python view_logs.py --full
-```
-
-## 🤝 Contributing
-1. Accept collaboration invitation (check email)
-2. Clone repository: `git clone [repo-url]`
-3. Create feature branch: `git checkout -b feature/your-feature`
-4. Work in your assigned folder
-5. Commit changes: `git commit -m 'Add amazing feature'`
-6. Push to branch: `git push origin feature/your-feature`
-7. Create Pull Request for review
-
-## 📚 Data Integration
-
-### AI Agent Usage (M2) ✅ Implemented
-```python
-# Complete pipeline execution
-result = run_pipeline(
-    input="Software Engineer with Python experience",
-    target_role="Senior Full Stack Developer",
-    log_execution=True
-)
-
-# Access results
-extracted_skills = result["extracted_skills"]
-missing_skills = result["missing_skills"]
-roadmap = result["roadmap"]
-```
-
-### Backend Integration (M1)
-```python
-import json
-with open('data/job_roles.json') as f:
-    job_roles = json.load(f)
-with open('data/courses.json') as f:
-    courses = json.load(f)
-```
-
-### Frontend Data (M3)
-```javascript
-// Career options: Object.keys(jobRoles)
-// Skills for career: jobRoles[selectedCareer]
-// Courses for skill: courses[selectedSkill]
-```
-
-## 🎯 Project Status
-- ✅ **AI Agents Complete** (Multi-agent pipeline with LangGraph + Curated Data Integration)
-- ✅ **Data Curation Complete** (89 skills, 200+ courses mapped, integrated with AI agents)
-- ✅ **Logging System Complete** (Analytics and performance tracking)
-- ✅ **Documentation Complete** (Technical docs and security guidelines)
-- 🔄 **Backend API Development** (Flask/FastAPI integration)
-- 🔄 **Frontend UI Development** (React components)
-- ⏳ **Testing & Integration** (Connecting all components)
-
-## 📄 License
-MIT License - see [LICENSE](LICENSE) file for details.
+![AI Career Pathfinder Screenshot](https://i.imgur.com/rS2UaYy.png)
 
 ---
-**🚀 Ready to transform tech careers with AI!**  
-Made with ❤️ by the Career Guidance AI Team
+
+## ✨ Features
+
+* **📄 Intelligent Resume Analysis**: Upload your resume in PDF or DOCX format. The app automatically extracts and identifies your key technical skills.
+* **🎯 Target Role Selection**: Choose from a list of popular tech job roles that you aspire to.
+* **🗺️ Dynamic Learning Roadmaps**: Generates a personalized, phased learning plan based on the gap between your current skills and the requirements of your target role.
+* **📚 Curated Course Recommendations**: Each step in the roadmap includes a specific, relevant course suggestion to help you learn the required skill.
+* **🤖 Powered by Large Language Models**: Utilizes the power of LangChain and OpenAI to understand skills, analyze job requirements, and build logical learning paths.
+* **🌐 Interactive Web Interface**: A sleek, modern, and user-friendly interface built with Flask and JavaScript.
+
+---
+
+## ⚙️ How It Works
+
+The application follows a simple, three-step process to create your personalized roadmap:
+
+1.  **Upload Your Resume**: The user uploads their resume. The Flask backend processes the file, extracts the raw text, and prepares it for analysis.
+2.  **Select Target Job Role**: The user selects their desired job role from a dropdown menu. The application then uses its AI pipeline to analyze the user's extracted resume text to identify a list of current skills.
+3.  **Generate Learning Roadmap**: With the current skills and the target role identified, the user clicks "Generate". The backend sends this information to the core AI pipeline, which:
+    * Compares the user's skills to the required skills for the target role.
+    * Identifies the knowledge gap.
+    * Generates a logical, step-by-step roadmap to fill that gap.
+    * Suggests relevant online courses for each skill in the roadmap.
+    * Sends the complete roadmap back to the frontend to be displayed in a timeline format.
+
+---
+
+## 🛠️ Tech Stack
+
+This project is built with a modern stack, combining a Python backend for AI processing with a dynamic HTML/CSS/JS frontend.
+
+* **Backend**:
+    * **[Flask](https://flask.palletsprojects.com/)**: A lightweight web framework for Python.
+    * **[LangChain](https://www.langchain.com/)**: A framework for developing applications powered by language models.
+    * **[LangGraph](https://langchain-ai.github.io/langgraph/)**: A library for building stateful, multi-actor applications with LLMs.
+    * **[OpenAI API](https://beta.openai.com/docs/)**: Used for the core intelligence of the application.
+    * **[PyPDF2](https://pypdf2.readthedocs.io/) & [python-docx](https://python-docx.readthedocs.io/)**: For extracting text from uploaded resumes.
+
+* **Frontend**:
+    * **HTML5**
+    * **CSS3** (with modern styling and animations)
+    * **JavaScript (ES6+)**: For dynamic interactions and API communication (`fetch`).
+
+* **Development & Deployment**:
+    * **Python 3.10+**
+    * **virtualenv**: For managing project dependencies.
+    * **Gunicorn / Waitress**: (Recommended for production deployment).
+
+---
+
+## 🚀 Getting Started
+
+To get a local copy up and running, follow these simple steps.
+
+### Prerequisites
+
+* Python 3.10 or higher
+* An API Key from [OpenAI](https://platform.openai.com/signup)
+* An API Key from [LangSmith](https://www.langchain.com/langsmith) (Optional, for tracing)
+
+### Installation
+
+1.  **Clone the repository:**
+    ```sh
+    git clone [https://github.com/your-username/ai-career-pathfinder.git](https://github.com/your-username/ai-career-pathfinder.git)
+    cd ai-career-pathfinder/development
+    ```
+
+2.  **Create and activate a virtual environment:**
+    * **On macOS/Linux:**
+        ```sh
+        python3 -m venv venv
+        source venv/bin/activate
+        ```
+    * **On Windows:**
+        ```sh
+        python -m venv venv
+        .\venv\Scripts\activate
+        ```
+
+3.  **Install the required dependencies:**
+    ```sh
+    pip install -r requirements.txt
+    ```
+
+4.  **Set up your environment variables:**
+    * Create a new file named `.env` in the `development` directory.
+    * Add your API keys to this file:
+        ```
+        OPENAI_API_KEY="your_openai_api_key_here"
+        LANGSMITH_API_KEY="your_langsmith_api_key_here"
+        ```
+
+### Running the Application
+
+1.  **Start the Flask server:**
+    ```sh
+    flask run
+    ```
+    Or, more explicitly:
+    ```sh
+    python app.py
+    ```
+
+2.  **Open your browser:**
+    Navigate to `http://127.0.0.1:5000` and you should see the application running!
+
+---
+
+## 📂 Project Structure
+
+Here is an overview of the key files and directories in the project:
+
+
+/development
+│
+├── app.py                      # Main Flask application, handles routing and API endpoints
+├── career_pathfinder_langgraph.py # The core AI logic and LangGraph pipeline
+├── career_logger.py            # Utility for logging application events
+├── requirements.txt            # Python dependencies
+├── .env                        # (You create this) For storing API keys
+│
+├── /static
+│   ├── styles.css              # All CSS styling for the frontend
+│   └── script.js               # Frontend JavaScript for interactivity
+│
+├── /templates
+│   └── index.html              # The main HTML file for the user interface
+│
+├── /data
+│   ├── courses.json            # Curated list of courses for recommendations
+│   └── job_roles.json          # Pre-defined job roles for the application
+│
+└── /uploads                    # Directory where user resumes are temporarily stored
+
+
+---
+
+## 🙏 Acknowledgements
+
+* This project was inspired by the need for personalized career guidance in the ever-evolving tech industry.
+* Special thanks to the teams behind LangChain and OpenAI for their incredible tools.
