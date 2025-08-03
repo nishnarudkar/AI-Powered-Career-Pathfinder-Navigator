@@ -1,0 +1,18 @@
+# Web Application Framework
+Flask
+
+# PDF and Word Document Processing
+PyPDF2
+python-docx
+
+# Environment Variable Management
+python-dotenv
+
+# Core AI and Orchestration Libraries
+langchain
+langchain-core
+langchain-openai
+langgraph
+
+# OpenAI SDK
+openai
