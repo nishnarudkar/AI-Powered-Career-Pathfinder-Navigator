@@ -1,2 +1,0 @@
-Skills: Python, SQL, Git, Excel
-Experience: 2 years in data analysis

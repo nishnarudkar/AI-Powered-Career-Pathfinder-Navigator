@@ -1,9 +1,0 @@
-Recent Computer Science graduate with internship experience.
-
-Skills: Python, Java, HTML, CSS, JavaScript, Git
-Coursework: Data Structures, Algorithms, Database Systems
-
-Projects:
-- Personal website built with HTML, CSS, and JavaScript
-- Simple CRUD app using Python and SQLite
-- Collaborative project using Git for version control

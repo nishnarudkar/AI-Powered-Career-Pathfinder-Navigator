@@ -1,4 +1,0 @@
-Software Engineer with 3 years experience
-Skills: Python, JavaScript, React, Node.js, MongoDB, Git
-Experience: Built web applications, REST APIs, worked with databases
-Education: Computer Science degree
