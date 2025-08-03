@@ -70,20 +70,24 @@ To get a local copy up and running, follow these simple steps.
 1.  **Clone the repository:**
     ```sh
     git clone [https://github.com/your-username/ai-career-pathfinder.git](https://github.com/your-username/ai-career-pathfinder.git)
-    cd ai-career-pathfinder/development
+    cd ai-career-pathfinder
     ```
 
-2.  **Create and activate a virtual environment:**
-    * **On macOS/Linux:**
-        ```sh
-        python3 -m venv venv
-        source venv/bin/activate
-        ```
-    * **On Windows:**
-        ```sh
-        python -m venv venv
-        .\venv\Scripts\activate
-        ```
+2.  **Navigate to the backend and set up the environment:**
+    ```sh
+    cd backend
+    ```
+    * **Create and activate a virtual environment:**
+        * On macOS/Linux:
+            ```sh
+            python3 -m venv venv
+            source venv/bin/activate
+            ```
+        * On Windows:
+            ```sh
+            python -m venv venv
+            .\venv\Scripts\activate
+            ```
 
 3.  **Install the required dependencies:**
     ```sh
@@ -91,7 +95,7 @@ To get a local copy up and running, follow these simple steps.
     ```
 
 4.  **Set up your environment variables:**
-    * Create a new file named `.env` in the `development` directory.
+    * Create a new file named `.env` in the `backend` directory.
     * Add your API keys to this file:
         ```
         OPENAI_API_KEY="your_openai_api_key_here"
@@ -100,8 +104,9 @@ To get a local copy up and running, follow these simple steps.
 
 ### Running the Application
 
-1.  **Start the Flask server:**
+1.  **Start the Flask server from the `backend` directory:**
     ```sh
+    # Make sure you are in the /backend directory
     flask run
     ```
     Or, more explicitly:
@@ -116,29 +121,37 @@ To get a local copy up and running, follow these simple steps.
 
 ## 📂 Project Structure
 
-Here is an overview of the key files and directories in the project:
+Here is an overview of the new, organized project structure:
 
 
-/development
+/ai-career-pathfinder
 │
-├── app.py                      # Main Flask application, handles routing and API endpoints
-├── career_pathfinder_langgraph.py # The core AI logic and LangGraph pipeline
-├── career_logger.py            # Utility for logging application events
-├── requirements.txt            # Python dependencies
-├── .env                        # (You create this) For storing API keys
+├── frontend/
+│   ├── static/
+│   │   ├── styles.css
+│   │   └── script.js
+│   └── templates/
+│       └── index.html
 │
-├── /static
-│   ├── styles.css              # All CSS styling for the frontend
-│   └── script.js               # Frontend JavaScript for interactivity
+├── backend/
+│   ├── app.py                      # Main Flask application
+│   ├── career_logger.py            # Utility for logging
+│   ├── requirements.txt            # Python dependencies
+│   ├── .env                        # (You create this) For API keys
+│   │
+│   ├── agents/
+│   │   └── career_pathfinder_langgraph.py # The core AI agent logic
+│   │
+│   ├── data/
+│   │   ├── courses.json
+│   │   └── job_roles.json
+│   │
+│   └── uploads/                    # For temporarily storing resumes
 │
-├── /templates
-│   └── index.html              # The main HTML file for the user interface
+├── docs/
+│   └── (e.g., architecture.md)     # For project documentation, diagrams, etc.
 │
-├── /data
-│   ├── courses.json            # Curated list of courses for recommendations
-│   └── job_roles.json          # Pre-defined job roles for the application
-│
-└── /uploads                    # Directory where user resumes are temporarily stored
+└── README.md                       # This file
 
 
 ---
