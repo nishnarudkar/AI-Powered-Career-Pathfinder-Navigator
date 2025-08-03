@@ -1,0 +1,3 @@
+Manual skills entry:
+Skills: Python, SQL, Databases, Numpy, Pandas, Matplotlib, Seaborn, Scikit-Learn, Data-Visualization
+Experience: User provided skills manually.

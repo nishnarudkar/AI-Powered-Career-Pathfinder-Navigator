@@ -1,0 +1,4035 @@
+[
+  {
+    "timestamp": "2025-08-03T16:17:49.985810",
+    "input": {
+      "text": "Mitesh Kumavat\n/ne+91 9909182854 |miteshkumavat777@gmail.com |/\u2640nednLinkedin |/gtbGithub |/g\u2640bePortfolio\nEducation\nBachelor of Technology CGPA - 8\nLJ University Sep. 2023 \u2013 Present\nHigher Secondary Education\nGovt Ex Higher Secondary School June. 2019 \u2013 May 2023\nSummary\nFull-stack web developer with experience in building modern apps using MERN, Next.js, Flask, and AI integrations.\nPassionate about solving real-world problems with tech, strong in hackathons, and currently exploring AI, LangChain.\nExperience\nHackathon - HackNUThon 6.0 Apr. 2025\nNirma University Ahmedabad, India\n\u2022Developed FoodBite , a smart kitchen platform for inventory, sales, and waste management.\n\u2022Implemented features such as low stock alerts, expiry tracking, and analytics dashboard.\n\u2022Used NEXT.js with Recharts , including interactive dashboard for admin access.\n\u2022Trained and Finetuned YOLOV8 model for stock detection.\n\u2022GitHub: github.com/mitesh-kumavat/food-bite Live: food-bite.vercel.app\nHackathon - Ingenium 6.0 Mar. 2025\nAhmedabad University Ahmedabad, India\n\u2022Built an E-RUPI based wallet system leveraging blockchain technology to ensure secure and transparent\ndigital transactions.\n\u2022Focused on real-world use cases like subsidy distribution, where users can receive and redeem vouchers seamlessly.\n\u2022Contributed to the frontend development using Next.js with ShadCN UI , ensuring a clean, responsive user\ninterface.\n\u2022Live: fricpay.vercel.app\nProjects\nMovieverse |Flask, SQLite, Tailwind CSS, JavaScript |GitHub |Live Demo Jan. 2025 \u2013 Feb. 2025\n\u2022Built a full-stack web application providing personalized movie recommendations with a clean and responsive\nUI.\n\u2022Implemented user authentication , movie search, and FIFO-based watchlist management system.\n\u2022Designed frontend using HTML, Tailwind CSS, JavaScript for seamless desktop and mobile experience.\n\u2022Used Flask with SQLite for backend logic and lightweight database operations.\nOpinions |React.js, Node.js, Express.js, MongoDB, JWT, Cloudinary |GitHub |Live Demo Mar. 2025\n\u2022Built a feature-rich polling platform enabling users to create, vote, filter, and manage diverse poll types .\n\u2022Implemented secure JWT-based user authentication for login and signup functionality.\n\u2022Supported multiple poll types: Single-choice, Yes/No, Rating, Open-ended, and Image-based .\n\u2022Integrated poll features like bookmarking, admin poll closing, and previous vote tracking .\n\u2022Managed media uploads via Cloudinary and used MongoDB Atlas for scalable data storage.\nTechnical Skills\nLanguages: Python, JavaScript, TypeScript, Java, SQL\nFrameworks/Libraries: React.js, Next.js, Node.js, Express.js, Flask, FastAPI, Tailwind CSS, Recharts, ShadCN\nAI/ML Tools: LangChain, YOLOv8, Hugging Face\nORM and Databases: PostgreSQL, Prisma, MongoDB, Mongoose, SQLite, Firebase\nDeveloper Tools: Git, Docker, Vercel, Render, Cloudinary, Postman, VS Code",
+      "target_role": "Unknown Role"
+    },
+    "output": {
+      "extracted_skills": [
+        "python",
+        "javascript",
+        "typescript",
+        "java",
+        "sql",
+        "react",
+        "nextjs",
+        "nodejs",
+        "expressjs",
+        "flask",
+        "fastapi",
+        "tailwind-css",
+        "recharts",
+        "shadcn",
+        "langchain",
+        "yolov8",
+        "hugging-face",
+        "postgresql",
+        "prisma",
+        "mongodb",
+        "mongoose",
+        "sqlite",
+        "firebase",
+        "git",
+        "docker",
+        "vercel",
+        "render",
+        "cloudinary",
+        "postman",
+        "vs-code"
+      ],
+      "missing_skills": [],
+      "nice_to_have": [],
+      "roadmap_phases": 0,
+      "total_recommended_skills": 0
+    },
+    "full_result": {
+      "input": "Mitesh Kumavat\n/ne+91 9909182854 |miteshkumavat777@gmail.com |/\u2640nednLinkedin |/gtbGithub |/g\u2640bePortfolio\nEducation\nBachelor of Technology CGPA - 8\nLJ University Sep. 2023 \u2013 Present\nHigher Secondary Education\nGovt Ex Higher Secondary School June. 2019 \u2013 May 2023\nSummary\nFull-stack web developer with experience in building modern apps using MERN, Next.js, Flask, and AI integrations.\nPassionate about solving real-world problems with tech, strong in hackathons, and currently exploring AI, LangChain.\nExperience\nHackathon - HackNUThon 6.0 Apr. 2025\nNirma University Ahmedabad, India\n\u2022Developed FoodBite , a smart kitchen platform for inventory, sales, and waste management.\n\u2022Implemented features such as low stock alerts, expiry tracking, and analytics dashboard.\n\u2022Used NEXT.js with Recharts , including interactive dashboard for admin access.\n\u2022Trained and Finetuned YOLOV8 model for stock detection.\n\u2022GitHub: github.com/mitesh-kumavat/food-bite Live: food-bite.vercel.app\nHackathon - Ingenium 6.0 Mar. 2025\nAhmedabad University Ahmedabad, India\n\u2022Built an E-RUPI based wallet system leveraging blockchain technology to ensure secure and transparent\ndigital transactions.\n\u2022Focused on real-world use cases like subsidy distribution, where users can receive and redeem vouchers seamlessly.\n\u2022Contributed to the frontend development using Next.js with ShadCN UI , ensuring a clean, responsive user\ninterface.\n\u2022Live: fricpay.vercel.app\nProjects\nMovieverse |Flask, SQLite, Tailwind CSS, JavaScript |GitHub |Live Demo Jan. 2025 \u2013 Feb. 2025\n\u2022Built a full-stack web application providing personalized movie recommendations with a clean and responsive\nUI.\n\u2022Implemented user authentication , movie search, and FIFO-based watchlist management system.\n\u2022Designed frontend using HTML, Tailwind CSS, JavaScript for seamless desktop and mobile experience.\n\u2022Used Flask with SQLite for backend logic and lightweight database operations.\nOpinions |React.js, Node.js, Express.js, MongoDB, JWT, Cloudinary |GitHub |Live Demo Mar. 2025\n\u2022Built a feature-rich polling platform enabling users to create, vote, filter, and manage diverse poll types .\n\u2022Implemented secure JWT-based user authentication for login and signup functionality.\n\u2022Supported multiple poll types: Single-choice, Yes/No, Rating, Open-ended, and Image-based .\n\u2022Integrated poll features like bookmarking, admin poll closing, and previous vote tracking .\n\u2022Managed media uploads via Cloudinary and used MongoDB Atlas for scalable data storage.\nTechnical Skills\nLanguages: Python, JavaScript, TypeScript, Java, SQL\nFrameworks/Libraries: React.js, Next.js, Node.js, Express.js, Flask, FastAPI, Tailwind CSS, Recharts, ShadCN\nAI/ML Tools: LangChain, YOLOv8, Hugging Face\nORM and Databases: PostgreSQL, Prisma, MongoDB, Mongoose, SQLite, Firebase\nDeveloper Tools: Git, Docker, Vercel, Render, Cloudinary, Postman, VS Code",
+      "target_role": "Unknown Role",
+      "extracted_skills": [
+        "python",
+        "javascript",
+        "typescript",
+        "java",
+        "sql",
+        "react",
+        "nextjs",
+        "nodejs",
+        "expressjs",
+        "flask",
+        "fastapi",
+        "tailwind-css",
+        "recharts",
+        "shadcn",
+        "langchain",
+        "yolov8",
+        "hugging-face",
+        "postgresql",
+        "prisma",
+        "mongodb",
+        "mongoose",
+        "sqlite",
+        "firebase",
+        "git",
+        "docker",
+        "vercel",
+        "render",
+        "cloudinary",
+        "postman",
+        "vs-code"
+      ],
+      "missing_skills": [],
+      "nice_to_have": [],
+      "roadmap": []
+    },
+    "execution_time_seconds": 7.212643384933472,
+    "session_id": "session_20250803_161749"
+  },
+  {
+    "timestamp": "2025-08-03T16:18:25.019196",
+    "input": {
+      "text": "Mitesh Kumavat\n/ne+91 9909182854 |miteshkumavat777@gmail.com |/\u2640nednLinkedin |/gtbGithub |/g\u2640bePortfolio\nEducation\nBachelor of Technology CGPA - 8\nLJ University Sep. 2023 \u2013 Present\nHigher Secondary Education\nGovt Ex Higher Secondary School June. 2019 \u2013 May 2023\nSummary\nFull-stack web developer with experience in building modern apps using MERN, Next.js, Flask, and AI integrations.\nPassionate about solving real-world problems with tech, strong in hackathons, and currently exploring AI, LangChain.\nExperience\nHackathon - HackNUThon 6.0 Apr. 2025\nNirma University Ahmedabad, India\n\u2022Developed FoodBite , a smart kitchen platform for inventory, sales, and waste management.\n\u2022Implemented features such as low stock alerts, expiry tracking, and analytics dashboard.\n\u2022Used NEXT.js with Recharts , including interactive dashboard for admin access.\n\u2022Trained and Finetuned YOLOV8 model for stock detection.\n\u2022GitHub: github.com/mitesh-kumavat/food-bite Live: food-bite.vercel.app\nHackathon - Ingenium 6.0 Mar. 2025\nAhmedabad University Ahmedabad, India\n\u2022Built an E-RUPI based wallet system leveraging blockchain technology to ensure secure and transparent\ndigital transactions.\n\u2022Focused on real-world use cases like subsidy distribution, where users can receive and redeem vouchers seamlessly.\n\u2022Contributed to the frontend development using Next.js with ShadCN UI , ensuring a clean, responsive user\ninterface.\n\u2022Live: fricpay.vercel.app\nProjects\nMovieverse |Flask, SQLite, Tailwind CSS, JavaScript |GitHub |Live Demo Jan. 2025 \u2013 Feb. 2025\n\u2022Built a full-stack web application providing personalized movie recommendations with a clean and responsive\nUI.\n\u2022Implemented user authentication , movie search, and FIFO-based watchlist management system.\n\u2022Designed frontend using HTML, Tailwind CSS, JavaScript for seamless desktop and mobile experience.\n\u2022Used Flask with SQLite for backend logic and lightweight database operations.\nOpinions |React.js, Node.js, Express.js, MongoDB, JWT, Cloudinary |GitHub |Live Demo Mar. 2025\n\u2022Built a feature-rich polling platform enabling users to create, vote, filter, and manage diverse poll types .\n\u2022Implemented secure JWT-based user authentication for login and signup functionality.\n\u2022Supported multiple poll types: Single-choice, Yes/No, Rating, Open-ended, and Image-based .\n\u2022Integrated poll features like bookmarking, admin poll closing, and previous vote tracking .\n\u2022Managed media uploads via Cloudinary and used MongoDB Atlas for scalable data storage.\nTechnical Skills\nLanguages: Python, JavaScript, TypeScript, Java, SQL\nFrameworks/Libraries: React.js, Next.js, Node.js, Express.js, Flask, FastAPI, Tailwind CSS, Recharts, ShadCN\nAI/ML Tools: LangChain, YOLOv8, Hugging Face\nORM and Databases: PostgreSQL, Prisma, MongoDB, Mongoose, SQLite, Firebase\nDeveloper Tools: Git, Docker, Vercel, Render, Cloudinary, Postman, VS Code",
+      "target_role": "ai-engineer"
+    },
+    "output": {
+      "extracted_skills": [
+        "python",
+        "javascript",
+        "typescript",
+        "java",
+        "sql",
+        "react",
+        "nextjs",
+        "nodejs",
+        "expressjs",
+        "flask",
+        "fastapi",
+        "tailwind-css",
+        "recharts",
+        "shadcn",
+        "langchain",
+        "yolov8",
+        "hugging-face",
+        "postgresql",
+        "prisma",
+        "mongodb",
+        "mongoose",
+        "sqlite",
+        "firebase",
+        "git",
+        "docker",
+        "vercel",
+        "render",
+        "cloudinary",
+        "postman",
+        "vs-code"
+      ],
+      "missing_skills": [
+        "c++",
+        "computer-vision",
+        "data-analysis",
+        "deep-learning",
+        "machine-learning",
+        "nlp",
+        "pytorch",
+        "tensorflow"
+      ],
+      "nice_to_have": [
+        "aws",
+        "azure",
+        "big-data",
+        "hadoop",
+        "kubernetes",
+        "pandas",
+        "scikit-learn",
+        "spark",
+        "statistics",
+        "tableau"
+      ],
+      "roadmap_phases": 3,
+      "total_recommended_skills": 18
+    },
+    "full_result": {
+      "input": "Mitesh Kumavat\n/ne+91 9909182854 |miteshkumavat777@gmail.com |/\u2640nednLinkedin |/gtbGithub |/g\u2640bePortfolio\nEducation\nBachelor of Technology CGPA - 8\nLJ University Sep. 2023 \u2013 Present\nHigher Secondary Education\nGovt Ex Higher Secondary School June. 2019 \u2013 May 2023\nSummary\nFull-stack web developer with experience in building modern apps using MERN, Next.js, Flask, and AI integrations.\nPassionate about solving real-world problems with tech, strong in hackathons, and currently exploring AI, LangChain.\nExperience\nHackathon - HackNUThon 6.0 Apr. 2025\nNirma University Ahmedabad, India\n\u2022Developed FoodBite , a smart kitchen platform for inventory, sales, and waste management.\n\u2022Implemented features such as low stock alerts, expiry tracking, and analytics dashboard.\n\u2022Used NEXT.js with Recharts , including interactive dashboard for admin access.\n\u2022Trained and Finetuned YOLOV8 model for stock detection.\n\u2022GitHub: github.com/mitesh-kumavat/food-bite Live: food-bite.vercel.app\nHackathon - Ingenium 6.0 Mar. 2025\nAhmedabad University Ahmedabad, India\n\u2022Built an E-RUPI based wallet system leveraging blockchain technology to ensure secure and transparent\ndigital transactions.\n\u2022Focused on real-world use cases like subsidy distribution, where users can receive and redeem vouchers seamlessly.\n\u2022Contributed to the frontend development using Next.js with ShadCN UI , ensuring a clean, responsive user\ninterface.\n\u2022Live: fricpay.vercel.app\nProjects\nMovieverse |Flask, SQLite, Tailwind CSS, JavaScript |GitHub |Live Demo Jan. 2025 \u2013 Feb. 2025\n\u2022Built a full-stack web application providing personalized movie recommendations with a clean and responsive\nUI.\n\u2022Implemented user authentication , movie search, and FIFO-based watchlist management system.\n\u2022Designed frontend using HTML, Tailwind CSS, JavaScript for seamless desktop and mobile experience.\n\u2022Used Flask with SQLite for backend logic and lightweight database operations.\nOpinions |React.js, Node.js, Express.js, MongoDB, JWT, Cloudinary |GitHub |Live Demo Mar. 2025\n\u2022Built a feature-rich polling platform enabling users to create, vote, filter, and manage diverse poll types .\n\u2022Implemented secure JWT-based user authentication for login and signup functionality.\n\u2022Supported multiple poll types: Single-choice, Yes/No, Rating, Open-ended, and Image-based .\n\u2022Integrated poll features like bookmarking, admin poll closing, and previous vote tracking .\n\u2022Managed media uploads via Cloudinary and used MongoDB Atlas for scalable data storage.\nTechnical Skills\nLanguages: Python, JavaScript, TypeScript, Java, SQL\nFrameworks/Libraries: React.js, Next.js, Node.js, Express.js, Flask, FastAPI, Tailwind CSS, Recharts, ShadCN\nAI/ML Tools: LangChain, YOLOv8, Hugging Face\nORM and Databases: PostgreSQL, Prisma, MongoDB, Mongoose, SQLite, Firebase\nDeveloper Tools: Git, Docker, Vercel, Render, Cloudinary, Postman, VS Code",
+      "target_role": "ai-engineer",
+      "extracted_skills": [
+        "python",
+        "javascript",
+        "typescript",
+        "java",
+        "sql",
+        "react",
+        "nextjs",
+        "nodejs",
+        "expressjs",
+        "flask",
+        "fastapi",
+        "tailwind-css",
+        "recharts",
+        "shadcn",
+        "langchain",
+        "yolov8",
+        "hugging-face",
+        "postgresql",
+        "prisma",
+        "mongodb",
+        "mongoose",
+        "sqlite",
+        "firebase",
+        "git",
+        "docker",
+        "vercel",
+        "render",
+        "cloudinary",
+        "postman",
+        "vs-code"
+      ],
+      "missing_skills": [
+        "c++",
+        "computer-vision",
+        "data-analysis",
+        "deep-learning",
+        "machine-learning",
+        "nlp",
+        "pytorch",
+        "tensorflow"
+      ],
+      "nice_to_have": [
+        "aws",
+        "azure",
+        "big-data",
+        "hadoop",
+        "kubernetes",
+        "pandas",
+        "scikit-learn",
+        "spark",
+        "statistics",
+        "tableau"
+      ],
+      "roadmap": [
+        {
+          "phase": "Phase 1: Foundation",
+          "skills": [
+            {
+              "skill": "Python",
+              "course": "Python for Everybody - Coursera",
+              "platform": "Coursera",
+              "reason": "Comprehensive beginner course"
+            },
+            {
+              "skill": "Statistics",
+              "course": "Introduction to Statistics - Khan Academy",
+              "platform": "Khan Academy",
+              "reason": "Fundamental concepts in statistics"
+            },
+            {
+              "skill": "Data Analysis",
+              "course": "Data Analysis with Python - freeCodeCamp",
+              "platform": "YouTube",
+              "reason": "Introduction to data analysis using Python"
+            },
+            {
+              "skill": "NLP",
+              "course": "Natural Language Processing - Coursera",
+              "platform": "DeepLearning.AI",
+              "reason": "Comprehensive introduction to NLP"
+            },
+            {
+              "skill": "Pandas",
+              "course": "Pandas Tutorial Series - Corey Schafer",
+              "platform": "YouTube",
+              "reason": "Detailed tutorial on using Pandas for data manipulation"
+            }
+          ]
+        },
+        {
+          "phase": "Phase 2: Intermediate",
+          "skills": [
+            {
+              "skill": "Machine Learning",
+              "course": "Machine Learning with Python - IBM SkillsBuild",
+              "platform": "IBM SkillsBuild",
+              "reason": "Intermediate concepts in machine learning"
+            },
+            {
+              "skill": "Deep Learning",
+              "course": "Deep Learning with PyTorch - freeCodeCamp",
+              "platform": "YouTube",
+              "reason": "Hands-on deep learning with PyTorch"
+            },
+            {
+              "skill": "TensorFlow",
+              "course": "TensorFlow Developer Certificate - Coursera",
+              "platform": "DeepLearning.AI",
+              "reason": "Intermediate course for TensorFlow developers"
+            },
+            {
+              "skill": "Scikit-Learn",
+              "course": "Scikit-Learn Tutorial - Data School",
+              "platform": "YouTube",
+              "reason": "Practical guide to using Scikit-Learn for machine learning"
+            },
+            {
+              "skill": "Kubernetes",
+              "course": "Kubernetes Tutorial for Beginners - TechWorld with Nana",
+              "platform": "YouTube",
+              "reason": "Introduction to Kubernetes for container orchestration"
+            }
+          ]
+        },
+        {
+          "phase": "Phase 3: Advanced",
+          "skills": [
+            {
+              "skill": "Computer Vision",
+              "course": "Deep Learning for Computer Vision - Coursera",
+              "platform": "Coursera",
+              "reason": "Advanced techniques in computer vision using deep learning"
+            },
+            {
+              "skill": "C++",
+              "course": "C++ for Programmers - Udacity",
+              "platform": "Udacity",
+              "reason": "Advanced C++ programming concepts"
+            },
+            {
+              "skill": "AWS",
+              "course": "AWS Certified Solutions Architect - Associate 2020 - A Cloud Guru",
+              "platform": "A Cloud Guru",
+              "reason": "Advanced AWS architecture and services"
+            },
+            {
+              "skill": "Azure",
+              "course": "Azure Fundamentals - Microsoft Learn",
+              "platform": "Microsoft Learn",
+              "reason": "Comprehensive guide to Azure services"
+            },
+            {
+              "skill": "Big Data",
+              "course": "Big Data Specialization - Coursera",
+              "platform": "Coursera",
+              "reason": "Advanced big data technologies and applications"
+            },
+            {
+              "skill": "Hadoop",
+              "course": "Hadoop Platform and Application Framework - Coursera",
+              "platform": "Coursera",
+              "reason": "Advanced Hadoop ecosystem and applications"
+            },
+            {
+              "skill": "Spark",
+              "course": "Big Data Analysis with Spark - edX",
+              "platform": "edX",
+              "reason": "Advanced data processing with Apache Spark"
+            },
+            {
+              "skill": "Tableau",
+              "course": "Data Visualization with Tableau - Coursera",
+              "platform": "UC Davis",
+              "reason": "Advanced data visualization techniques using Tableau"
+            }
+          ]
+        }
+      ]
+    },
+    "execution_time_seconds": 19.67064070701599,
+    "session_id": "session_20250803_161825"
+  },
+  {
+    "timestamp": "2025-08-03T17:27:33.525217",
+    "input": {
+      "text": "CHARLES CROFT\n\nPROGRAM DELIVERY MANAGER\nCONTACT\n555 819 2259\ncharlescroft.com\ncharles@croft.com\nlinkedin.com/in/charlescroft\nVancouver, BC\n\nLorem ipsum dolor sit amet...Lorem ipsum dolor sit amet...\n\nPROFESSIONAL EXPERIENCE\nYour Position / Company / Location / 2012 - Present\nLorem ipsum dolor sit amet, consectetur adipiscing elit.\nVestibulum nec orci et mauris blandit semper.\nPhasellus scelerisque vestibulum elit.\nYour Position / Company / Location / 2012 - Present\nLorem ipsum dolor sit amet, consectetur adipiscing elit.\nVestibulum nec orci et mauris blandit semper.\nPhasellus scelerisque vestibulum elit.\n\nEXPERTISE\nPython\nMachine Learning\nNLP\nDeep Learning\nData Preprocessing\n\nTECHNOLOGY\nPython\nJupyter\nTensorFlow\nScikit-learn\nGit",
+      "target_role": "Unknown Role"
+    },
+    "output": {
+      "extracted_skills": [
+        "python",
+        "machine-learning",
+        "nlp",
+        "deep-learning",
+        "data-preprocessing",
+        "jupyter",
+        "tensorflow",
+        "scikit-learn",
+        "git"
+      ],
+      "missing_skills": [],
+      "nice_to_have": [],
+      "roadmap_phases": 3,
+      "total_recommended_skills": 0
+    },
+    "full_result": {
+      "input": "CHARLES CROFT\n\nPROGRAM DELIVERY MANAGER\nCONTACT\n555 819 2259\ncharlescroft.com\ncharles@croft.com\nlinkedin.com/in/charlescroft\nVancouver, BC\n\nLorem ipsum dolor sit amet...Lorem ipsum dolor sit amet...\n\nPROFESSIONAL EXPERIENCE\nYour Position / Company / Location / 2012 - Present\nLorem ipsum dolor sit amet, consectetur adipiscing elit.\nVestibulum nec orci et mauris blandit semper.\nPhasellus scelerisque vestibulum elit.\nYour Position / Company / Location / 2012 - Present\nLorem ipsum dolor sit amet, consectetur adipiscing elit.\nVestibulum nec orci et mauris blandit semper.\nPhasellus scelerisque vestibulum elit.\n\nEXPERTISE\nPython\nMachine Learning\nNLP\nDeep Learning\nData Preprocessing\n\nTECHNOLOGY\nPython\nJupyter\nTensorFlow\nScikit-learn\nGit",
+      "target_role": "Unknown Role",
+      "extracted_skills": [
+        "python",
+        "machine-learning",
+        "nlp",
+        "deep-learning",
+        "data-preprocessing",
+        "jupyter",
+        "tensorflow",
+        "scikit-learn",
+        "git"
+      ],
+      "missing_skills": [],
+      "nice_to_have": [],
+      "roadmap": [
+        {
+          "phase": "Phase 1",
+          "skills": [
+            {
+              "skill": "Python Programming",
+              "course": "Python for Everybody - Coursera",
+              "reason": "Essential for data analysis tasks."
+            },
+            {
+              "skill": "Data Analysis",
+              "course": "Data Analysis with Python - edX",
+              "reason": "Key for interpreting data insights."
+            }
+          ]
+        },
+        {
+          "phase": "Phase 2",
+          "skills": [
+            {
+              "skill": "Machine Learning",
+              "course": "Machine Learning - Coursera",
+              "reason": "Important for predictive modeling."
+            },
+            {
+              "skill": "Data Visualization",
+              "course": "Data Visualization with Tableau - Udemy",
+              "reason": "Crucial for presenting data findings."
+            }
+          ]
+        },
+        {
+          "phase": "Phase 3",
+          "skills": [
+            {
+              "skill": "Cloud Computing",
+              "course": "AWS Cloud Practitioner - AWS Training",
+              "reason": "Vital for scalable data solutions."
+            },
+            {
+              "skill": "Big Data",
+              "course": "Big Data Specialization - Coursera",
+              "reason": "Necessary for handling large datasets."
+            }
+          ]
+        }
+      ],
+      "performance_data": {
+        "step_timings": {
+          "post_processing": 0.0
+        },
+        "total_time": 0.0,
+        "cache_stats": {
+          "hits": 0,
+          "misses": 0,
+          "hit_ratio": 0
+        }
+      },
+      "performance_summary": {
+        "step_timings": {
+          "pipeline_total": 0.222,
+          "post_processing": 0.0
+        },
+        "total_time": 0.222,
+        "cache_stats": {
+          "hits": 0,
+          "misses": 0,
+          "hit_ratio": 0
+        }
+      }
+    },
+    "execution_time_seconds": 9.241199016571045,
+    "session_id": "session_20250803_172733"
+  },
+  {
+    "timestamp": "2025-08-03T17:27:36.295836",
+    "input": {
+      "text": "CHARLES CROFT\n\nPROGRAM DELIVERY MANAGER\nCONTACT\n555 819 2259\ncharlescroft.com\ncharles@croft.com\nlinkedin.com/in/charlescroft\nVancouver, BC\n\nLorem ipsum dolor sit amet...Lorem ipsum dolor sit amet...\n\nPROFESSIONAL EXPERIENCE\nYour Position / Company / Location / 2012 - Present\nLorem ipsum dolor sit amet, consectetur adipiscing elit.\nVestibulum nec orci et mauris blandit semper.\nPhasellus scelerisque vestibulum elit.\nYour Position / Company / Location / 2012 - Present\nLorem ipsum dolor sit amet, consectetur adipiscing elit.\nVestibulum nec orci et mauris blandit semper.\nPhasellus scelerisque vestibulum elit.\n\nEXPERTISE\nPython\nMachine Learning\nNLP\nDeep Learning\nData Preprocessing\n\nTECHNOLOGY\nPython\nJupyter\nTensorFlow\nScikit-learn\nGit",
+      "target_role": "Unknown Role"
+    },
+    "output": {
+      "extracted_skills": [
+        "python",
+        "machine-learning",
+        "nlp",
+        "deep-learning",
+        "data-preprocessing",
+        "jupyter",
+        "tensorflow",
+        "scikit-learn",
+        "git"
+      ],
+      "missing_skills": [],
+      "nice_to_have": [],
+      "roadmap_phases": 3,
+      "total_recommended_skills": 0
+    },
+    "full_result": {
+      "input": "CHARLES CROFT\n\nPROGRAM DELIVERY MANAGER\nCONTACT\n555 819 2259\ncharlescroft.com\ncharles@croft.com\nlinkedin.com/in/charlescroft\nVancouver, BC\n\nLorem ipsum dolor sit amet...Lorem ipsum dolor sit amet...\n\nPROFESSIONAL EXPERIENCE\nYour Position / Company / Location / 2012 - Present\nLorem ipsum dolor sit amet, consectetur adipiscing elit.\nVestibulum nec orci et mauris blandit semper.\nPhasellus scelerisque vestibulum elit.\nYour Position / Company / Location / 2012 - Present\nLorem ipsum dolor sit amet, consectetur adipiscing elit.\nVestibulum nec orci et mauris blandit semper.\nPhasellus scelerisque vestibulum elit.\n\nEXPERTISE\nPython\nMachine Learning\nNLP\nDeep Learning\nData Preprocessing\n\nTECHNOLOGY\nPython\nJupyter\nTensorFlow\nScikit-learn\nGit",
+      "target_role": "Unknown Role",
+      "extracted_skills": [
+        "python",
+        "machine-learning",
+        "nlp",
+        "deep-learning",
+        "data-preprocessing",
+        "jupyter",
+        "tensorflow",
+        "scikit-learn",
+        "git"
+      ],
+      "missing_skills": [],
+      "nice_to_have": [],
+      "roadmap": [
+        {
+          "phase": "Phase 1",
+          "skills": [
+            {
+              "skill": "Python Programming",
+              "course": "Python for Everybody - Coursera",
+              "reason": "Foundation for data analysis"
+            },
+            {
+              "skill": "Data Analysis",
+              "course": "Data Analysis with Python - edX",
+              "reason": "Essential for data-driven decisions"
+            }
+          ]
+        },
+        {
+          "phase": "Phase 2",
+          "skills": [
+            {
+              "skill": "Machine Learning",
+              "course": "Machine Learning - Coursera",
+              "reason": "Automate data-driven predictions"
+            },
+            {
+              "skill": "Data Visualization",
+              "course": "Data Visualization with Tableau - Udemy",
+              "reason": "Communicate insights effectively"
+            }
+          ]
+        },
+        {
+          "phase": "Phase 3",
+          "skills": [
+            {
+              "skill": "Cloud Computing",
+              "course": "AWS Cloud Practitioner - AWS Training",
+              "reason": "Scalable data storage solutions"
+            },
+            {
+              "skill": "Big Data",
+              "course": "Big Data Specialization - Coursera",
+              "reason": "Handle large datasets efficiently"
+            }
+          ]
+        }
+      ],
+      "performance_data": {
+        "step_timings": {
+          "pipeline_total": 0.222,
+          "post_processing": 0.0,
+          "roadmap_generation_total": 0.03,
+          "input_trimming": 0.0,
+          "course_retrieval": 0.0,
+          "llm_prompt_preparation": 0.0,
+          "llm_call": 0.03
+        },
+        "total_time": 0.283,
+        "cache_stats": {
+          "hits": 0,
+          "misses": 0,
+          "hit_ratio": 0
+        }
+      },
+      "performance_summary": {
+        "step_timings": {
+          "pipeline_total": 2.992,
+          "post_processing": 0.0,
+          "roadmap_generation_total": 0.03,
+          "input_trimming": 0.0,
+          "course_retrieval": 0.0,
+          "llm_prompt_preparation": 0.0,
+          "llm_call": 0.03
+        },
+        "total_time": 3.053,
+        "cache_stats": {
+          "hits": 0,
+          "misses": 0,
+          "hit_ratio": 0
+        }
+      }
+    },
+    "execution_time_seconds": 9.65182638168335,
+    "session_id": "session_20250803_172736"
+  },
+  {
+    "timestamp": "2025-08-03T17:27:41.617686",
+    "input": {
+      "text": "CHARLES CROFT\n\nPROGRAM DELIVERY MANAGER\nCONTACT\n555 819 2259\ncharlescroft.com\ncharles@croft.com\nlinkedin.com/in/charlescroft\nVancouver, BC\n\nLorem ipsum dolor sit amet...Lorem ipsum dolor sit amet...\n\nPROFESSIONAL EXPERIENCE\nYour Position / Company / Location / 2012 - Present\nLorem ipsum dolor sit amet, consectetur adipiscing elit.\nVestibulum nec orci et mauris blandit semper.\nPhasellus scelerisque vestibulum elit.\nYour Position / Company / Location / 2012 - Present\nLorem ipsum dolor sit amet, consectetur adipiscing elit.\nVestibulum nec orci et mauris blandit semper.\nPhasellus scelerisque vestibulum elit.\n\nEXPERTISE\nPython\nMachine Learning\nNLP\nDeep Learning\nData Preprocessing\n\nTECHNOLOGY\nPython\nJupyter\nTensorFlow\nScikit-learn\nGit",
+      "target_role": "Unknown Role"
+    },
+    "output": {
+      "extracted_skills": [
+        "python",
+        "machine-learning",
+        "nlp",
+        "deep-learning",
+        "data-preprocessing",
+        "jupyter",
+        "tensorflow",
+        "scikit-learn",
+        "git"
+      ],
+      "missing_skills": [],
+      "nice_to_have": [],
+      "roadmap_phases": 3,
+      "total_recommended_skills": 0
+    },
+    "full_result": {
+      "input": "CHARLES CROFT\n\nPROGRAM DELIVERY MANAGER\nCONTACT\n555 819 2259\ncharlescroft.com\ncharles@croft.com\nlinkedin.com/in/charlescroft\nVancouver, BC\n\nLorem ipsum dolor sit amet...Lorem ipsum dolor sit amet...\n\nPROFESSIONAL EXPERIENCE\nYour Position / Company / Location / 2012 - Present\nLorem ipsum dolor sit amet, consectetur adipiscing elit.\nVestibulum nec orci et mauris blandit semper.\nPhasellus scelerisque vestibulum elit.\nYour Position / Company / Location / 2012 - Present\nLorem ipsum dolor sit amet, consectetur adipiscing elit.\nVestibulum nec orci et mauris blandit semper.\nPhasellus scelerisque vestibulum elit.\n\nEXPERTISE\nPython\nMachine Learning\nNLP\nDeep Learning\nData Preprocessing\n\nTECHNOLOGY\nPython\nJupyter\nTensorFlow\nScikit-learn\nGit",
+      "target_role": "Unknown Role",
+      "extracted_skills": [
+        "python",
+        "machine-learning",
+        "nlp",
+        "deep-learning",
+        "data-preprocessing",
+        "jupyter",
+        "tensorflow",
+        "scikit-learn",
+        "git"
+      ],
+      "missing_skills": [],
+      "nice_to_have": [],
+      "roadmap": [
+        {
+          "phase": "Phase 1",
+          "skills": [
+            {
+              "skill": "Python Programming",
+              "course": "Python for Everybody - Coursera",
+              "reason": "Foundation for data analysis"
+            },
+            {
+              "skill": "Data Analysis",
+              "course": "Data Analysis with Python - edX",
+              "reason": "Essential for data-driven decisions"
+            }
+          ]
+        },
+        {
+          "phase": "Phase 2",
+          "skills": [
+            {
+              "skill": "Machine Learning",
+              "course": "Machine Learning - Coursera",
+              "reason": "Automate data insights"
+            },
+            {
+              "skill": "Data Visualization",
+              "course": "Data Visualization with Tableau - Udemy",
+              "reason": "Communicate data effectively"
+            }
+          ]
+        },
+        {
+          "phase": "Phase 3",
+          "skills": [
+            {
+              "skill": "Deep Learning",
+              "course": "Deep Learning Specialization - Coursera",
+              "reason": "Advanced AI techniques"
+            },
+            {
+              "skill": "Big Data",
+              "course": "Big Data Specialization - Coursera",
+              "reason": "Handle large datasets"
+            }
+          ]
+        }
+      ],
+      "performance_data": {
+        "step_timings": {
+          "pipeline_total": 2.992,
+          "post_processing": 0.0,
+          "roadmap_generation_total": 5.352,
+          "input_trimming": 0.0,
+          "course_retrieval": 0.0,
+          "llm_prompt_preparation": 0.0,
+          "llm_call": 5.352
+        },
+        "total_time": 13.697,
+        "cache_stats": {
+          "hits": 0,
+          "misses": 0,
+          "hit_ratio": 0
+        }
+      },
+      "performance_summary": {
+        "step_timings": {
+          "pipeline_total": 8.314,
+          "post_processing": 0.0,
+          "roadmap_generation_total": 5.352,
+          "input_trimming": 0.0,
+          "course_retrieval": 0.0,
+          "llm_prompt_preparation": 0.0,
+          "llm_call": 5.352
+        },
+        "total_time": 19.019,
+        "cache_stats": {
+          "hits": 0,
+          "misses": 0,
+          "hit_ratio": 0
+        }
+      }
+    },
+    "execution_time_seconds": 8.928266048431396,
+    "session_id": "session_20250803_172741"
+  },
+  {
+    "timestamp": "2025-08-03T17:27:41.906300",
+    "input": {
+      "text": "CHARLES CROFT\n\nPROGRAM DELIVERY MANAGER\nCONTACT\n555 819 2259\ncharlescroft.com\ncharles@croft.com\nlinkedin.com/in/charlescroft\nVancouver, BC\n\nLorem ipsum dolor sit amet...Lorem ipsum dolor sit amet...\n\nPROFESSIONAL EXPERIENCE\nYour Position / Company / Location / 2012 - Present\nLorem ipsum dolor sit amet, consectetur adipiscing elit.\nVestibulum nec orci et mauris blandit semper.\nPhasellus scelerisque vestibulum elit.\nYour Position / Company / Location / 2012 - Present\nLorem ipsum dolor sit amet, consectetur adipiscing elit.\nVestibulum nec orci et mauris blandit semper.\nPhasellus scelerisque vestibulum elit.\n\nEXPERTISE\nPython\nMachine Learning\nNLP\nDeep Learning\nData Preprocessing\n\nTECHNOLOGY\nPython\nJupyter\nTensorFlow\nScikit-learn\nGit",
+      "target_role": "Unknown Role"
+    },
+    "output": {
+      "extracted_skills": [
+        "python",
+        "machine-learning",
+        "nlp",
+        "deep-learning",
+        "data-preprocessing",
+        "jupyter",
+        "tensorflow",
+        "scikit-learn",
+        "git"
+      ],
+      "missing_skills": [],
+      "nice_to_have": [],
+      "roadmap_phases": 3,
+      "total_recommended_skills": 0
+    },
+    "full_result": {
+      "input": "CHARLES CROFT\n\nPROGRAM DELIVERY MANAGER\nCONTACT\n555 819 2259\ncharlescroft.com\ncharles@croft.com\nlinkedin.com/in/charlescroft\nVancouver, BC\n\nLorem ipsum dolor sit amet...Lorem ipsum dolor sit amet...\n\nPROFESSIONAL EXPERIENCE\nYour Position / Company / Location / 2012 - Present\nLorem ipsum dolor sit amet, consectetur adipiscing elit.\nVestibulum nec orci et mauris blandit semper.\nPhasellus scelerisque vestibulum elit.\nYour Position / Company / Location / 2012 - Present\nLorem ipsum dolor sit amet, consectetur adipiscing elit.\nVestibulum nec orci et mauris blandit semper.\nPhasellus scelerisque vestibulum elit.\n\nEXPERTISE\nPython\nMachine Learning\nNLP\nDeep Learning\nData Preprocessing\n\nTECHNOLOGY\nPython\nJupyter\nTensorFlow\nScikit-learn\nGit",
+      "target_role": "Unknown Role",
+      "extracted_skills": [
+        "python",
+        "machine-learning",
+        "nlp",
+        "deep-learning",
+        "data-preprocessing",
+        "jupyter",
+        "tensorflow",
+        "scikit-learn",
+        "git"
+      ],
+      "missing_skills": [],
+      "nice_to_have": [],
+      "roadmap": [
+        {
+          "phase": "Phase 1",
+          "skills": [
+            {
+              "skill": "Python Programming",
+              "course": "Python for Everybody - Coursera",
+              "reason": "Foundation for data analysis"
+            },
+            {
+              "skill": "Data Analysis",
+              "course": "Data Analysis with Python - edX",
+              "reason": "Essential for data-driven decisions"
+            }
+          ]
+        },
+        {
+          "phase": "Phase 2",
+          "skills": [
+            {
+              "skill": "Machine Learning",
+              "course": "Machine Learning - Coursera",
+              "reason": "Automate data-driven predictions"
+            },
+            {
+              "skill": "Data Visualization",
+              "course": "Data Visualization with Tableau - Udemy",
+              "reason": "Communicate insights effectively"
+            }
+          ]
+        },
+        {
+          "phase": "Phase 3",
+          "skills": [
+            {
+              "skill": "Deep Learning",
+              "course": "Deep Learning Specialization - Coursera",
+              "reason": "Advanced AI techniques"
+            },
+            {
+              "skill": "Big Data",
+              "course": "Big Data Specialization - Coursera",
+              "reason": "Handle large datasets efficiently"
+            }
+          ]
+        }
+      ],
+      "performance_data": {
+        "step_timings": {
+          "pipeline_total": 8.314,
+          "post_processing": 0.0,
+          "roadmap_generation_total": 5.641,
+          "input_trimming": 0.0,
+          "course_retrieval": 0.0,
+          "llm_prompt_preparation": 0.0,
+          "llm_call": 5.641
+        },
+        "total_time": 19.596,
+        "cache_stats": {
+          "hits": 0,
+          "misses": 0,
+          "hit_ratio": 0
+        }
+      },
+      "performance_summary": {
+        "step_timings": {
+          "pipeline_total": 8.603,
+          "post_processing": 0.0,
+          "roadmap_generation_total": 5.641,
+          "input_trimming": 0.0,
+          "course_retrieval": 0.0,
+          "llm_prompt_preparation": 0.0,
+          "llm_call": 5.641
+        },
+        "total_time": 19.885,
+        "cache_stats": {
+          "hits": 0,
+          "misses": 0,
+          "hit_ratio": 0
+        }
+      }
+    },
+    "execution_time_seconds": 8.68694519996643,
+    "session_id": "session_20250803_172741"
+  },
+  {
+    "timestamp": "2025-08-03T17:27:41.960572",
+    "input": {
+      "text": "CHARLES CROFT\n\nPROGRAM DELIVERY MANAGER\nCONTACT\n555 819 2259\ncharlescroft.com\ncharles@croft.com\nlinkedin.com/in/charlescroft\nVancouver, BC\n\nLorem ipsum dolor sit amet...Lorem ipsum dolor sit amet...\n\nPROFESSIONAL EXPERIENCE\nYour Position / Company / Location / 2012 - Present\nLorem ipsum dolor sit amet, consectetur adipiscing elit.\nVestibulum nec orci et mauris blandit semper.\nPhasellus scelerisque vestibulum elit.\nYour Position / Company / Location / 2012 - Present\nLorem ipsum dolor sit amet, consectetur adipiscing elit.\nVestibulum nec orci et mauris blandit semper.\nPhasellus scelerisque vestibulum elit.\n\nEXPERTISE\nPython\nMachine Learning\nNLP\nDeep Learning\nData Preprocessing\n\nTECHNOLOGY\nPython\nJupyter\nTensorFlow\nScikit-learn\nGit",
+      "target_role": "Unknown Role"
+    },
+    "output": {
+      "extracted_skills": [
+        "python",
+        "machine-learning",
+        "nlp",
+        "deep-learning",
+        "data-preprocessing",
+        "jupyter",
+        "tensorflow",
+        "scikit-learn",
+        "git"
+      ],
+      "missing_skills": [],
+      "nice_to_have": [],
+      "roadmap_phases": 3,
+      "total_recommended_skills": 0
+    },
+    "full_result": {
+      "input": "CHARLES CROFT\n\nPROGRAM DELIVERY MANAGER\nCONTACT\n555 819 2259\ncharlescroft.com\ncharles@croft.com\nlinkedin.com/in/charlescroft\nVancouver, BC\n\nLorem ipsum dolor sit amet...Lorem ipsum dolor sit amet...\n\nPROFESSIONAL EXPERIENCE\nYour Position / Company / Location / 2012 - Present\nLorem ipsum dolor sit amet, consectetur adipiscing elit.\nVestibulum nec orci et mauris blandit semper.\nPhasellus scelerisque vestibulum elit.\nYour Position / Company / Location / 2012 - Present\nLorem ipsum dolor sit amet, consectetur adipiscing elit.\nVestibulum nec orci et mauris blandit semper.\nPhasellus scelerisque vestibulum elit.\n\nEXPERTISE\nPython\nMachine Learning\nNLP\nDeep Learning\nData Preprocessing\n\nTECHNOLOGY\nPython\nJupyter\nTensorFlow\nScikit-learn\nGit",
+      "target_role": "Unknown Role",
+      "extracted_skills": [
+        "python",
+        "machine-learning",
+        "nlp",
+        "deep-learning",
+        "data-preprocessing",
+        "jupyter",
+        "tensorflow",
+        "scikit-learn",
+        "git"
+      ],
+      "missing_skills": [],
+      "nice_to_have": [],
+      "roadmap": [
+        {
+          "phase": "Phase 1",
+          "skills": [
+            {
+              "skill": "Python Programming",
+              "course": "Python for Everybody - Coursera",
+              "reason": "Essential for data analysis tasks."
+            },
+            {
+              "skill": "Data Analysis",
+              "course": "Data Analysis with Python - edX",
+              "reason": "Key for interpreting data insights."
+            }
+          ]
+        },
+        {
+          "phase": "Phase 2",
+          "skills": [
+            {
+              "skill": "Machine Learning",
+              "course": "Machine Learning - Coursera",
+              "reason": "Crucial for predictive modeling."
+            },
+            {
+              "skill": "Data Visualization",
+              "course": "Data Visualization with Tableau - Udemy",
+              "reason": "Important for presenting data findings."
+            }
+          ]
+        },
+        {
+          "phase": "Phase 3",
+          "skills": [
+            {
+              "skill": "Cloud Computing",
+              "course": "AWS Cloud Practitioner - AWS Training",
+              "reason": "Vital for scalable data solutions."
+            },
+            {
+              "skill": "Big Data",
+              "course": "Big Data Specialization - Coursera",
+              "reason": "Necessary for handling large datasets."
+            }
+          ]
+        }
+      ],
+      "performance_data": {
+        "step_timings": {
+          "pipeline_total": 8.603,
+          "post_processing": 0.0,
+          "roadmap_generation_total": 5.695,
+          "input_trimming": 0.0,
+          "course_retrieval": 0.0,
+          "llm_prompt_preparation": 0.0,
+          "llm_call": 5.695
+        },
+        "total_time": 19.993,
+        "cache_stats": {
+          "hits": 0,
+          "misses": 0,
+          "hit_ratio": 0
+        }
+      },
+      "performance_summary": {
+        "step_timings": {
+          "pipeline_total": 8.657,
+          "post_processing": 0.0,
+          "roadmap_generation_total": 5.695,
+          "input_trimming": 0.0,
+          "course_retrieval": 0.0,
+          "llm_prompt_preparation": 0.0,
+          "llm_call": 5.695
+        },
+        "total_time": 20.047,
+        "cache_stats": {
+          "hits": 0,
+          "misses": 0,
+          "hit_ratio": 0
+        }
+      }
+    },
+    "execution_time_seconds": 8.657224178314209,
+    "session_id": "session_20250803_172741"
+  },
+  {
+    "timestamp": "2025-08-03T17:27:42.860422",
+    "input": {
+      "text": "CHARLES CROFT\n\nPROGRAM DELIVERY MANAGER\nCONTACT\n555 819 2259\ncharlescroft.com\ncharles@croft.com\nlinkedin.com/in/charlescroft\nVancouver, BC\n\nLorem ipsum dolor sit amet...Lorem ipsum dolor sit amet...\n\nPROFESSIONAL EXPERIENCE\nYour Position / Company / Location / 2012 - Present\nLorem ipsum dolor sit amet, consectetur adipiscing elit.\nVestibulum nec orci et mauris blandit semper.\nPhasellus scelerisque vestibulum elit.\nYour Position / Company / Location / 2012 - Present\nLorem ipsum dolor sit amet, consectetur adipiscing elit.\nVestibulum nec orci et mauris blandit semper.\nPhasellus scelerisque vestibulum elit.\n\nEXPERTISE\nPython\nMachine Learning\nNLP\nDeep Learning\nData Preprocessing\n\nTECHNOLOGY\nPython\nJupyter\nTensorFlow\nScikit-learn\nGit",
+      "target_role": "Unknown Role"
+    },
+    "output": {
+      "extracted_skills": [
+        "python",
+        "machine-learning",
+        "nlp",
+        "deep-learning",
+        "data-preprocessing",
+        "jupyter",
+        "tensorflow",
+        "scikit-learn",
+        "git"
+      ],
+      "missing_skills": [],
+      "nice_to_have": [],
+      "roadmap_phases": 3,
+      "total_recommended_skills": 0
+    },
+    "full_result": {
+      "input": "CHARLES CROFT\n\nPROGRAM DELIVERY MANAGER\nCONTACT\n555 819 2259\ncharlescroft.com\ncharles@croft.com\nlinkedin.com/in/charlescroft\nVancouver, BC\n\nLorem ipsum dolor sit amet...Lorem ipsum dolor sit amet...\n\nPROFESSIONAL EXPERIENCE\nYour Position / Company / Location / 2012 - Present\nLorem ipsum dolor sit amet, consectetur adipiscing elit.\nVestibulum nec orci et mauris blandit semper.\nPhasellus scelerisque vestibulum elit.\nYour Position / Company / Location / 2012 - Present\nLorem ipsum dolor sit amet, consectetur adipiscing elit.\nVestibulum nec orci et mauris blandit semper.\nPhasellus scelerisque vestibulum elit.\n\nEXPERTISE\nPython\nMachine Learning\nNLP\nDeep Learning\nData Preprocessing\n\nTECHNOLOGY\nPython\nJupyter\nTensorFlow\nScikit-learn\nGit",
+      "target_role": "Unknown Role",
+      "extracted_skills": [
+        "python",
+        "machine-learning",
+        "nlp",
+        "deep-learning",
+        "data-preprocessing",
+        "jupyter",
+        "tensorflow",
+        "scikit-learn",
+        "git"
+      ],
+      "missing_skills": [],
+      "nice_to_have": [],
+      "roadmap": [
+        {
+          "phase": "Phase 1",
+          "skills": [
+            {
+              "skill": "Python Programming",
+              "course": "Python for Everybody - Coursera",
+              "reason": "Foundation for data analysis tasks."
+            },
+            {
+              "skill": "Data Analysis",
+              "course": "Data Analysis with Python - edX",
+              "reason": "Essential for interpreting data insights."
+            }
+          ]
+        },
+        {
+          "phase": "Phase 2",
+          "skills": [
+            {
+              "skill": "Machine Learning",
+              "course": "Machine Learning - Coursera",
+              "reason": "Automate data-driven decision making."
+            },
+            {
+              "skill": "Data Visualization",
+              "course": "Data Visualization with Tableau - Udemy",
+              "reason": "Communicate insights effectively."
+            }
+          ]
+        },
+        {
+          "phase": "Phase 3",
+          "skills": [
+            {
+              "skill": "Cloud Computing",
+              "course": "AWS Cloud Practitioner - AWS Training",
+              "reason": "Scalable data processing solutions."
+            },
+            {
+              "skill": "Big Data",
+              "course": "Big Data Specialization - Coursera",
+              "reason": "Handle large datasets efficiently."
+            }
+          ]
+        }
+      ],
+      "performance_data": {
+        "step_timings": {
+          "pipeline_total": 8.657,
+          "post_processing": 0.0,
+          "roadmap_generation_total": 6.595,
+          "input_trimming": 0.0,
+          "course_retrieval": 0.0,
+          "llm_prompt_preparation": 0.0,
+          "llm_call": 6.595
+        },
+        "total_time": 21.847,
+        "cache_stats": {
+          "hits": 0,
+          "misses": 0,
+          "hit_ratio": 0
+        }
+      },
+      "performance_summary": {
+        "step_timings": {
+          "pipeline_total": 9.557,
+          "post_processing": 0.0,
+          "roadmap_generation_total": 6.595,
+          "input_trimming": 0.0,
+          "course_retrieval": 0.0,
+          "llm_prompt_preparation": 0.0,
+          "llm_call": 6.595
+        },
+        "total_time": 22.747,
+        "cache_stats": {
+          "hits": 0,
+          "misses": 0,
+          "hit_ratio": 0
+        }
+      }
+    },
+    "execution_time_seconds": 9.871227502822876,
+    "session_id": "session_20250803_172742"
+  },
+  {
+    "timestamp": "2025-08-03T17:50:40.363086",
+    "input": {
+      "text": "CHARLES CROFT\nPROGRAM DELIVERY MANAGER\nCONTACT\n555 819 2259\ncharlescroft.com\ncharles@croft.com\nlinkedin.com/in/charlescroft\nVancouver, BC\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum nec orci et mauris blandit semper sit amet in urna.\nPhasellus scelerisque vestibulum elit.\nPROFESSIONAL EXPERIENCE\nYour Position / Company / Location / 2012 - Present\n- Lorem ipsum dolor sit amet, consectetur adipiscing elit.\n- Vestibulum nec orci et mauris blandit semper.\n- Phasellus scelerisque vestibulum elit.\nYour Position / Company / Location / 2012 - Present\n- Lorem ipsum dolor sit amet, consectetur adipiscing elit.\n- Vestibulum nec orci et mauris blandit semper.\n- Phasellus scelerisque vestibulum elit.\nEXPERTISE\n- Agile/Scrum\n- Roadmapping\n- Stakeholder Management\n- Risk Assessment\n- Team Leadership\nTECHNOLOGY\n- JIRA\n- Trello\n- Notion\n- Confluence\n- MS Project",
+      "target_role": "Skill Extraction"
+    },
+    "output": {
+      "extracted_skills": [
+        "jira",
+        "trello",
+        "notion",
+        "confluence",
+        "ms-project"
+      ],
+      "missing_skills": [],
+      "nice_to_have": [],
+      "roadmap_phases": 0,
+      "total_recommended_skills": 0
+    },
+    "full_result": {
+      "extracted_skills": [
+        "jira",
+        "trello",
+        "notion",
+        "confluence",
+        "ms-project"
+      ],
+      "performance_summary": {
+        "step_timings": {
+          "skill_extraction_only": 2.792
+        },
+        "total_time": 2.792,
+        "cache_stats": {
+          "hits": 0,
+          "misses": 0,
+          "hit_ratio": 0
+        }
+      }
+    },
+    "execution_time_seconds": 2.7921860218048096,
+    "session_id": "session_20250803_175040"
+  },
+  {
+    "timestamp": "2025-08-03T18:21:03.227821",
+    "input": {
+      "text": "CHARLES CROFT\nPROGRAM DELIVERY MANAGER\nCONTACT\n555 819 2259\ncharlescroft.com\ncharles@croft.com\nlinkedin.com/in/charlescroft\nVancouver, BC\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum nec orci et mauris blandit semper sit amet in urna.\nPhasellus scelerisque vestibulum elit.\nPROFESSIONAL EXPERIENCE\nYour Position / Company / Location / 2012 - Present\n- Lorem ipsum dolor sit amet, consectetur adipiscing elit.\n- Vestibulum nec orci et mauris blandit semper.\n- Phasellus scelerisque vestibulum elit.\nYour Position / Company / Location / 2012 - Present\n- Lorem ipsum dolor sit amet, consectetur adipiscing elit.\n- Vestibulum nec orci et mauris blandit semper.\n- Phasellus scelerisque vestibulum elit.\nEXPERTISE\n- Python\n- Machine Learning\n- NLP\n- Deep Learning\n- Data Preprocessing\nTECHNOLOGY\n- Python\n- Jupyter\n- TensorFlow\n- Scikit-learn\n- Git",
+      "target_role": "Skill Extraction"
+    },
+    "output": {
+      "extracted_skills": [
+        "python",
+        "machine-learning",
+        "nlp",
+        "deep-learning",
+        "data-preprocessing",
+        "jupyter",
+        "tensorflow",
+        "scikit-learn",
+        "git"
+      ],
+      "missing_skills": [],
+      "nice_to_have": [],
+      "roadmap_phases": 0,
+      "total_recommended_skills": 0
+    },
+    "full_result": {
+      "extracted_skills": [
+        "python",
+        "machine-learning",
+        "nlp",
+        "deep-learning",
+        "data-preprocessing",
+        "jupyter",
+        "tensorflow",
+        "scikit-learn",
+        "git"
+      ],
+      "performance_summary": {
+        "step_timings": {
+          "skill_extraction_only": 1.954
+        },
+        "total_time": 1.954,
+        "cache_stats": {
+          "hits": 0,
+          "misses": 0,
+          "hit_ratio": 0
+        }
+      }
+    },
+    "execution_time_seconds": 1.9542109966278076,
+    "session_id": "session_20250803_182103"
+  },
+  {
+    "timestamp": "2025-08-03T18:44:48.685309",
+    "input": {
+      "text": "Skills: python, sql, machine-learning, pandas",
+      "target_role": "Role Assessment"
+    },
+    "output": {
+      "extracted_skills": [],
+      "missing_skills": [],
+      "nice_to_have": [],
+      "roadmap_phases": 0,
+      "total_recommended_skills": 0
+    },
+    "full_result": {
+      "matched_roles": [
+        {
+          "role_name": "data-scientist",
+          "readiness_score": 0.219,
+          "readiness_label": "Needs foundation",
+          "missing_skills": [
+            {
+              "skill": "python",
+              "current_level": 2,
+              "target_level": 3,
+              "gap_degree": 1,
+              "importance": "must"
+            },
+            {
+              "skill": "sql",
+              "current_level": 2,
+              "target_level": 3,
+              "gap_degree": 1,
+              "importance": "must"
+            },
+            {
+              "skill": "statistics",
+              "current_level": 0,
+              "target_level": 3,
+              "gap_degree": 3,
+              "importance": "must"
+            },
+            {
+              "skill": "machine-learning",
+              "current_level": 2,
+              "target_level": 3,
+              "gap_degree": 1,
+              "importance": "must"
+            },
+            {
+              "skill": "pandas",
+              "current_level": 2,
+              "target_level": 3,
+              "gap_degree": 1,
+              "importance": "must"
+            },
+            {
+              "skill": "numpy",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "must"
+            },
+            {
+              "skill": "scikit-learn",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "must"
+            },
+            {
+              "skill": "data-visualization",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "must"
+            },
+            {
+              "skill": "jupyter",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "nice"
+            },
+            {
+              "skill": "tensorflow",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "nice"
+            },
+            {
+              "skill": "pytorch",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "nice"
+            },
+            {
+              "skill": "deep-learning",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "nice"
+            },
+            {
+              "skill": "r",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "nice"
+            }
+          ],
+          "quick_win_recommendations": [
+            "Foundation needed in statistics: Dedicate 8-12 hours to comprehensive training (Level 0\u21923)",
+            "Foundation needed in numpy: Dedicate 8-12 hours to comprehensive training (Level 0\u21922)"
+          ]
+        },
+        {
+          "role_name": "ml-engineer",
+          "readiness_score": 0.187,
+          "readiness_label": "Needs foundation",
+          "missing_skills": [
+            {
+              "skill": "python",
+              "current_level": 2,
+              "target_level": 3,
+              "gap_degree": 1,
+              "importance": "must"
+            },
+            {
+              "skill": "machine-learning",
+              "current_level": 2,
+              "target_level": 3,
+              "gap_degree": 1,
+              "importance": "must"
+            },
+            {
+              "skill": "tensorflow",
+              "current_level": 0,
+              "target_level": 3,
+              "gap_degree": 3,
+              "importance": "must"
+            },
+            {
+              "skill": "pytorch",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "must"
+            },
+            {
+              "skill": "deep-learning",
+              "current_level": 0,
+              "target_level": 3,
+              "gap_degree": 3,
+              "importance": "must"
+            },
+            {
+              "skill": "docker",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "must"
+            },
+            {
+              "skill": "kubernetes",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "must"
+            },
+            {
+              "skill": "git",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "must"
+            },
+            {
+              "skill": "linux",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "must"
+            },
+            {
+              "skill": "aws",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "nice"
+            },
+            {
+              "skill": "mlops",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "nice"
+            },
+            {
+              "skill": "scikit-learn",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "nice"
+            }
+          ],
+          "quick_win_recommendations": [
+            "Foundation needed in tensorflow: Dedicate 8-12 hours to comprehensive training (Level 0\u21923)",
+            "Foundation needed in deep-learning: Dedicate 8-12 hours to comprehensive training (Level 0\u21923)"
+          ]
+        },
+        {
+          "role_name": "ai-engineer",
+          "readiness_score": 0.127,
+          "readiness_label": "Needs foundation",
+          "missing_skills": [
+            {
+              "skill": "python",
+              "current_level": 2,
+              "target_level": 3,
+              "gap_degree": 1,
+              "importance": "must"
+            },
+            {
+              "skill": "deep-learning",
+              "current_level": 0,
+              "target_level": 3,
+              "gap_degree": 3,
+              "importance": "must"
+            },
+            {
+              "skill": "tensorflow",
+              "current_level": 0,
+              "target_level": 3,
+              "gap_degree": 3,
+              "importance": "must"
+            },
+            {
+              "skill": "pytorch",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "must"
+            },
+            {
+              "skill": "machine-learning",
+              "current_level": 2,
+              "target_level": 3,
+              "gap_degree": 1,
+              "importance": "must"
+            },
+            {
+              "skill": "neural-networks",
+              "current_level": 0,
+              "target_level": 3,
+              "gap_degree": 3,
+              "importance": "must"
+            },
+            {
+              "skill": "computer-vision",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "must"
+            },
+            {
+              "skill": "nlp",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "must"
+            },
+            {
+              "skill": "transformers",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "nice"
+            },
+            {
+              "skill": "llm",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "nice"
+            },
+            {
+              "skill": "hugging-face",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "nice"
+            }
+          ],
+          "quick_win_recommendations": [
+            "Foundation needed in deep-learning: Dedicate 8-12 hours to comprehensive training (Level 0\u21923)",
+            "Foundation needed in tensorflow: Dedicate 8-12 hours to comprehensive training (Level 0\u21923)"
+          ]
+        },
+        {
+          "role_name": "product-manager",
+          "readiness_score": 0.081,
+          "readiness_label": "Needs foundation",
+          "missing_skills": [
+            {
+              "skill": "product-strategy",
+              "current_level": 0,
+              "target_level": 3,
+              "gap_degree": 3,
+              "importance": "must"
+            },
+            {
+              "skill": "user-research",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "must"
+            },
+            {
+              "skill": "data-analysis",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "must"
+            },
+            {
+              "skill": "roadmap-planning",
+              "current_level": 0,
+              "target_level": 3,
+              "gap_degree": 3,
+              "importance": "must"
+            },
+            {
+              "skill": "agile",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "must"
+            },
+            {
+              "skill": "stakeholder-management",
+              "current_level": 0,
+              "target_level": 3,
+              "gap_degree": 3,
+              "importance": "must"
+            },
+            {
+              "skill": "market-research",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "must"
+            },
+            {
+              "skill": "excel",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "nice"
+            },
+            {
+              "skill": "jira",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "nice"
+            },
+            {
+              "skill": "figma",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "nice"
+            }
+          ],
+          "quick_win_recommendations": [
+            "Foundation needed in product-strategy: Dedicate 8-12 hours to comprehensive training (Level 0\u21923)",
+            "Foundation needed in roadmap-planning: Dedicate 8-12 hours to comprehensive training (Level 0\u21923)"
+          ]
+        },
+        {
+          "role_name": "cybersecurity-analyst",
+          "readiness_score": 0.079,
+          "readiness_label": "Needs foundation",
+          "missing_skills": [
+            {
+              "skill": "security",
+              "current_level": 0,
+              "target_level": 3,
+              "gap_degree": 3,
+              "importance": "must"
+            },
+            {
+              "skill": "networking",
+              "current_level": 0,
+              "target_level": 3,
+              "gap_degree": 3,
+              "importance": "must"
+            },
+            {
+              "skill": "linux",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "must"
+            },
+            {
+              "skill": "windows",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "must"
+            },
+            {
+              "skill": "incident-response",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "must"
+            },
+            {
+              "skill": "vulnerability-assessment",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "must"
+            },
+            {
+              "skill": "penetration-testing",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "must"
+            },
+            {
+              "skill": "siem",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "must"
+            },
+            {
+              "skill": "powershell",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "nice"
+            },
+            {
+              "skill": "forensics",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "nice"
+            }
+          ],
+          "quick_win_recommendations": [
+            "Foundation needed in security: Dedicate 8-12 hours to comprehensive training (Level 0\u21923)",
+            "Foundation needed in networking: Dedicate 8-12 hours to comprehensive training (Level 0\u21923)"
+          ]
+        }
+      ]
+    },
+    "execution_time_seconds": 0.0004088878631591797,
+    "session_id": "session_20250803_184448"
+  },
+  {
+    "timestamp": "2025-08-03T18:53:47.191030",
+    "input": {
+      "text": "Skills: python, sql, pandas, numpy, git",
+      "target_role": "Role Assessment"
+    },
+    "output": {
+      "extracted_skills": [],
+      "missing_skills": [],
+      "nice_to_have": [],
+      "roadmap_phases": 0,
+      "total_recommended_skills": 0
+    },
+    "full_result": {
+      "matched_roles": [
+        {
+          "role_name": "data-scientist",
+          "readiness_score": 0.247,
+          "readiness_label": "Needs foundation",
+          "missing_skills": [
+            {
+              "skill": "python",
+              "current_level": 2,
+              "target_level": 3,
+              "gap_degree": 1,
+              "importance": "must"
+            },
+            {
+              "skill": "sql",
+              "current_level": 2,
+              "target_level": 3,
+              "gap_degree": 1,
+              "importance": "must"
+            },
+            {
+              "skill": "statistics",
+              "current_level": 0,
+              "target_level": 3,
+              "gap_degree": 3,
+              "importance": "must"
+            },
+            {
+              "skill": "machine-learning",
+              "current_level": 0,
+              "target_level": 3,
+              "gap_degree": 3,
+              "importance": "must"
+            },
+            {
+              "skill": "pandas",
+              "current_level": 2,
+              "target_level": 3,
+              "gap_degree": 1,
+              "importance": "must"
+            },
+            {
+              "skill": "scikit-learn",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "must"
+            },
+            {
+              "skill": "data-visualization",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "must"
+            },
+            {
+              "skill": "jupyter",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "nice"
+            },
+            {
+              "skill": "tensorflow",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "nice"
+            },
+            {
+              "skill": "pytorch",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "nice"
+            },
+            {
+              "skill": "deep-learning",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "nice"
+            },
+            {
+              "skill": "r",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "nice"
+            }
+          ],
+          "quick_win_recommendations": [
+            "Foundation needed in statistics: Start with course STAT001 - 'Statistics for Data Science' (25h) (Level 0\u21923)",
+            "Foundation needed in machine learning: Start with course ML001 - 'Machine Learning Course' (60h) (Level 0\u21923)"
+          ]
+        },
+        {
+          "role_name": "ml-engineer",
+          "readiness_score": 0.213,
+          "readiness_label": "Needs foundation",
+          "missing_skills": [
+            {
+              "skill": "python",
+              "current_level": 2,
+              "target_level": 3,
+              "gap_degree": 1,
+              "importance": "must"
+            },
+            {
+              "skill": "machine-learning",
+              "current_level": 0,
+              "target_level": 3,
+              "gap_degree": 3,
+              "importance": "must"
+            },
+            {
+              "skill": "tensorflow",
+              "current_level": 0,
+              "target_level": 3,
+              "gap_degree": 3,
+              "importance": "must"
+            },
+            {
+              "skill": "pytorch",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "must"
+            },
+            {
+              "skill": "deep-learning",
+              "current_level": 0,
+              "target_level": 3,
+              "gap_degree": 3,
+              "importance": "must"
+            },
+            {
+              "skill": "docker",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "must"
+            },
+            {
+              "skill": "kubernetes",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "must"
+            },
+            {
+              "skill": "linux",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "must"
+            },
+            {
+              "skill": "aws",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "nice"
+            },
+            {
+              "skill": "mlops",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "nice"
+            },
+            {
+              "skill": "scikit-learn",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "nice"
+            }
+          ],
+          "quick_win_recommendations": [
+            "Foundation needed in machine learning: Start with course ML001 - 'Machine Learning Course' (60h) (Level 0\u21923)",
+            "Foundation needed in Tensorflow: Dedicate 8-12 hours to comprehensive training through online courses or bootcamps (Level 0\u21923)"
+          ]
+        },
+        {
+          "role_name": "full-stack-developer",
+          "readiness_score": 0.152,
+          "readiness_label": "Needs foundation",
+          "missing_skills": [
+            {
+              "skill": "javascript",
+              "current_level": 0,
+              "target_level": 3,
+              "gap_degree": 3,
+              "importance": "must"
+            },
+            {
+              "skill": "html",
+              "current_level": 0,
+              "target_level": 3,
+              "gap_degree": 3,
+              "importance": "must"
+            },
+            {
+              "skill": "css",
+              "current_level": 0,
+              "target_level": 3,
+              "gap_degree": 3,
+              "importance": "must"
+            },
+            {
+              "skill": "react",
+              "current_level": 0,
+              "target_level": 3,
+              "gap_degree": 3,
+              "importance": "must"
+            },
+            {
+              "skill": "nodejs",
+              "current_level": 0,
+              "target_level": 3,
+              "gap_degree": 3,
+              "importance": "must"
+            },
+            {
+              "skill": "rest-api",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "must"
+            },
+            {
+              "skill": "express",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "must"
+            },
+            {
+              "skill": "typescript",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "nice"
+            },
+            {
+              "skill": "vuejs",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "nice"
+            },
+            {
+              "skill": "angular",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "nice"
+            },
+            {
+              "skill": "mongodb",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "nice"
+            },
+            {
+              "skill": "postgresql",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "nice"
+            }
+          ],
+          "quick_win_recommendations": [
+            "Foundation needed in javascript: Start with course JS001 - 'JavaScript: The Complete Guide' (52h) (Level 0\u21923)",
+            "Foundation needed in Html: Dedicate 8-12 hours to comprehensive training through online courses or bootcamps (Level 0\u21923)"
+          ]
+        },
+        {
+          "role_name": "devops-engineer",
+          "readiness_score": 0.12,
+          "readiness_label": "Needs foundation",
+          "missing_skills": [
+            {
+              "skill": "linux",
+              "current_level": 0,
+              "target_level": 3,
+              "gap_degree": 3,
+              "importance": "must"
+            },
+            {
+              "skill": "docker",
+              "current_level": 0,
+              "target_level": 3,
+              "gap_degree": 3,
+              "importance": "must"
+            },
+            {
+              "skill": "kubernetes",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "must"
+            },
+            {
+              "skill": "git",
+              "current_level": 2,
+              "target_level": 3,
+              "gap_degree": 1,
+              "importance": "must"
+            },
+            {
+              "skill": "ci-cd",
+              "current_level": 0,
+              "target_level": 3,
+              "gap_degree": 3,
+              "importance": "must"
+            },
+            {
+              "skill": "jenkins",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "must"
+            },
+            {
+              "skill": "terraform",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "must"
+            },
+            {
+              "skill": "aws",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "must"
+            },
+            {
+              "skill": "bash",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "must"
+            },
+            {
+              "skill": "monitoring",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "must"
+            },
+            {
+              "skill": "ansible",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "nice"
+            },
+            {
+              "skill": "azure",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "nice"
+            }
+          ],
+          "quick_win_recommendations": [
+            "Foundation needed in linux: Start with course LIN001 - 'Linux Command Line Basics' (8h) (Level 0\u21923)",
+            "Foundation needed in docker: Start with course DOCK001 - 'Docker Mastery' (19h) (Level 0\u21923)"
+          ]
+        },
+        {
+          "role_name": "product-manager",
+          "readiness_score": 0.081,
+          "readiness_label": "Needs foundation",
+          "missing_skills": [
+            {
+              "skill": "product-strategy",
+              "current_level": 0,
+              "target_level": 3,
+              "gap_degree": 3,
+              "importance": "must"
+            },
+            {
+              "skill": "user-research",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "must"
+            },
+            {
+              "skill": "data-analysis",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "must"
+            },
+            {
+              "skill": "roadmap-planning",
+              "current_level": 0,
+              "target_level": 3,
+              "gap_degree": 3,
+              "importance": "must"
+            },
+            {
+              "skill": "agile",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "must"
+            },
+            {
+              "skill": "stakeholder-management",
+              "current_level": 0,
+              "target_level": 3,
+              "gap_degree": 3,
+              "importance": "must"
+            },
+            {
+              "skill": "market-research",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "must"
+            },
+            {
+              "skill": "excel",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "nice"
+            },
+            {
+              "skill": "jira",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "nice"
+            },
+            {
+              "skill": "figma",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "nice"
+            }
+          ],
+          "quick_win_recommendations": [
+            "Foundation needed in Product Strategy: Dedicate 8-12 hours to comprehensive training through online courses or bootcamps (Level 0\u21923)",
+            "Foundation needed in Roadmap Planning: Dedicate 8-12 hours to comprehensive training through online courses or bootcamps (Level 0\u21923)"
+          ]
+        }
+      ]
+    },
+    "execution_time_seconds": 0.00040531158447265625,
+    "session_id": "session_20250803_185347"
+  },
+  {
+    "timestamp": "2025-08-03T18:53:57.684635",
+    "input": {
+      "text": "Skills: python, sql, machine-learning, pandas, numpy, statistics, jupyter, git",
+      "target_role": "Role Assessment"
+    },
+    "output": {
+      "extracted_skills": [],
+      "missing_skills": [],
+      "nice_to_have": [],
+      "roadmap_phases": 0,
+      "total_recommended_skills": 0
+    },
+    "full_result": {
+      "matched_roles": [
+        {
+          "role_name": "data-scientist",
+          "readiness_score": 0.425,
+          "readiness_label": "Needs foundation",
+          "missing_skills": [
+            {
+              "skill": "python",
+              "current_level": 2,
+              "target_level": 3,
+              "gap_degree": 1,
+              "importance": "must"
+            },
+            {
+              "skill": "sql",
+              "current_level": 2,
+              "target_level": 3,
+              "gap_degree": 1,
+              "importance": "must"
+            },
+            {
+              "skill": "statistics",
+              "current_level": 2,
+              "target_level": 3,
+              "gap_degree": 1,
+              "importance": "must"
+            },
+            {
+              "skill": "machine-learning",
+              "current_level": 2,
+              "target_level": 3,
+              "gap_degree": 1,
+              "importance": "must"
+            },
+            {
+              "skill": "pandas",
+              "current_level": 2,
+              "target_level": 3,
+              "gap_degree": 1,
+              "importance": "must"
+            },
+            {
+              "skill": "scikit-learn",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "must"
+            },
+            {
+              "skill": "data-visualization",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "must"
+            },
+            {
+              "skill": "tensorflow",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "nice"
+            },
+            {
+              "skill": "pytorch",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "nice"
+            },
+            {
+              "skill": "deep-learning",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "nice"
+            },
+            {
+              "skill": "r",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "nice"
+            }
+          ],
+          "quick_win_recommendations": [
+            "Foundation needed in Scikit Learn: Dedicate 8-12 hours to comprehensive training through online courses or bootcamps (Level 0\u21922)",
+            "Foundation needed in Data Visualization: Dedicate 8-12 hours to comprehensive training through online courses or bootcamps (Level 0\u21922)"
+          ]
+        },
+        {
+          "role_name": "ml-engineer",
+          "readiness_score": 0.267,
+          "readiness_label": "Needs foundation",
+          "missing_skills": [
+            {
+              "skill": "python",
+              "current_level": 2,
+              "target_level": 3,
+              "gap_degree": 1,
+              "importance": "must"
+            },
+            {
+              "skill": "machine-learning",
+              "current_level": 2,
+              "target_level": 3,
+              "gap_degree": 1,
+              "importance": "must"
+            },
+            {
+              "skill": "tensorflow",
+              "current_level": 0,
+              "target_level": 3,
+              "gap_degree": 3,
+              "importance": "must"
+            },
+            {
+              "skill": "pytorch",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "must"
+            },
+            {
+              "skill": "deep-learning",
+              "current_level": 0,
+              "target_level": 3,
+              "gap_degree": 3,
+              "importance": "must"
+            },
+            {
+              "skill": "docker",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "must"
+            },
+            {
+              "skill": "kubernetes",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "must"
+            },
+            {
+              "skill": "linux",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "must"
+            },
+            {
+              "skill": "aws",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "nice"
+            },
+            {
+              "skill": "mlops",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "nice"
+            },
+            {
+              "skill": "scikit-learn",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "nice"
+            }
+          ],
+          "quick_win_recommendations": [
+            "Foundation needed in Tensorflow: Dedicate 8-12 hours to comprehensive training through online courses or bootcamps (Level 0\u21923)",
+            "Foundation needed in Deep Learning: Dedicate 8-12 hours to comprehensive training through online courses or bootcamps (Level 0\u21923)"
+          ]
+        },
+        {
+          "role_name": "full-stack-developer",
+          "readiness_score": 0.152,
+          "readiness_label": "Needs foundation",
+          "missing_skills": [
+            {
+              "skill": "javascript",
+              "current_level": 0,
+              "target_level": 3,
+              "gap_degree": 3,
+              "importance": "must"
+            },
+            {
+              "skill": "html",
+              "current_level": 0,
+              "target_level": 3,
+              "gap_degree": 3,
+              "importance": "must"
+            },
+            {
+              "skill": "css",
+              "current_level": 0,
+              "target_level": 3,
+              "gap_degree": 3,
+              "importance": "must"
+            },
+            {
+              "skill": "react",
+              "current_level": 0,
+              "target_level": 3,
+              "gap_degree": 3,
+              "importance": "must"
+            },
+            {
+              "skill": "nodejs",
+              "current_level": 0,
+              "target_level": 3,
+              "gap_degree": 3,
+              "importance": "must"
+            },
+            {
+              "skill": "rest-api",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "must"
+            },
+            {
+              "skill": "express",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "must"
+            },
+            {
+              "skill": "typescript",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "nice"
+            },
+            {
+              "skill": "vuejs",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "nice"
+            },
+            {
+              "skill": "angular",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "nice"
+            },
+            {
+              "skill": "mongodb",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "nice"
+            },
+            {
+              "skill": "postgresql",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "nice"
+            }
+          ],
+          "quick_win_recommendations": [
+            "Foundation needed in javascript: Start with course JS001 - 'JavaScript: The Complete Guide' (52h) (Level 0\u21923)",
+            "Foundation needed in Html: Dedicate 8-12 hours to comprehensive training through online courses or bootcamps (Level 0\u21923)"
+          ]
+        },
+        {
+          "role_name": "ai-engineer",
+          "readiness_score": 0.127,
+          "readiness_label": "Needs foundation",
+          "missing_skills": [
+            {
+              "skill": "python",
+              "current_level": 2,
+              "target_level": 3,
+              "gap_degree": 1,
+              "importance": "must"
+            },
+            {
+              "skill": "deep-learning",
+              "current_level": 0,
+              "target_level": 3,
+              "gap_degree": 3,
+              "importance": "must"
+            },
+            {
+              "skill": "tensorflow",
+              "current_level": 0,
+              "target_level": 3,
+              "gap_degree": 3,
+              "importance": "must"
+            },
+            {
+              "skill": "pytorch",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "must"
+            },
+            {
+              "skill": "machine-learning",
+              "current_level": 2,
+              "target_level": 3,
+              "gap_degree": 1,
+              "importance": "must"
+            },
+            {
+              "skill": "neural-networks",
+              "current_level": 0,
+              "target_level": 3,
+              "gap_degree": 3,
+              "importance": "must"
+            },
+            {
+              "skill": "computer-vision",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "must"
+            },
+            {
+              "skill": "nlp",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "must"
+            },
+            {
+              "skill": "transformers",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "nice"
+            },
+            {
+              "skill": "llm",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "nice"
+            },
+            {
+              "skill": "hugging-face",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "nice"
+            }
+          ],
+          "quick_win_recommendations": [
+            "Foundation needed in Deep Learning: Dedicate 8-12 hours to comprehensive training through online courses or bootcamps (Level 0\u21923)",
+            "Foundation needed in Tensorflow: Dedicate 8-12 hours to comprehensive training through online courses or bootcamps (Level 0\u21923)"
+          ]
+        },
+        {
+          "role_name": "devops-engineer",
+          "readiness_score": 0.12,
+          "readiness_label": "Needs foundation",
+          "missing_skills": [
+            {
+              "skill": "linux",
+              "current_level": 0,
+              "target_level": 3,
+              "gap_degree": 3,
+              "importance": "must"
+            },
+            {
+              "skill": "docker",
+              "current_level": 0,
+              "target_level": 3,
+              "gap_degree": 3,
+              "importance": "must"
+            },
+            {
+              "skill": "kubernetes",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "must"
+            },
+            {
+              "skill": "git",
+              "current_level": 2,
+              "target_level": 3,
+              "gap_degree": 1,
+              "importance": "must"
+            },
+            {
+              "skill": "ci-cd",
+              "current_level": 0,
+              "target_level": 3,
+              "gap_degree": 3,
+              "importance": "must"
+            },
+            {
+              "skill": "jenkins",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "must"
+            },
+            {
+              "skill": "terraform",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "must"
+            },
+            {
+              "skill": "aws",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "must"
+            },
+            {
+              "skill": "bash",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "must"
+            },
+            {
+              "skill": "monitoring",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "must"
+            },
+            {
+              "skill": "ansible",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "nice"
+            },
+            {
+              "skill": "azure",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "nice"
+            }
+          ],
+          "quick_win_recommendations": [
+            "Foundation needed in linux: Start with course LIN001 - 'Linux Command Line Basics' (8h) (Level 0\u21923)",
+            "Foundation needed in docker: Start with course DOCK001 - 'Docker Mastery' (19h) (Level 0\u21923)"
+          ]
+        }
+      ]
+    },
+    "execution_time_seconds": 0.0002830028533935547,
+    "session_id": "session_20250803_185357"
+  },
+  {
+    "timestamp": "2025-08-03T18:54:16.298621",
+    "input": {
+      "text": "Skills: python, sql, machine-learning, pandas, numpy, statistics, jupyter, git",
+      "target_role": "Role Assessment"
+    },
+    "output": {
+      "extracted_skills": [],
+      "missing_skills": [],
+      "nice_to_have": [],
+      "roadmap_phases": 0,
+      "total_recommended_skills": 0
+    },
+    "full_result": {
+      "matched_roles": [
+        {
+          "role_name": "data-scientist",
+          "readiness_score": 0.425,
+          "readiness_label": "Needs foundation",
+          "missing_skills": [
+            {
+              "skill": "python",
+              "current_level": 2,
+              "target_level": 3,
+              "gap_degree": 1,
+              "importance": "must"
+            },
+            {
+              "skill": "sql",
+              "current_level": 2,
+              "target_level": 3,
+              "gap_degree": 1,
+              "importance": "must"
+            },
+            {
+              "skill": "statistics",
+              "current_level": 2,
+              "target_level": 3,
+              "gap_degree": 1,
+              "importance": "must"
+            },
+            {
+              "skill": "machine-learning",
+              "current_level": 2,
+              "target_level": 3,
+              "gap_degree": 1,
+              "importance": "must"
+            },
+            {
+              "skill": "pandas",
+              "current_level": 2,
+              "target_level": 3,
+              "gap_degree": 1,
+              "importance": "must"
+            },
+            {
+              "skill": "scikit-learn",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "must"
+            },
+            {
+              "skill": "data-visualization",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "must"
+            },
+            {
+              "skill": "tensorflow",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "nice"
+            },
+            {
+              "skill": "pytorch",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "nice"
+            },
+            {
+              "skill": "deep-learning",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "nice"
+            },
+            {
+              "skill": "r",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "nice"
+            }
+          ],
+          "quick_win_recommendations": [
+            "Foundation needed in Scikit Learn: Dedicate 8-12 hours to comprehensive training through online courses or bootcamps (Level 0\u21922)",
+            "Foundation needed in Data Visualization: Dedicate 8-12 hours to comprehensive training through online courses or bootcamps (Level 0\u21922)"
+          ]
+        },
+        {
+          "role_name": "ml-engineer",
+          "readiness_score": 0.267,
+          "readiness_label": "Needs foundation",
+          "missing_skills": [
+            {
+              "skill": "python",
+              "current_level": 2,
+              "target_level": 3,
+              "gap_degree": 1,
+              "importance": "must"
+            },
+            {
+              "skill": "machine-learning",
+              "current_level": 2,
+              "target_level": 3,
+              "gap_degree": 1,
+              "importance": "must"
+            },
+            {
+              "skill": "tensorflow",
+              "current_level": 0,
+              "target_level": 3,
+              "gap_degree": 3,
+              "importance": "must"
+            },
+            {
+              "skill": "pytorch",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "must"
+            },
+            {
+              "skill": "deep-learning",
+              "current_level": 0,
+              "target_level": 3,
+              "gap_degree": 3,
+              "importance": "must"
+            },
+            {
+              "skill": "docker",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "must"
+            },
+            {
+              "skill": "kubernetes",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "must"
+            },
+            {
+              "skill": "linux",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "must"
+            },
+            {
+              "skill": "aws",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "nice"
+            },
+            {
+              "skill": "mlops",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "nice"
+            },
+            {
+              "skill": "scikit-learn",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "nice"
+            }
+          ],
+          "quick_win_recommendations": [
+            "Foundation needed in Tensorflow: Dedicate 8-12 hours to comprehensive training through online courses or bootcamps (Level 0\u21923)",
+            "Foundation needed in Deep Learning: Dedicate 8-12 hours to comprehensive training through online courses or bootcamps (Level 0\u21923)"
+          ]
+        },
+        {
+          "role_name": "full-stack-developer",
+          "readiness_score": 0.152,
+          "readiness_label": "Needs foundation",
+          "missing_skills": [
+            {
+              "skill": "javascript",
+              "current_level": 0,
+              "target_level": 3,
+              "gap_degree": 3,
+              "importance": "must"
+            },
+            {
+              "skill": "html",
+              "current_level": 0,
+              "target_level": 3,
+              "gap_degree": 3,
+              "importance": "must"
+            },
+            {
+              "skill": "css",
+              "current_level": 0,
+              "target_level": 3,
+              "gap_degree": 3,
+              "importance": "must"
+            },
+            {
+              "skill": "react",
+              "current_level": 0,
+              "target_level": 3,
+              "gap_degree": 3,
+              "importance": "must"
+            },
+            {
+              "skill": "nodejs",
+              "current_level": 0,
+              "target_level": 3,
+              "gap_degree": 3,
+              "importance": "must"
+            },
+            {
+              "skill": "rest-api",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "must"
+            },
+            {
+              "skill": "express",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "must"
+            },
+            {
+              "skill": "typescript",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "nice"
+            },
+            {
+              "skill": "vuejs",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "nice"
+            },
+            {
+              "skill": "angular",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "nice"
+            },
+            {
+              "skill": "mongodb",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "nice"
+            },
+            {
+              "skill": "postgresql",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "nice"
+            }
+          ],
+          "quick_win_recommendations": [
+            "Foundation needed in javascript: Start with course JS001 - 'JavaScript: The Complete Guide' (52h) (Level 0\u21923)",
+            "Foundation needed in Html: Dedicate 8-12 hours to comprehensive training through online courses or bootcamps (Level 0\u21923)"
+          ]
+        },
+        {
+          "role_name": "ai-engineer",
+          "readiness_score": 0.127,
+          "readiness_label": "Needs foundation",
+          "missing_skills": [
+            {
+              "skill": "python",
+              "current_level": 2,
+              "target_level": 3,
+              "gap_degree": 1,
+              "importance": "must"
+            },
+            {
+              "skill": "deep-learning",
+              "current_level": 0,
+              "target_level": 3,
+              "gap_degree": 3,
+              "importance": "must"
+            },
+            {
+              "skill": "tensorflow",
+              "current_level": 0,
+              "target_level": 3,
+              "gap_degree": 3,
+              "importance": "must"
+            },
+            {
+              "skill": "pytorch",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "must"
+            },
+            {
+              "skill": "machine-learning",
+              "current_level": 2,
+              "target_level": 3,
+              "gap_degree": 1,
+              "importance": "must"
+            },
+            {
+              "skill": "neural-networks",
+              "current_level": 0,
+              "target_level": 3,
+              "gap_degree": 3,
+              "importance": "must"
+            },
+            {
+              "skill": "computer-vision",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "must"
+            },
+            {
+              "skill": "nlp",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "must"
+            },
+            {
+              "skill": "transformers",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "nice"
+            },
+            {
+              "skill": "llm",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "nice"
+            },
+            {
+              "skill": "hugging-face",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "nice"
+            }
+          ],
+          "quick_win_recommendations": [
+            "Foundation needed in Deep Learning: Dedicate 8-12 hours to comprehensive training through online courses or bootcamps (Level 0\u21923)",
+            "Foundation needed in Tensorflow: Dedicate 8-12 hours to comprehensive training through online courses or bootcamps (Level 0\u21923)"
+          ]
+        },
+        {
+          "role_name": "devops-engineer",
+          "readiness_score": 0.12,
+          "readiness_label": "Needs foundation",
+          "missing_skills": [
+            {
+              "skill": "linux",
+              "current_level": 0,
+              "target_level": 3,
+              "gap_degree": 3,
+              "importance": "must"
+            },
+            {
+              "skill": "docker",
+              "current_level": 0,
+              "target_level": 3,
+              "gap_degree": 3,
+              "importance": "must"
+            },
+            {
+              "skill": "kubernetes",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "must"
+            },
+            {
+              "skill": "git",
+              "current_level": 2,
+              "target_level": 3,
+              "gap_degree": 1,
+              "importance": "must"
+            },
+            {
+              "skill": "ci-cd",
+              "current_level": 0,
+              "target_level": 3,
+              "gap_degree": 3,
+              "importance": "must"
+            },
+            {
+              "skill": "jenkins",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "must"
+            },
+            {
+              "skill": "terraform",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "must"
+            },
+            {
+              "skill": "aws",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "must"
+            },
+            {
+              "skill": "bash",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "must"
+            },
+            {
+              "skill": "monitoring",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "must"
+            },
+            {
+              "skill": "ansible",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "nice"
+            },
+            {
+              "skill": "azure",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "nice"
+            }
+          ],
+          "quick_win_recommendations": [
+            "Foundation needed in linux: Start with course LIN001 - 'Linux Command Line Basics' (8h) (Level 0\u21923)",
+            "Foundation needed in docker: Start with course DOCK001 - 'Docker Mastery' (19h) (Level 0\u21923)"
+          ]
+        }
+      ]
+    },
+    "execution_time_seconds": 0.000274658203125,
+    "session_id": "session_20250803_185416"
+  },
+  {
+    "timestamp": "2025-08-03T18:57:58.930843",
+    "input": {
+      "text": "Skills: Python, SQL, Databases, Numpy, Pandas, Matplotlib, Seaborn, Scikit-Learn, Data-Visualization",
+      "target_role": "Role Assessment"
+    },
+    "output": {
+      "extracted_skills": [],
+      "missing_skills": [],
+      "nice_to_have": [],
+      "roadmap_phases": 0,
+      "total_recommended_skills": 0
+    },
+    "full_result": {
+      "matched_roles": [
+        {
+          "role_name": "data-scientist",
+          "readiness_score": 0.411,
+          "readiness_label": "Needs foundation",
+          "missing_skills": [
+            {
+              "skill": "python",
+              "current_level": 2,
+              "target_level": 3,
+              "gap_degree": 1,
+              "importance": "must"
+            },
+            {
+              "skill": "sql",
+              "current_level": 2,
+              "target_level": 3,
+              "gap_degree": 1,
+              "importance": "must"
+            },
+            {
+              "skill": "statistics",
+              "current_level": 0,
+              "target_level": 3,
+              "gap_degree": 3,
+              "importance": "must"
+            },
+            {
+              "skill": "machine-learning",
+              "current_level": 0,
+              "target_level": 3,
+              "gap_degree": 3,
+              "importance": "must"
+            },
+            {
+              "skill": "pandas",
+              "current_level": 2,
+              "target_level": 3,
+              "gap_degree": 1,
+              "importance": "must"
+            },
+            {
+              "skill": "jupyter",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "nice"
+            },
+            {
+              "skill": "tensorflow",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "nice"
+            },
+            {
+              "skill": "pytorch",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "nice"
+            },
+            {
+              "skill": "deep-learning",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "nice"
+            },
+            {
+              "skill": "r",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "nice"
+            }
+          ],
+          "quick_win_recommendations": [
+            "Foundation needed in statistics: Start with course STAT001 - 'Statistics for Data Science' (25h) (Level 0\u21923)",
+            "Foundation needed in machine learning: Start with course ML001 - 'Machine Learning Course' (60h) (Level 0\u21923)"
+          ]
+        },
+        {
+          "role_name": "ml-engineer",
+          "readiness_score": 0.2,
+          "readiness_label": "Needs foundation",
+          "missing_skills": [
+            {
+              "skill": "python",
+              "current_level": 2,
+              "target_level": 3,
+              "gap_degree": 1,
+              "importance": "must"
+            },
+            {
+              "skill": "machine-learning",
+              "current_level": 0,
+              "target_level": 3,
+              "gap_degree": 3,
+              "importance": "must"
+            },
+            {
+              "skill": "tensorflow",
+              "current_level": 0,
+              "target_level": 3,
+              "gap_degree": 3,
+              "importance": "must"
+            },
+            {
+              "skill": "pytorch",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "must"
+            },
+            {
+              "skill": "deep-learning",
+              "current_level": 0,
+              "target_level": 3,
+              "gap_degree": 3,
+              "importance": "must"
+            },
+            {
+              "skill": "docker",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "must"
+            },
+            {
+              "skill": "kubernetes",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "must"
+            },
+            {
+              "skill": "git",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "must"
+            },
+            {
+              "skill": "linux",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "must"
+            },
+            {
+              "skill": "aws",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "nice"
+            },
+            {
+              "skill": "mlops",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "nice"
+            }
+          ],
+          "quick_win_recommendations": [
+            "Foundation needed in machine learning: Start with course ML001 - 'Machine Learning Course' (60h) (Level 0\u21923)",
+            "Foundation needed in Tensorflow: Dedicate 8-12 hours to comprehensive training through online courses or bootcamps (Level 0\u21923)"
+          ]
+        },
+        {
+          "role_name": "product-manager",
+          "readiness_score": 0.081,
+          "readiness_label": "Needs foundation",
+          "missing_skills": [
+            {
+              "skill": "product-strategy",
+              "current_level": 0,
+              "target_level": 3,
+              "gap_degree": 3,
+              "importance": "must"
+            },
+            {
+              "skill": "user-research",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "must"
+            },
+            {
+              "skill": "data-analysis",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "must"
+            },
+            {
+              "skill": "roadmap-planning",
+              "current_level": 0,
+              "target_level": 3,
+              "gap_degree": 3,
+              "importance": "must"
+            },
+            {
+              "skill": "agile",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "must"
+            },
+            {
+              "skill": "stakeholder-management",
+              "current_level": 0,
+              "target_level": 3,
+              "gap_degree": 3,
+              "importance": "must"
+            },
+            {
+              "skill": "market-research",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "must"
+            },
+            {
+              "skill": "excel",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "nice"
+            },
+            {
+              "skill": "jira",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "nice"
+            },
+            {
+              "skill": "figma",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "nice"
+            }
+          ],
+          "quick_win_recommendations": [
+            "Foundation needed in Product Strategy: Dedicate 8-12 hours to comprehensive training through online courses or bootcamps (Level 0\u21923)",
+            "Foundation needed in Roadmap Planning: Dedicate 8-12 hours to comprehensive training through online courses or bootcamps (Level 0\u21923)"
+          ]
+        },
+        {
+          "role_name": "cybersecurity-analyst",
+          "readiness_score": 0.079,
+          "readiness_label": "Needs foundation",
+          "missing_skills": [
+            {
+              "skill": "security",
+              "current_level": 0,
+              "target_level": 3,
+              "gap_degree": 3,
+              "importance": "must"
+            },
+            {
+              "skill": "networking",
+              "current_level": 0,
+              "target_level": 3,
+              "gap_degree": 3,
+              "importance": "must"
+            },
+            {
+              "skill": "linux",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "must"
+            },
+            {
+              "skill": "windows",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "must"
+            },
+            {
+              "skill": "incident-response",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "must"
+            },
+            {
+              "skill": "vulnerability-assessment",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "must"
+            },
+            {
+              "skill": "penetration-testing",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "must"
+            },
+            {
+              "skill": "siem",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "must"
+            },
+            {
+              "skill": "powershell",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "nice"
+            },
+            {
+              "skill": "forensics",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "nice"
+            }
+          ],
+          "quick_win_recommendations": [
+            "Foundation needed in Security: Dedicate 8-12 hours to comprehensive training through online courses or bootcamps (Level 0\u21923)",
+            "Foundation needed in Networking: Dedicate 8-12 hours to comprehensive training through online courses or bootcamps (Level 0\u21923)"
+          ]
+        },
+        {
+          "role_name": "full-stack-developer",
+          "readiness_score": 0.076,
+          "readiness_label": "Needs foundation",
+          "missing_skills": [
+            {
+              "skill": "javascript",
+              "current_level": 0,
+              "target_level": 3,
+              "gap_degree": 3,
+              "importance": "must"
+            },
+            {
+              "skill": "html",
+              "current_level": 0,
+              "target_level": 3,
+              "gap_degree": 3,
+              "importance": "must"
+            },
+            {
+              "skill": "css",
+              "current_level": 0,
+              "target_level": 3,
+              "gap_degree": 3,
+              "importance": "must"
+            },
+            {
+              "skill": "react",
+              "current_level": 0,
+              "target_level": 3,
+              "gap_degree": 3,
+              "importance": "must"
+            },
+            {
+              "skill": "nodejs",
+              "current_level": 0,
+              "target_level": 3,
+              "gap_degree": 3,
+              "importance": "must"
+            },
+            {
+              "skill": "git",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "must"
+            },
+            {
+              "skill": "rest-api",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "must"
+            },
+            {
+              "skill": "express",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "must"
+            },
+            {
+              "skill": "typescript",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "nice"
+            },
+            {
+              "skill": "vuejs",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "nice"
+            },
+            {
+              "skill": "angular",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "nice"
+            },
+            {
+              "skill": "mongodb",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "nice"
+            },
+            {
+              "skill": "postgresql",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "nice"
+            }
+          ],
+          "quick_win_recommendations": [
+            "Foundation needed in javascript: Start with course JS001 - 'JavaScript: The Complete Guide' (52h) (Level 0\u21923)",
+            "Foundation needed in Html: Dedicate 8-12 hours to comprehensive training through online courses or bootcamps (Level 0\u21923)"
+          ]
+        }
+      ]
+    },
+    "execution_time_seconds": 0.0003180503845214844,
+    "session_id": "session_20250803_185758"
+  },
+  {
+    "timestamp": "2025-08-03T18:59:25.679730",
+    "input": {
+      "text": "CHARLES CROFT\nPROGRAM DELIVERY MANAGER\nCONTACT\n555 819 2259\ncharlescroft.com\ncharles@croft.com\nlinkedin.com/in/charlescroft\nVancouver, BC\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum nec orci et mauris blandit semper sit amet in urna.\nPhasellus scelerisque vestibulum elit.\nPROFESSIONAL EXPERIENCE\nYour Position / Company / Location / 2012 - Present\n- Lorem ipsum dolor sit amet, consectetur adipiscing elit.\n- Vestibulum nec orci et mauris blandit semper.\n- Phasellus scelerisque vestibulum elit.\nYour Position / Company / Location / 2012 - Present\n- Lorem ipsum dolor sit amet, consectetur adipiscing elit.\n- Vestibulum nec orci et mauris blandit semper.\n- Phasellus scelerisque vestibulum elit.\nEXPERTISE\n- Agile/Scrum\n- Roadmapping\n- Stakeholder Management\n- Risk Assessment\n- Team Leadership\nTECHNOLOGY\n- JIRA\n- Trello\n- Notion\n- Confluence\n- MS Project",
+      "target_role": "Skill Extraction"
+    },
+    "output": {
+      "extracted_skills": [
+        "jira",
+        "trello",
+        "notion",
+        "confluence",
+        "ms-project"
+      ],
+      "missing_skills": [],
+      "nice_to_have": [],
+      "roadmap_phases": 0,
+      "total_recommended_skills": 0
+    },
+    "full_result": {
+      "extracted_skills": [
+        "jira",
+        "trello",
+        "notion",
+        "confluence",
+        "ms-project"
+      ],
+      "performance_summary": {
+        "step_timings": {
+          "skill_extraction_only": 1.82
+        },
+        "total_time": 1.82,
+        "cache_stats": {
+          "hits": 0,
+          "misses": 0,
+          "hit_ratio": 0
+        }
+      }
+    },
+    "execution_time_seconds": 1.8204286098480225,
+    "session_id": "session_20250803_185925"
+  },
+  {
+    "timestamp": "2025-08-03T18:59:33.489681",
+    "input": {
+      "text": "Skills: jira, trello, notion, confluence, ms-project",
+      "target_role": "Role Assessment"
+    },
+    "output": {
+      "extracted_skills": [],
+      "missing_skills": [],
+      "nice_to_have": [],
+      "roadmap_phases": 0,
+      "total_recommended_skills": 0
+    },
+    "full_result": {
+      "matched_roles": [
+        {
+          "role_name": "product-manager",
+          "readiness_score": 0.081,
+          "readiness_label": "Needs foundation",
+          "missing_skills": [
+            {
+              "skill": "product-strategy",
+              "current_level": 0,
+              "target_level": 3,
+              "gap_degree": 3,
+              "importance": "must"
+            },
+            {
+              "skill": "user-research",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "must"
+            },
+            {
+              "skill": "data-analysis",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "must"
+            },
+            {
+              "skill": "roadmap-planning",
+              "current_level": 0,
+              "target_level": 3,
+              "gap_degree": 3,
+              "importance": "must"
+            },
+            {
+              "skill": "agile",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "must"
+            },
+            {
+              "skill": "stakeholder-management",
+              "current_level": 0,
+              "target_level": 3,
+              "gap_degree": 3,
+              "importance": "must"
+            },
+            {
+              "skill": "market-research",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "must"
+            },
+            {
+              "skill": "sql",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "nice"
+            },
+            {
+              "skill": "excel",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "nice"
+            },
+            {
+              "skill": "figma",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "nice"
+            }
+          ],
+          "quick_win_recommendations": [
+            "Foundation needed in Product Strategy: Dedicate 8-12 hours to comprehensive training through online courses or bootcamps (Level 0\u21923)",
+            "Foundation needed in Roadmap Planning: Dedicate 8-12 hours to comprehensive training through online courses or bootcamps (Level 0\u21923)"
+          ]
+        },
+        {
+          "role_name": "data-scientist",
+          "readiness_score": 0.0,
+          "readiness_label": "Needs foundation",
+          "missing_skills": [
+            {
+              "skill": "python",
+              "current_level": 0,
+              "target_level": 3,
+              "gap_degree": 3,
+              "importance": "must"
+            },
+            {
+              "skill": "sql",
+              "current_level": 0,
+              "target_level": 3,
+              "gap_degree": 3,
+              "importance": "must"
+            },
+            {
+              "skill": "statistics",
+              "current_level": 0,
+              "target_level": 3,
+              "gap_degree": 3,
+              "importance": "must"
+            },
+            {
+              "skill": "machine-learning",
+              "current_level": 0,
+              "target_level": 3,
+              "gap_degree": 3,
+              "importance": "must"
+            },
+            {
+              "skill": "pandas",
+              "current_level": 0,
+              "target_level": 3,
+              "gap_degree": 3,
+              "importance": "must"
+            },
+            {
+              "skill": "numpy",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "must"
+            },
+            {
+              "skill": "scikit-learn",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "must"
+            },
+            {
+              "skill": "data-visualization",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "must"
+            },
+            {
+              "skill": "jupyter",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "nice"
+            },
+            {
+              "skill": "tensorflow",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "nice"
+            },
+            {
+              "skill": "pytorch",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "nice"
+            },
+            {
+              "skill": "deep-learning",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "nice"
+            },
+            {
+              "skill": "r",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "nice"
+            }
+          ],
+          "quick_win_recommendations": [
+            "Foundation needed in python: Start with course PY001 - 'Python for Everybody Specialization' (40h) (Level 0\u21923)",
+            "Foundation needed in sql: Start with course SQL001 - 'SQL for Data Science' (15h) (Level 0\u21923)"
+          ]
+        },
+        {
+          "role_name": "ml-engineer",
+          "readiness_score": 0.0,
+          "readiness_label": "Needs foundation",
+          "missing_skills": [
+            {
+              "skill": "python",
+              "current_level": 0,
+              "target_level": 3,
+              "gap_degree": 3,
+              "importance": "must"
+            },
+            {
+              "skill": "machine-learning",
+              "current_level": 0,
+              "target_level": 3,
+              "gap_degree": 3,
+              "importance": "must"
+            },
+            {
+              "skill": "tensorflow",
+              "current_level": 0,
+              "target_level": 3,
+              "gap_degree": 3,
+              "importance": "must"
+            },
+            {
+              "skill": "pytorch",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "must"
+            },
+            {
+              "skill": "deep-learning",
+              "current_level": 0,
+              "target_level": 3,
+              "gap_degree": 3,
+              "importance": "must"
+            },
+            {
+              "skill": "docker",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "must"
+            },
+            {
+              "skill": "kubernetes",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "must"
+            },
+            {
+              "skill": "sql",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "must"
+            },
+            {
+              "skill": "git",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "must"
+            },
+            {
+              "skill": "linux",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "must"
+            },
+            {
+              "skill": "aws",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "nice"
+            },
+            {
+              "skill": "mlops",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "nice"
+            },
+            {
+              "skill": "scikit-learn",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "nice"
+            }
+          ],
+          "quick_win_recommendations": [
+            "Foundation needed in python: Start with course PY001 - 'Python for Everybody Specialization' (40h) (Level 0\u21923)",
+            "Foundation needed in machine learning: Start with course ML001 - 'Machine Learning Course' (60h) (Level 0\u21923)"
+          ]
+        },
+        {
+          "role_name": "ai-engineer",
+          "readiness_score": 0.0,
+          "readiness_label": "Needs foundation",
+          "missing_skills": [
+            {
+              "skill": "python",
+              "current_level": 0,
+              "target_level": 3,
+              "gap_degree": 3,
+              "importance": "must"
+            },
+            {
+              "skill": "deep-learning",
+              "current_level": 0,
+              "target_level": 3,
+              "gap_degree": 3,
+              "importance": "must"
+            },
+            {
+              "skill": "tensorflow",
+              "current_level": 0,
+              "target_level": 3,
+              "gap_degree": 3,
+              "importance": "must"
+            },
+            {
+              "skill": "pytorch",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "must"
+            },
+            {
+              "skill": "machine-learning",
+              "current_level": 0,
+              "target_level": 3,
+              "gap_degree": 3,
+              "importance": "must"
+            },
+            {
+              "skill": "neural-networks",
+              "current_level": 0,
+              "target_level": 3,
+              "gap_degree": 3,
+              "importance": "must"
+            },
+            {
+              "skill": "computer-vision",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "must"
+            },
+            {
+              "skill": "nlp",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "must"
+            },
+            {
+              "skill": "transformers",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "nice"
+            },
+            {
+              "skill": "llm",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "nice"
+            },
+            {
+              "skill": "hugging-face",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "nice"
+            }
+          ],
+          "quick_win_recommendations": [
+            "Foundation needed in python: Start with course PY001 - 'Python for Everybody Specialization' (40h) (Level 0\u21923)",
+            "Foundation needed in Deep Learning: Dedicate 8-12 hours to comprehensive training through online courses or bootcamps (Level 0\u21923)"
+          ]
+        },
+        {
+          "role_name": "cloud-architect",
+          "readiness_score": 0.0,
+          "readiness_label": "Needs foundation",
+          "missing_skills": [
+            {
+              "skill": "aws",
+              "current_level": 0,
+              "target_level": 3,
+              "gap_degree": 3,
+              "importance": "must"
+            },
+            {
+              "skill": "azure",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "must"
+            },
+            {
+              "skill": "docker",
+              "current_level": 0,
+              "target_level": 3,
+              "gap_degree": 3,
+              "importance": "must"
+            },
+            {
+              "skill": "kubernetes",
+              "current_level": 0,
+              "target_level": 3,
+              "gap_degree": 3,
+              "importance": "must"
+            },
+            {
+              "skill": "terraform",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "must"
+            },
+            {
+              "skill": "linux",
+              "current_level": 0,
+              "target_level": 3,
+              "gap_degree": 3,
+              "importance": "must"
+            },
+            {
+              "skill": "networking",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "must"
+            },
+            {
+              "skill": "security",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "must"
+            },
+            {
+              "skill": "monitoring",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "must"
+            },
+            {
+              "skill": "gcp",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "nice"
+            },
+            {
+              "skill": "ansible",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "nice"
+            },
+            {
+              "skill": "jenkins",
+              "current_level": 0,
+              "target_level": 2,
+              "gap_degree": 2,
+              "importance": "nice"
+            }
+          ],
+          "quick_win_recommendations": [
+            "Foundation needed in aws: Start with course AWS001 - 'AWS Cloud Practitioner' (6h) (Level 0\u21923)",
+            "Foundation needed in docker: Start with course DOCK001 - 'Docker Mastery' (19h) (Level 0\u21923)"
+          ]
+        }
+      ]
+    },
+    "execution_time_seconds": 0.0006537437438964844,
+    "session_id": "session_20250803_185933"
+  }
+]

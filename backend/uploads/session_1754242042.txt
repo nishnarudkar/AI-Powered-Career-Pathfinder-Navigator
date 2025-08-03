@@ -1,0 +1,35 @@
+CHARLES CROFT
+
+PROGRAM DELIVERY MANAGER
+CONTACT
+555 819 2259
+charlescroft.com
+charles@croft.com
+linkedin.com/in/charlescroft
+Vancouver, BC
+
+Lorem ipsum dolor sit amet...Lorem ipsum dolor sit amet...
+
+PROFESSIONAL EXPERIENCE
+Your Position / Company / Location / 2012 - Present
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Vestibulum nec orci et mauris blandit semper.
+Phasellus scelerisque vestibulum elit.
+Your Position / Company / Location / 2012 - Present
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Vestibulum nec orci et mauris blandit semper.
+Phasellus scelerisque vestibulum elit.
+
+EXPERTISE
+Python
+Machine Learning
+NLP
+Deep Learning
+Data Preprocessing
+
+TECHNOLOGY
+Python
+Jupyter
+TensorFlow
+Scikit-learn
+Git

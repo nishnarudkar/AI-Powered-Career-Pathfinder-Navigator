@@ -48,9 +48,10 @@
 
             <div class="section">
                 <div class="section-header">
-                    <div class="section-icon">💼</div>
+                    <div class="section-icon">�</div>
                     <h2>Target Job Role</h2>
                 </div>
+                <p class="section-description">Choose your target role to see your readiness assessment and learning roadmap</p>
                 <select id="job-role">
                     <option value="">🎯 Choose your dream role...</option>
                     <option value="data-scientist">📊 Data Scientist</option>
@@ -62,7 +63,20 @@
                     <option value="cybersecurity-analyst">🔒 Cybersecurity Analyst</option>
                     <option value="product-manager">📈 Product Manager (Tech)</option>
                 </select>
-                <button class="btn btn-primary" id="generate-roadmap">✨ Generate My Learning Roadmap</button>
+                
+                <!-- Role Readiness Assessment (shown after role selection) -->
+                <div class="readiness-results" id="readiness-results" style="display: none;">
+                    <div class="section-header">
+                        <div class="section-icon">📊</div>
+                        <h3>Your Readiness for <span id="selected-role-name"></span></h3>
+                    </div>
+                    <div id="readiness-assessment"></div>
+                </div>
+                
+                <div class="roadmap-controls">
+                    <button class="btn btn-primary" id="generate-roadmap" onclick="testClick()">✨ Generate My Learning Roadmap</button>
+                    <p class="helper-text">Select a target role above to enable roadmap generation</p>
+                </div>
             </div>
 
             <div class="loading" id="loading">
@@ -78,6 +92,23 @@
                     <h2>🗺️ Your Personalized Learning Roadmap</h2>
                     <p class="roadmap-subtitle">Based on your current skills and target role</p>
                 </div>
+                
+                <!-- Time Estimates Section -->
+                <div class="time-estimates-container" id="time-estimates-container" style="display: none;">
+                    <div class="time-estimates-header">
+                        <span class="time-icon">⏱️</span>
+                        <span class="time-title">Time Investment Plan</span>
+                    </div>
+                    <div class="time-estimates-content">
+                        <p id="overall-time-frame"></p>
+                        <div class="time-breakdown">
+                            <span class="time-detail" id="total-hours"></span>
+                            <span class="time-detail" id="buffered-hours"></span>
+                            <span class="time-detail" id="weekly-commitment"></span>
+                        </div>
+                    </div>
+                </div>
+                
                 <ul class="roadmap-list" id="roadmap-list"></ul>
             </div>
 

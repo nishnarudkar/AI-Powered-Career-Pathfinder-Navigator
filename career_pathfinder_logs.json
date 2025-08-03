@@ -1,0 +1,3223 @@
+[
+  {
+    "timestamp": "2025-08-03T16:22:37.782919",
+    "input": {
+      "text": "Mitesh Kumavat\n/ne+91 9909182854 |miteshkumavat777@gmail.com |/\u2640nednLinkedin |/gtbGithub |/g\u2640bePortfolio\nEducation\nBachelor of Technology CGPA - 8\nLJ University Sep. 2023 \u2013 Present\nHigher Secondary Education\nGovt Ex Higher Secondary School June. 2019 \u2013 May 2023\nSummary\nFull-stack web developer with experience in building modern apps using MERN, Next.js, Flask, and AI integrations.\nPassionate about solving real-world problems with tech, strong in hackathons, and currently exploring AI, LangChain.\nExperience\nHackathon - HackNUThon 6.0 Apr. 2025\nNirma University Ahmedabad, India\n\u2022Developed FoodBite , a smart kitchen platform for inventory, sales, and waste management.\n\u2022Implemented features such as low stock alerts, expiry tracking, and analytics dashboard.\n\u2022Used NEXT.js with Recharts , including interactive dashboard for admin access.\n\u2022Trained and Finetuned YOLOV8 model for stock detection.\n\u2022GitHub: github.com/mitesh-kumavat/food-bite Live: food-bite.vercel.app\nHackathon - Ingenium 6.0 Mar. 2025\nAhmedabad University Ahmedabad, India\n\u2022Built an E-RUPI based wallet system leveraging blockchain technology to ensure secure and transparent\ndigital transactions.\n\u2022Focused on real-world use cases like subsidy distribution, where users can receive and redeem vouchers seamlessly.\n\u2022Contributed to the frontend development using Next.js with ShadCN UI , ensuring a clean, responsive user\ninterface.\n\u2022Live: fricpay.vercel.app\nProjects\nMovieverse |Flask, SQLite, Tailwind CSS, JavaScript |GitHub |Live Demo Jan. 2025 \u2013 Feb. 2025\n\u2022Built a full-stack web application providing personalized movie recommendations with a clean and responsive\nUI.\n\u2022Implemented user authentication , movie search, and FIFO-based watchlist management system.\n\u2022Designed frontend using HTML, Tailwind CSS, JavaScript for seamless desktop and mobile experience.\n\u2022Used Flask with SQLite for backend logic and lightweight database operations.\nOpinions |React.js, Node.js, Express.js, MongoDB, JWT, Cloudinary |GitHub |Live Demo Mar. 2025\n\u2022Built a feature-rich polling platform enabling users to create, vote, filter, and manage diverse poll types .\n\u2022Implemented secure JWT-based user authentication for login and signup functionality.\n\u2022Supported multiple poll types: Single-choice, Yes/No, Rating, Open-ended, and Image-based .\n\u2022Integrated poll features like bookmarking, admin poll closing, and previous vote tracking .\n\u2022Managed media uploads via Cloudinary and used MongoDB Atlas for scalable data storage.\nTechnical Skills\nLanguages: Python, JavaScript, TypeScript, Java, SQL\nFrameworks/Libraries: React.js, Next.js, Node.js, Express.js, Flask, FastAPI, Tailwind CSS, Recharts, ShadCN\nAI/ML Tools: LangChain, YOLOv8, Hugging Face\nORM and Databases: PostgreSQL, Prisma, MongoDB, Mongoose, SQLite, Firebase\nDeveloper Tools: Git, Docker, Vercel, Render, Cloudinary, Postman, VS Code",
+      "target_role": "Unknown Role"
+    },
+    "output": {
+      "extracted_skills": [
+        "python",
+        "javascript",
+        "typescript",
+        "java",
+        "sql",
+        "react",
+        "nextjs",
+        "nodejs",
+        "expressjs",
+        "flask",
+        "fastapi",
+        "tailwind-css",
+        "recharts",
+        "shadcn",
+        "langchain",
+        "yolov8",
+        "hugging-face",
+        "postgresql",
+        "prisma",
+        "mongodb",
+        "mongoose",
+        "sqlite",
+        "firebase",
+        "git",
+        "docker",
+        "vercel",
+        "render",
+        "cloudinary",
+        "postman",
+        "vs-code"
+      ],
+      "missing_skills": [],
+      "nice_to_have": [],
+      "roadmap_phases": 0,
+      "total_recommended_skills": 0
+    },
+    "full_result": {
+      "input": "Mitesh Kumavat\n/ne+91 9909182854 |miteshkumavat777@gmail.com |/\u2640nednLinkedin |/gtbGithub |/g\u2640bePortfolio\nEducation\nBachelor of Technology CGPA - 8\nLJ University Sep. 2023 \u2013 Present\nHigher Secondary Education\nGovt Ex Higher Secondary School June. 2019 \u2013 May 2023\nSummary\nFull-stack web developer with experience in building modern apps using MERN, Next.js, Flask, and AI integrations.\nPassionate about solving real-world problems with tech, strong in hackathons, and currently exploring AI, LangChain.\nExperience\nHackathon - HackNUThon 6.0 Apr. 2025\nNirma University Ahmedabad, India\n\u2022Developed FoodBite , a smart kitchen platform for inventory, sales, and waste management.\n\u2022Implemented features such as low stock alerts, expiry tracking, and analytics dashboard.\n\u2022Used NEXT.js with Recharts , including interactive dashboard for admin access.\n\u2022Trained and Finetuned YOLOV8 model for stock detection.\n\u2022GitHub: github.com/mitesh-kumavat/food-bite Live: food-bite.vercel.app\nHackathon - Ingenium 6.0 Mar. 2025\nAhmedabad University Ahmedabad, India\n\u2022Built an E-RUPI based wallet system leveraging blockchain technology to ensure secure and transparent\ndigital transactions.\n\u2022Focused on real-world use cases like subsidy distribution, where users can receive and redeem vouchers seamlessly.\n\u2022Contributed to the frontend development using Next.js with ShadCN UI , ensuring a clean, responsive user\ninterface.\n\u2022Live: fricpay.vercel.app\nProjects\nMovieverse |Flask, SQLite, Tailwind CSS, JavaScript |GitHub |Live Demo Jan. 2025 \u2013 Feb. 2025\n\u2022Built a full-stack web application providing personalized movie recommendations with a clean and responsive\nUI.\n\u2022Implemented user authentication , movie search, and FIFO-based watchlist management system.\n\u2022Designed frontend using HTML, Tailwind CSS, JavaScript for seamless desktop and mobile experience.\n\u2022Used Flask with SQLite for backend logic and lightweight database operations.\nOpinions |React.js, Node.js, Express.js, MongoDB, JWT, Cloudinary |GitHub |Live Demo Mar. 2025\n\u2022Built a feature-rich polling platform enabling users to create, vote, filter, and manage diverse poll types .\n\u2022Implemented secure JWT-based user authentication for login and signup functionality.\n\u2022Supported multiple poll types: Single-choice, Yes/No, Rating, Open-ended, and Image-based .\n\u2022Integrated poll features like bookmarking, admin poll closing, and previous vote tracking .\n\u2022Managed media uploads via Cloudinary and used MongoDB Atlas for scalable data storage.\nTechnical Skills\nLanguages: Python, JavaScript, TypeScript, Java, SQL\nFrameworks/Libraries: React.js, Next.js, Node.js, Express.js, Flask, FastAPI, Tailwind CSS, Recharts, ShadCN\nAI/ML Tools: LangChain, YOLOv8, Hugging Face\nORM and Databases: PostgreSQL, Prisma, MongoDB, Mongoose, SQLite, Firebase\nDeveloper Tools: Git, Docker, Vercel, Render, Cloudinary, Postman, VS Code",
+      "target_role": "Unknown Role",
+      "extracted_skills": [
+        "python",
+        "javascript",
+        "typescript",
+        "java",
+        "sql",
+        "react",
+        "nextjs",
+        "nodejs",
+        "expressjs",
+        "flask",
+        "fastapi",
+        "tailwind-css",
+        "recharts",
+        "shadcn",
+        "langchain",
+        "yolov8",
+        "hugging-face",
+        "postgresql",
+        "prisma",
+        "mongodb",
+        "mongoose",
+        "sqlite",
+        "firebase",
+        "git",
+        "docker",
+        "vercel",
+        "render",
+        "cloudinary",
+        "postman",
+        "vs-code"
+      ],
+      "missing_skills": [],
+      "nice_to_have": [],
+      "roadmap": []
+    },
+    "execution_time_seconds": 7.101217031478882,
+    "session_id": "session_20250803_162237"
+  },
+  {
+    "timestamp": "2025-08-03T16:28:44.358903",
+    "input": {
+      "text": "CHARLES CROFT\n\nPROGRAM DELIVERY MANAGER\nCONTACT\n555 819 2259\ncharlescroft.com\ncharles@croft.com\nlinkedin.com/in/charlescroft\nVancouver, BC\n\nLorem ipsum dolor sit amet...Lorem ipsum dolor sit amet...\n\nPROFESSIONAL EXPERIENCE\nYour Position / Company / Location / 2012 - Present\nLorem ipsum dolor sit amet, consectetur adipiscing elit.\nVestibulum nec orci et mauris blandit semper.\nPhasellus scelerisque vestibulum elit.\nYour Position / Company / Location / 2012 - Present\nLorem ipsum dolor sit amet, consectetur adipiscing elit.\nVestibulum nec orci et mauris blandit semper.\nPhasellus scelerisque vestibulum elit.\n\nEXPERTISE\nPython\nMachine Learning\nNLP\nDeep Learning\nData Preprocessing\n\nTECHNOLOGY\nPython\nJupyter\nTensorFlow\nScikit-learn\nGit",
+      "target_role": "Unknown Role"
+    },
+    "output": {
+      "extracted_skills": [
+        "python",
+        "machine-learning",
+        "nlp",
+        "deep-learning",
+        "data-preprocessing",
+        "jupyter",
+        "tensorflow",
+        "scikit-learn",
+        "git"
+      ],
+      "missing_skills": [],
+      "nice_to_have": [],
+      "roadmap_phases": 0,
+      "total_recommended_skills": 0
+    },
+    "full_result": {
+      "input": "CHARLES CROFT\n\nPROGRAM DELIVERY MANAGER\nCONTACT\n555 819 2259\ncharlescroft.com\ncharles@croft.com\nlinkedin.com/in/charlescroft\nVancouver, BC\n\nLorem ipsum dolor sit amet...Lorem ipsum dolor sit amet...\n\nPROFESSIONAL EXPERIENCE\nYour Position / Company / Location / 2012 - Present\nLorem ipsum dolor sit amet, consectetur adipiscing elit.\nVestibulum nec orci et mauris blandit semper.\nPhasellus scelerisque vestibulum elit.\nYour Position / Company / Location / 2012 - Present\nLorem ipsum dolor sit amet, consectetur adipiscing elit.\nVestibulum nec orci et mauris blandit semper.\nPhasellus scelerisque vestibulum elit.\n\nEXPERTISE\nPython\nMachine Learning\nNLP\nDeep Learning\nData Preprocessing\n\nTECHNOLOGY\nPython\nJupyter\nTensorFlow\nScikit-learn\nGit",
+      "target_role": "Unknown Role",
+      "extracted_skills": [
+        "python",
+        "machine-learning",
+        "nlp",
+        "deep-learning",
+        "data-preprocessing",
+        "jupyter",
+        "tensorflow",
+        "scikit-learn",
+        "git"
+      ],
+      "missing_skills": [],
+      "nice_to_have": [],
+      "roadmap": []
+    },
+    "execution_time_seconds": 6.313828945159912,
+    "session_id": "session_20250803_162844"
+  },
+  {
+    "timestamp": "2025-08-03T16:29:39.780369",
+    "input": {
+      "text": "CHARLES CROFT\n\nPROGRAM DELIVERY MANAGER\nCONTACT\n555 819 2259\ncharlescroft.com\ncharles@croft.com\nlinkedin.com/in/charlescroft\nVancouver, BC\n\nLorem ipsum dolor sit amet...Lorem ipsum dolor sit amet...\n\nPROFESSIONAL EXPERIENCE\nYour Position / Company / Location / 2012 - Present\nLorem ipsum dolor sit amet, consectetur adipiscing elit.\nVestibulum nec orci et mauris blandit semper.\nPhasellus scelerisque vestibulum elit.\nYour Position / Company / Location / 2012 - Present\nLorem ipsum dolor sit amet, consectetur adipiscing elit.\nVestibulum nec orci et mauris blandit semper.\nPhasellus scelerisque vestibulum elit.\n\nEXPERTISE\nPython\nMachine Learning\nNLP\nDeep Learning\nData Preprocessing\n\nTECHNOLOGY\nPython\nJupyter\nTensorFlow\nScikit-learn\nGit",
+      "target_role": "data-scientist"
+    },
+    "output": {
+      "extracted_skills": [
+        "python",
+        "machine-learning",
+        "nlp",
+        "deep-learning",
+        "data-preprocessing",
+        "jupyter",
+        "tensorflow",
+        "scikit-learn",
+        "git"
+      ],
+      "missing_skills": [
+        "data-visualization",
+        "sql",
+        "statistics"
+      ],
+      "nice_to_have": [
+        "big-data",
+        "cloud-computing",
+        "communication",
+        "data-analysis",
+        "data-mining",
+        "hadoop",
+        "pandas",
+        "problem-solving",
+        "r",
+        "tableau"
+      ],
+      "roadmap_phases": 3,
+      "total_recommended_skills": 13
+    },
+    "full_result": {
+      "input": "CHARLES CROFT\n\nPROGRAM DELIVERY MANAGER\nCONTACT\n555 819 2259\ncharlescroft.com\ncharles@croft.com\nlinkedin.com/in/charlescroft\nVancouver, BC\n\nLorem ipsum dolor sit amet...Lorem ipsum dolor sit amet...\n\nPROFESSIONAL EXPERIENCE\nYour Position / Company / Location / 2012 - Present\nLorem ipsum dolor sit amet, consectetur adipiscing elit.\nVestibulum nec orci et mauris blandit semper.\nPhasellus scelerisque vestibulum elit.\nYour Position / Company / Location / 2012 - Present\nLorem ipsum dolor sit amet, consectetur adipiscing elit.\nVestibulum nec orci et mauris blandit semper.\nPhasellus scelerisque vestibulum elit.\n\nEXPERTISE\nPython\nMachine Learning\nNLP\nDeep Learning\nData Preprocessing\n\nTECHNOLOGY\nPython\nJupyter\nTensorFlow\nScikit-learn\nGit",
+      "target_role": "data-scientist",
+      "extracted_skills": [
+        "python",
+        "machine-learning",
+        "nlp",
+        "deep-learning",
+        "data-preprocessing",
+        "jupyter",
+        "tensorflow",
+        "scikit-learn",
+        "git"
+      ],
+      "missing_skills": [
+        "data-visualization",
+        "sql",
+        "statistics"
+      ],
+      "nice_to_have": [
+        "big-data",
+        "cloud-computing",
+        "communication",
+        "data-analysis",
+        "data-mining",
+        "hadoop",
+        "pandas",
+        "problem-solving",
+        "r",
+        "tableau"
+      ],
+      "roadmap": [
+        {
+          "phase": "Phase 1",
+          "items": [
+            {
+              "skill": "data-visualization",
+              "course": {
+                "platform": "Coursera",
+                "title": "Data Visualization with Python",
+                "url": "https://www.coursera.org/learn/python-for-data-visualization",
+                "why": "This course provides a solid foundation in creating visualizations using Python, which is essential for effectively communicating data insights."
+              }
+            },
+            {
+              "skill": "sql",
+              "course": {
+                "platform": "Udemy",
+                "title": "The Complete SQL Bootcamp 2023",
+                "url": "https://www.udemy.com/course/the-complete-sql-bootcamp/",
+                "why": "A comprehensive course that covers SQL from the basics to advanced queries, crucial for managing and querying databases."
+              }
+            },
+            {
+              "skill": "statistics",
+              "course": {
+                "platform": "edX",
+                "title": "Introduction to Probability and Statistics",
+                "url": "https://www.edx.org/course/introduction-to-probability-and-statistics",
+                "why": "Understanding statistics is fundamental for data analysis and making informed decisions based on data."
+              }
+            }
+          ]
+        },
+        {
+          "phase": "Phase 2",
+          "items": [
+            {
+              "skill": "data-analysis",
+              "course": {
+                "platform": "Coursera",
+                "title": "Data Analysis with Python",
+                "url": "https://www.coursera.org/learn/data-analysis-with-python",
+                "why": "This course builds on your data visualization and statistics skills to perform comprehensive data analysis using Python."
+              }
+            },
+            {
+              "skill": "pandas",
+              "course": {
+                "platform": "DataCamp",
+                "title": "pandas Foundations",
+                "url": "https://www.datacamp.com/courses/pandas-foundations",
+                "why": "Pandas is a powerful data manipulation library in Python, essential for data cleaning and analysis."
+              }
+            },
+            {
+              "skill": "tableau",
+              "course": {
+                "platform": "Udacity",
+                "title": "Data Visualization in Tableau",
+                "url": "https://www.udacity.com/course/data-visualization-in-tableau--ud1006",
+                "why": "Tableau is a leading tool for creating interactive and shareable dashboards, enhancing your data visualization capabilities."
+              }
+            }
+          ]
+        },
+        {
+          "phase": "Phase 3",
+          "items": [
+            {
+              "skill": "big-data",
+              "course": {
+                "platform": "Coursera",
+                "title": "Big Data Specialization",
+                "url": "https://www.coursera.org/specializations/big-data",
+                "why": "This specialization covers the tools and systems used to process and analyze big data, a valuable skill in today's data-driven world."
+              }
+            },
+            {
+              "skill": "cloud-computing",
+              "course": {
+                "platform": "LinkedIn Learning",
+                "title": "Learning Cloud Computing: Core Concepts",
+                "url": "https://www.linkedin.com/learning/learning-cloud-computing-core-concepts",
+                "why": "Understanding cloud computing is crucial for managing and deploying data solutions in scalable environments."
+              }
+            },
+            {
+              "skill": "hadoop",
+              "course": {
+                "platform": "edX",
+                "title": "Big Data with Apache Hadoop",
+                "url": "https://www.edx.org/course/big-data-with-apache-hadoop",
+                "why": "Hadoop is a key technology for processing large data sets, and this course provides practical experience with its ecosystem."
+              }
+            },
+            {
+              "skill": "r",
+              "course": {
+                "platform": "Coursera",
+                "title": "R Programming",
+                "url": "https://www.coursera.org/learn/r-programming",
+                "why": "R is a powerful language for statistical computing and graphics, complementing your data analysis skills."
+              }
+            },
+            {
+              "skill": "communication",
+              "course": {
+                "platform": "LinkedIn Learning",
+                "title": "Communication Foundations",
+                "url": "https://www.linkedin.com/learning/communication-foundations",
+                "why": "Effective communication is essential for presenting data insights and collaborating with stakeholders."
+              }
+            },
+            {
+              "skill": "problem-solving",
+              "course": {
+                "platform": "Udemy",
+                "title": "Critical Thinking and Problem Solving",
+                "url": "https://www.udemy.com/course/critical-thinking-and-problem-solving/",
+                "why": "Enhancing problem-solving skills is crucial for tackling complex data challenges and developing innovative solutions."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "execution_time_seconds": 26.628625631332397,
+    "session_id": "session_20250803_162939"
+  },
+  {
+    "timestamp": "2025-08-03T16:45:11.962656",
+    "input": {
+      "text": "Manual skills entry:\nSkills: python, sql, numpy, pandas\nExperience: User provided skills manually.",
+      "target_role": "Unknown Role"
+    },
+    "output": {
+      "extracted_skills": [
+        "python",
+        "sql",
+        "numpy",
+        "pandas"
+      ],
+      "missing_skills": [],
+      "nice_to_have": [],
+      "roadmap_phases": 0,
+      "total_recommended_skills": 0
+    },
+    "full_result": {
+      "input": "Manual skills entry:\nSkills: python, sql, numpy, pandas\nExperience: User provided skills manually.",
+      "target_role": "Unknown Role",
+      "extracted_skills": [
+        "python",
+        "sql",
+        "numpy",
+        "pandas"
+      ],
+      "missing_skills": [],
+      "nice_to_have": [],
+      "roadmap": []
+    },
+    "execution_time_seconds": 3.226651668548584,
+    "session_id": "session_20250803_164511"
+  },
+  {
+    "timestamp": "2025-08-03T16:55:10.935304",
+    "input": {
+      "text": "CHARLES CROFT\n\nPROGRAM DELIVERY MANAGER\nCONTACT\n555 819 2259\ncharlescroft.com\ncharles@croft.com\nlinkedin.com/in/charlescroft\nVancouver, BC\n\nLorem ipsum dolor sit amet...Lorem ipsum dolor sit amet...\n\nPROFESSIONAL EXPERIENCE\nYour Position / Company / Location / 2012 - Present\nLorem ipsum dolor sit amet, consectetur adipiscing elit.\nVestibulum nec orci et mauris blandit semper.\nPhasellus scelerisque vestibulum elit.\nYour Position / Company / Location / 2012 - Present\nLorem ipsum dolor sit amet, consectetur adipiscing elit.\nVestibulum nec orci et mauris blandit semper.\nPhasellus scelerisque vestibulum elit.\n\nEXPERTISE\nPython\nMachine Learning\nNLP\nDeep Learning\nData Preprocessing\n\nTECHNOLOGY\nPython\nJupyter\nTensorFlow\nScikit-learn\nGit",
+      "target_role": "Unknown Role"
+    },
+    "output": {
+      "extracted_skills": [
+        "python",
+        "machine-learning",
+        "nlp",
+        "deep-learning",
+        "data-preprocessing",
+        "jupyter",
+        "tensorflow",
+        "scikit-learn",
+        "git"
+      ],
+      "missing_skills": [],
+      "nice_to_have": [],
+      "roadmap_phases": 3,
+      "total_recommended_skills": 0
+    },
+    "full_result": {
+      "input": "CHARLES CROFT\n\nPROGRAM DELIVERY MANAGER\nCONTACT\n555 819 2259\ncharlescroft.com\ncharles@croft.com\nlinkedin.com/in/charlescroft\nVancouver, BC\n\nLorem ipsum dolor sit amet...Lorem ipsum dolor sit amet...\n\nPROFESSIONAL EXPERIENCE\nYour Position / Company / Location / 2012 - Present\nLorem ipsum dolor sit amet, consectetur adipiscing elit.\nVestibulum nec orci et mauris blandit semper.\nPhasellus scelerisque vestibulum elit.\nYour Position / Company / Location / 2012 - Present\nLorem ipsum dolor sit amet, consectetur adipiscing elit.\nVestibulum nec orci et mauris blandit semper.\nPhasellus scelerisque vestibulum elit.\n\nEXPERTISE\nPython\nMachine Learning\nNLP\nDeep Learning\nData Preprocessing\n\nTECHNOLOGY\nPython\nJupyter\nTensorFlow\nScikit-learn\nGit",
+      "target_role": "Unknown Role",
+      "extracted_skills": [
+        "python",
+        "machine-learning",
+        "nlp",
+        "deep-learning",
+        "data-preprocessing",
+        "jupyter",
+        "tensorflow",
+        "scikit-learn",
+        "git"
+      ],
+      "missing_skills": [],
+      "nice_to_have": [],
+      "roadmap": [
+        {
+          "phase": "Phase 1",
+          "skills": [
+            {
+              "skill": "Python Programming",
+              "course": "Python for Everybody - Coursera",
+              "reason": "Foundation in programming basics."
+            },
+            {
+              "skill": "Data Analysis",
+              "course": "Data Analysis with Python - edX",
+              "reason": "Essential for data-driven decisions."
+            }
+          ]
+        },
+        {
+          "phase": "Phase 2",
+          "skills": [
+            {
+              "skill": "Machine Learning",
+              "course": "Machine Learning - Coursera",
+              "reason": "Core skill for AI development."
+            },
+            {
+              "skill": "Data Visualization",
+              "course": "Data Visualization with Tableau - Udemy",
+              "reason": "Communicate insights effectively."
+            }
+          ]
+        },
+        {
+          "phase": "Phase 3",
+          "skills": [
+            {
+              "skill": "Deep Learning",
+              "course": "Deep Learning Specialization - Coursera",
+              "reason": "Advanced AI techniques."
+            },
+            {
+              "skill": "Project Management",
+              "course": "Project Management Basics - LinkedIn Learning",
+              "reason": "Manage projects efficiently."
+            }
+          ]
+        }
+      ],
+      "performance_data": {
+        "step_timings": {
+          "roadmap_generation_total": 4.958,
+          "cache_lookup": 0.0,
+          "input_trimming": 0.0,
+          "course_retrieval": 0.0,
+          "llm_prompt_preparation": 0.0,
+          "llm_call": 4.958,
+          "post_processing": 0.0
+        },
+        "total_time": 9.917,
+        "cache_stats": {
+          "hits": 0,
+          "misses": 1,
+          "hit_ratio": 0.0
+        }
+      },
+      "force_refresh": false,
+      "performance_summary": {
+        "step_timings": {
+          "pipeline_total": 8.443,
+          "roadmap_generation_total": 4.958,
+          "cache_lookup": 0.0,
+          "input_trimming": 0.0,
+          "course_retrieval": 0.0,
+          "llm_prompt_preparation": 0.0,
+          "llm_call": 4.958,
+          "post_processing": 0.0
+        },
+        "total_time": 18.359,
+        "cache_stats": {
+          "hits": 0,
+          "misses": 1,
+          "hit_ratio": 0.0
+        }
+      }
+    },
+    "execution_time_seconds": 8.442766427993774,
+    "session_id": "session_20250803_165510"
+  },
+  {
+    "timestamp": "2025-08-03T17:06:04.272705",
+    "input": {
+      "text": "CHARLES CROFT\nPROGRAM DELIVERY MANAGER\nCONTACT\n555 819 2259\ncharlescroft.com\ncharles@croft.com\nlinkedin.com/in/charlescroft\nVancouver, BC\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum nec orci et mauris blandit semper sit amet in urna.\nPhasellus scelerisque vestibulum elit.\nPROFESSIONAL EXPERIENCE\nYour Position / Company / Location / 2012 - Present\n- Lorem ipsum dolor sit amet, consectetur adipiscing elit.\n- Vestibulum nec orci et mauris blandit semper.\n- Phasellus scelerisque vestibulum elit.\nYour Position / Company / Location / 2012 - Present\n- Lorem ipsum dolor sit amet, consectetur adipiscing elit.\n- Vestibulum nec orci et mauris blandit semper.\n- Phasellus scelerisque vestibulum elit.\nEXPERTISE\n- Agile/Scrum\n- Roadmapping\n- Stakeholder Management\n- Risk Assessment\n- Team Leadership\nTECHNOLOGY\n- JIRA\n- Trello\n- Notion\n- Confluence\n- MS Project",
+      "target_role": "Unknown Role"
+    },
+    "output": {
+      "extracted_skills": [
+        "jira",
+        "trello",
+        "notion",
+        "confluence",
+        "ms-project"
+      ],
+      "missing_skills": [],
+      "nice_to_have": [],
+      "roadmap_phases": 0,
+      "total_recommended_skills": 0
+    },
+    "full_result": {
+      "input": "CHARLES CROFT\nPROGRAM DELIVERY MANAGER\nCONTACT\n555 819 2259\ncharlescroft.com\ncharles@croft.com\nlinkedin.com/in/charlescroft\nVancouver, BC\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum nec orci et mauris blandit semper sit amet in urna.\nPhasellus scelerisque vestibulum elit.\nPROFESSIONAL EXPERIENCE\nYour Position / Company / Location / 2012 - Present\n- Lorem ipsum dolor sit amet, consectetur adipiscing elit.\n- Vestibulum nec orci et mauris blandit semper.\n- Phasellus scelerisque vestibulum elit.\nYour Position / Company / Location / 2012 - Present\n- Lorem ipsum dolor sit amet, consectetur adipiscing elit.\n- Vestibulum nec orci et mauris blandit semper.\n- Phasellus scelerisque vestibulum elit.\nEXPERTISE\n- Agile/Scrum\n- Roadmapping\n- Stakeholder Management\n- Risk Assessment\n- Team Leadership\nTECHNOLOGY\n- JIRA\n- Trello\n- Notion\n- Confluence\n- MS Project",
+      "target_role": "Unknown Role",
+      "extracted_skills": [
+        "jira",
+        "trello",
+        "notion",
+        "confluence",
+        "ms-project"
+      ],
+      "missing_skills": [],
+      "nice_to_have": [],
+      "roadmap": [],
+      "performance_data": {
+        "step_timings": {
+          "roadmap_generation_total": 3.815,
+          "cache_lookup": 0.0,
+          "input_trimming": 0.0,
+          "course_retrieval": 0.0,
+          "llm_prompt_preparation": 0.0,
+          "llm_call": 3.815,
+          "post_processing": 0.0
+        },
+        "total_time": 7.63,
+        "cache_stats": {
+          "hits": 0,
+          "misses": 8,
+          "hit_ratio": 0.0
+        }
+      },
+      "force_refresh": false,
+      "performance_summary": {
+        "step_timings": {
+          "pipeline_total": 6.677,
+          "roadmap_generation_total": 3.815,
+          "cache_lookup": 0.0,
+          "input_trimming": 0.0,
+          "course_retrieval": 0.0,
+          "llm_prompt_preparation": 0.0,
+          "llm_call": 3.815,
+          "post_processing": 0.0
+        },
+        "total_time": 14.307,
+        "cache_stats": {
+          "hits": 0,
+          "misses": 8,
+          "hit_ratio": 0.0
+        }
+      }
+    },
+    "execution_time_seconds": 12.83355975151062,
+    "session_id": "session_20250803_170604"
+  },
+  {
+    "timestamp": "2025-08-03T17:06:06.865521",
+    "input": {
+      "text": "CHARLES CROFT\nPROGRAM DELIVERY MANAGER\nCONTACT\n555 819 2259\ncharlescroft.com\ncharles@croft.com\nlinkedin.com/in/charlescroft\nVancouver, BC\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum nec orci et mauris blandit semper sit amet in urna.\nPhasellus scelerisque vestibulum elit.\nPROFESSIONAL EXPERIENCE\nYour Position / Company / Location / 2012 - Present\n- Lorem ipsum dolor sit amet, consectetur adipiscing elit.\n- Vestibulum nec orci et mauris blandit semper.\n- Phasellus scelerisque vestibulum elit.\nYour Position / Company / Location / 2012 - Present\n- Lorem ipsum dolor sit amet, consectetur adipiscing elit.\n- Vestibulum nec orci et mauris blandit semper.\n- Phasellus scelerisque vestibulum elit.\nEXPERTISE\n- Agile/Scrum\n- Roadmapping\n- Stakeholder Management\n- Risk Assessment\n- Team Leadership\nTECHNOLOGY\n- JIRA\n- Trello\n- Notion\n- Confluence\n- MS Project",
+      "target_role": "Unknown Role"
+    },
+    "output": {
+      "extracted_skills": [
+        "jira",
+        "trello",
+        "notion",
+        "confluence",
+        "ms-project"
+      ],
+      "missing_skills": [],
+      "nice_to_have": [],
+      "roadmap_phases": 0,
+      "total_recommended_skills": 0
+    },
+    "full_result": {
+      "input": "CHARLES CROFT\nPROGRAM DELIVERY MANAGER\nCONTACT\n555 819 2259\ncharlescroft.com\ncharles@croft.com\nlinkedin.com/in/charlescroft\nVancouver, BC\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum nec orci et mauris blandit semper sit amet in urna.\nPhasellus scelerisque vestibulum elit.\nPROFESSIONAL EXPERIENCE\nYour Position / Company / Location / 2012 - Present\n- Lorem ipsum dolor sit amet, consectetur adipiscing elit.\n- Vestibulum nec orci et mauris blandit semper.\n- Phasellus scelerisque vestibulum elit.\nYour Position / Company / Location / 2012 - Present\n- Lorem ipsum dolor sit amet, consectetur adipiscing elit.\n- Vestibulum nec orci et mauris blandit semper.\n- Phasellus scelerisque vestibulum elit.\nEXPERTISE\n- Agile/Scrum\n- Roadmapping\n- Stakeholder Management\n- Risk Assessment\n- Team Leadership\nTECHNOLOGY\n- JIRA\n- Trello\n- Notion\n- Confluence\n- MS Project",
+      "target_role": "Unknown Role",
+      "extracted_skills": [
+        "jira",
+        "trello",
+        "notion",
+        "confluence",
+        "ms-project"
+      ],
+      "missing_skills": [],
+      "nice_to_have": [],
+      "roadmap": [],
+      "performance_data": {
+        "step_timings": {
+          "pipeline_total": 6.677,
+          "roadmap_generation_total": 6.408,
+          "cache_lookup": 0.0,
+          "input_trimming": 0.0,
+          "course_retrieval": 0.0,
+          "llm_prompt_preparation": 0.0,
+          "llm_call": 6.408,
+          "post_processing": 0.0
+        },
+        "total_time": 19.493,
+        "cache_stats": {
+          "hits": 0,
+          "misses": 8,
+          "hit_ratio": 0.0
+        }
+      },
+      "force_refresh": false,
+      "performance_summary": {
+        "step_timings": {
+          "pipeline_total": 9.27,
+          "roadmap_generation_total": 6.408,
+          "cache_lookup": 0.0,
+          "input_trimming": 0.0,
+          "course_retrieval": 0.0,
+          "llm_prompt_preparation": 0.0,
+          "llm_call": 6.408,
+          "post_processing": 0.0
+        },
+        "total_time": 22.085,
+        "cache_stats": {
+          "hits": 0,
+          "misses": 8,
+          "hit_ratio": 0.0
+        }
+      }
+    },
+    "execution_time_seconds": 13.26449179649353,
+    "session_id": "session_20250803_170606"
+  },
+  {
+    "timestamp": "2025-08-03T17:06:06.968167",
+    "input": {
+      "text": "CHARLES CROFT\nPROGRAM DELIVERY MANAGER\nCONTACT\n555 819 2259\ncharlescroft.com\ncharles@croft.com\nlinkedin.com/in/charlescroft\nVancouver, BC\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum nec orci et mauris blandit semper sit amet in urna.\nPhasellus scelerisque vestibulum elit.\nPROFESSIONAL EXPERIENCE\nYour Position / Company / Location / 2012 - Present\n- Lorem ipsum dolor sit amet, consectetur adipiscing elit.\n- Vestibulum nec orci et mauris blandit semper.\n- Phasellus scelerisque vestibulum elit.\nYour Position / Company / Location / 2012 - Present\n- Lorem ipsum dolor sit amet, consectetur adipiscing elit.\n- Vestibulum nec orci et mauris blandit semper.\n- Phasellus scelerisque vestibulum elit.\nEXPERTISE\n- Agile/Scrum\n- Roadmapping\n- Stakeholder Management\n- Risk Assessment\n- Team Leadership\nTECHNOLOGY\n- JIRA\n- Trello\n- Notion\n- Confluence\n- MS Project",
+      "target_role": "Unknown Role"
+    },
+    "output": {
+      "extracted_skills": [
+        "jira",
+        "trello",
+        "notion",
+        "confluence",
+        "ms-project"
+      ],
+      "missing_skills": [],
+      "nice_to_have": [],
+      "roadmap_phases": 0,
+      "total_recommended_skills": 0
+    },
+    "full_result": {
+      "input": "CHARLES CROFT\nPROGRAM DELIVERY MANAGER\nCONTACT\n555 819 2259\ncharlescroft.com\ncharles@croft.com\nlinkedin.com/in/charlescroft\nVancouver, BC\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum nec orci et mauris blandit semper sit amet in urna.\nPhasellus scelerisque vestibulum elit.\nPROFESSIONAL EXPERIENCE\nYour Position / Company / Location / 2012 - Present\n- Lorem ipsum dolor sit amet, consectetur adipiscing elit.\n- Vestibulum nec orci et mauris blandit semper.\n- Phasellus scelerisque vestibulum elit.\nYour Position / Company / Location / 2012 - Present\n- Lorem ipsum dolor sit amet, consectetur adipiscing elit.\n- Vestibulum nec orci et mauris blandit semper.\n- Phasellus scelerisque vestibulum elit.\nEXPERTISE\n- Agile/Scrum\n- Roadmapping\n- Stakeholder Management\n- Risk Assessment\n- Team Leadership\nTECHNOLOGY\n- JIRA\n- Trello\n- Notion\n- Confluence\n- MS Project",
+      "target_role": "Unknown Role",
+      "extracted_skills": [
+        "jira",
+        "trello",
+        "notion",
+        "confluence",
+        "ms-project"
+      ],
+      "missing_skills": [],
+      "nice_to_have": [],
+      "roadmap": [],
+      "performance_data": {
+        "step_timings": {
+          "pipeline_total": 9.27,
+          "roadmap_generation_total": 6.51,
+          "cache_lookup": 0.0,
+          "input_trimming": 0.0,
+          "course_retrieval": 0.0,
+          "llm_prompt_preparation": 0.0,
+          "llm_call": 6.51,
+          "post_processing": 0.0
+        },
+        "total_time": 22.291,
+        "cache_stats": {
+          "hits": 0,
+          "misses": 8,
+          "hit_ratio": 0.0
+        }
+      },
+      "force_refresh": false,
+      "performance_summary": {
+        "step_timings": {
+          "pipeline_total": 9.373,
+          "roadmap_generation_total": 6.51,
+          "cache_lookup": 0.0,
+          "input_trimming": 0.0,
+          "course_retrieval": 0.0,
+          "llm_prompt_preparation": 0.0,
+          "llm_call": 6.51,
+          "post_processing": 0.0
+        },
+        "total_time": 22.393,
+        "cache_stats": {
+          "hits": 0,
+          "misses": 8,
+          "hit_ratio": 0.0
+        }
+      }
+    },
+    "execution_time_seconds": 12.984630823135376,
+    "session_id": "session_20250803_170606"
+  },
+  {
+    "timestamp": "2025-08-03T17:06:07.052248",
+    "input": {
+      "text": "CHARLES CROFT\nPROGRAM DELIVERY MANAGER\nCONTACT\n555 819 2259\ncharlescroft.com\ncharles@croft.com\nlinkedin.com/in/charlescroft\nVancouver, BC\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum nec orci et mauris blandit semper sit amet in urna.\nPhasellus scelerisque vestibulum elit.\nPROFESSIONAL EXPERIENCE\nYour Position / Company / Location / 2012 - Present\n- Lorem ipsum dolor sit amet, consectetur adipiscing elit.\n- Vestibulum nec orci et mauris blandit semper.\n- Phasellus scelerisque vestibulum elit.\nYour Position / Company / Location / 2012 - Present\n- Lorem ipsum dolor sit amet, consectetur adipiscing elit.\n- Vestibulum nec orci et mauris blandit semper.\n- Phasellus scelerisque vestibulum elit.\nEXPERTISE\n- Agile/Scrum\n- Roadmapping\n- Stakeholder Management\n- Risk Assessment\n- Team Leadership\nTECHNOLOGY\n- JIRA\n- Trello\n- Notion\n- Confluence\n- MS Project",
+      "target_role": "Unknown Role"
+    },
+    "output": {
+      "extracted_skills": [
+        "jira",
+        "trello",
+        "notion",
+        "confluence",
+        "ms-project"
+      ],
+      "missing_skills": [],
+      "nice_to_have": [],
+      "roadmap_phases": 0,
+      "total_recommended_skills": 0
+    },
+    "full_result": {
+      "input": "CHARLES CROFT\nPROGRAM DELIVERY MANAGER\nCONTACT\n555 819 2259\ncharlescroft.com\ncharles@croft.com\nlinkedin.com/in/charlescroft\nVancouver, BC\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum nec orci et mauris blandit semper sit amet in urna.\nPhasellus scelerisque vestibulum elit.\nPROFESSIONAL EXPERIENCE\nYour Position / Company / Location / 2012 - Present\n- Lorem ipsum dolor sit amet, consectetur adipiscing elit.\n- Vestibulum nec orci et mauris blandit semper.\n- Phasellus scelerisque vestibulum elit.\nYour Position / Company / Location / 2012 - Present\n- Lorem ipsum dolor sit amet, consectetur adipiscing elit.\n- Vestibulum nec orci et mauris blandit semper.\n- Phasellus scelerisque vestibulum elit.\nEXPERTISE\n- Agile/Scrum\n- Roadmapping\n- Stakeholder Management\n- Risk Assessment\n- Team Leadership\nTECHNOLOGY\n- JIRA\n- Trello\n- Notion\n- Confluence\n- MS Project",
+      "target_role": "Unknown Role",
+      "extracted_skills": [
+        "jira",
+        "trello",
+        "notion",
+        "confluence",
+        "ms-project"
+      ],
+      "missing_skills": [],
+      "nice_to_have": [],
+      "roadmap": [],
+      "performance_data": {
+        "step_timings": {
+          "pipeline_total": 9.373,
+          "roadmap_generation_total": 6.595,
+          "cache_lookup": 0.0,
+          "input_trimming": 0.0,
+          "course_retrieval": 0.0,
+          "llm_prompt_preparation": 0.0,
+          "llm_call": 6.594,
+          "post_processing": 0.0
+        },
+        "total_time": 22.562,
+        "cache_stats": {
+          "hits": 0,
+          "misses": 8,
+          "hit_ratio": 0.0
+        }
+      },
+      "force_refresh": false,
+      "performance_summary": {
+        "step_timings": {
+          "pipeline_total": 9.457,
+          "roadmap_generation_total": 6.595,
+          "cache_lookup": 0.0,
+          "input_trimming": 0.0,
+          "course_retrieval": 0.0,
+          "llm_prompt_preparation": 0.0,
+          "llm_call": 6.594,
+          "post_processing": 0.0
+        },
+        "total_time": 22.646,
+        "cache_stats": {
+          "hits": 0,
+          "misses": 8,
+          "hit_ratio": 0.0
+        }
+      }
+    },
+    "execution_time_seconds": 12.916064023971558,
+    "session_id": "session_20250803_170607"
+  },
+  {
+    "timestamp": "2025-08-03T17:06:07.159330",
+    "input": {
+      "text": "CHARLES CROFT\nPROGRAM DELIVERY MANAGER\nCONTACT\n555 819 2259\ncharlescroft.com\ncharles@croft.com\nlinkedin.com/in/charlescroft\nVancouver, BC\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum nec orci et mauris blandit semper sit amet in urna.\nPhasellus scelerisque vestibulum elit.\nPROFESSIONAL EXPERIENCE\nYour Position / Company / Location / 2012 - Present\n- Lorem ipsum dolor sit amet, consectetur adipiscing elit.\n- Vestibulum nec orci et mauris blandit semper.\n- Phasellus scelerisque vestibulum elit.\nYour Position / Company / Location / 2012 - Present\n- Lorem ipsum dolor sit amet, consectetur adipiscing elit.\n- Vestibulum nec orci et mauris blandit semper.\n- Phasellus scelerisque vestibulum elit.\nEXPERTISE\n- Agile/Scrum\n- Roadmapping\n- Stakeholder Management\n- Risk Assessment\n- Team Leadership\nTECHNOLOGY\n- JIRA\n- Trello\n- Notion\n- Confluence\n- MS Project",
+      "target_role": "Unknown Role"
+    },
+    "output": {
+      "extracted_skills": [
+        "jira",
+        "trello",
+        "notion",
+        "confluence",
+        "ms-project"
+      ],
+      "missing_skills": [],
+      "nice_to_have": [],
+      "roadmap_phases": 0,
+      "total_recommended_skills": 0
+    },
+    "full_result": {
+      "input": "CHARLES CROFT\nPROGRAM DELIVERY MANAGER\nCONTACT\n555 819 2259\ncharlescroft.com\ncharles@croft.com\nlinkedin.com/in/charlescroft\nVancouver, BC\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum nec orci et mauris blandit semper sit amet in urna.\nPhasellus scelerisque vestibulum elit.\nPROFESSIONAL EXPERIENCE\nYour Position / Company / Location / 2012 - Present\n- Lorem ipsum dolor sit amet, consectetur adipiscing elit.\n- Vestibulum nec orci et mauris blandit semper.\n- Phasellus scelerisque vestibulum elit.\nYour Position / Company / Location / 2012 - Present\n- Lorem ipsum dolor sit amet, consectetur adipiscing elit.\n- Vestibulum nec orci et mauris blandit semper.\n- Phasellus scelerisque vestibulum elit.\nEXPERTISE\n- Agile/Scrum\n- Roadmapping\n- Stakeholder Management\n- Risk Assessment\n- Team Leadership\nTECHNOLOGY\n- JIRA\n- Trello\n- Notion\n- Confluence\n- MS Project",
+      "target_role": "Unknown Role",
+      "extracted_skills": [
+        "jira",
+        "trello",
+        "notion",
+        "confluence",
+        "ms-project"
+      ],
+      "missing_skills": [],
+      "nice_to_have": [],
+      "roadmap": [],
+      "performance_data": {
+        "step_timings": {
+          "pipeline_total": 9.457,
+          "roadmap_generation_total": 6.702,
+          "cache_lookup": 0.0,
+          "input_trimming": 0.0,
+          "course_retrieval": 0.0,
+          "llm_prompt_preparation": 0.0,
+          "llm_call": 6.701,
+          "post_processing": 0.0
+        },
+        "total_time": 22.86,
+        "cache_stats": {
+          "hits": 0,
+          "misses": 8,
+          "hit_ratio": 0.0
+        }
+      },
+      "force_refresh": false,
+      "performance_summary": {
+        "step_timings": {
+          "pipeline_total": 9.564,
+          "roadmap_generation_total": 6.702,
+          "cache_lookup": 0.0,
+          "input_trimming": 0.0,
+          "course_retrieval": 0.0,
+          "llm_prompt_preparation": 0.0,
+          "llm_call": 6.701,
+          "post_processing": 0.0
+        },
+        "total_time": 22.967,
+        "cache_stats": {
+          "hits": 0,
+          "misses": 8,
+          "hit_ratio": 0.0
+        }
+      }
+    },
+    "execution_time_seconds": 13.15193247795105,
+    "session_id": "session_20250803_170607"
+  },
+  {
+    "timestamp": "2025-08-03T17:06:07.360901",
+    "input": {
+      "text": "CHARLES CROFT\nPROGRAM DELIVERY MANAGER\nCONTACT\n555 819 2259\ncharlescroft.com\ncharles@croft.com\nlinkedin.com/in/charlescroft\nVancouver, BC\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum nec orci et mauris blandit semper sit amet in urna.\nPhasellus scelerisque vestibulum elit.\nPROFESSIONAL EXPERIENCE\nYour Position / Company / Location / 2012 - Present\n- Lorem ipsum dolor sit amet, consectetur adipiscing elit.\n- Vestibulum nec orci et mauris blandit semper.\n- Phasellus scelerisque vestibulum elit.\nYour Position / Company / Location / 2012 - Present\n- Lorem ipsum dolor sit amet, consectetur adipiscing elit.\n- Vestibulum nec orci et mauris blandit semper.\n- Phasellus scelerisque vestibulum elit.\nEXPERTISE\n- Agile/Scrum\n- Roadmapping\n- Stakeholder Management\n- Risk Assessment\n- Team Leadership\nTECHNOLOGY\n- JIRA\n- Trello\n- Notion\n- Confluence\n- MS Project",
+      "target_role": "Unknown Role"
+    },
+    "output": {
+      "extracted_skills": [
+        "jira",
+        "trello",
+        "notion",
+        "confluence",
+        "ms-project"
+      ],
+      "missing_skills": [],
+      "nice_to_have": [],
+      "roadmap_phases": 0,
+      "total_recommended_skills": 0
+    },
+    "full_result": {
+      "input": "CHARLES CROFT\nPROGRAM DELIVERY MANAGER\nCONTACT\n555 819 2259\ncharlescroft.com\ncharles@croft.com\nlinkedin.com/in/charlescroft\nVancouver, BC\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum nec orci et mauris blandit semper sit amet in urna.\nPhasellus scelerisque vestibulum elit.\nPROFESSIONAL EXPERIENCE\nYour Position / Company / Location / 2012 - Present\n- Lorem ipsum dolor sit amet, consectetur adipiscing elit.\n- Vestibulum nec orci et mauris blandit semper.\n- Phasellus scelerisque vestibulum elit.\nYour Position / Company / Location / 2012 - Present\n- Lorem ipsum dolor sit amet, consectetur adipiscing elit.\n- Vestibulum nec orci et mauris blandit semper.\n- Phasellus scelerisque vestibulum elit.\nEXPERTISE\n- Agile/Scrum\n- Roadmapping\n- Stakeholder Management\n- Risk Assessment\n- Team Leadership\nTECHNOLOGY\n- JIRA\n- Trello\n- Notion\n- Confluence\n- MS Project",
+      "target_role": "Unknown Role",
+      "extracted_skills": [
+        "jira",
+        "trello",
+        "notion",
+        "confluence",
+        "ms-project"
+      ],
+      "missing_skills": [],
+      "nice_to_have": [],
+      "roadmap": [],
+      "performance_data": {
+        "step_timings": {
+          "pipeline_total": 9.564,
+          "roadmap_generation_total": 6.903,
+          "cache_lookup": 0.0,
+          "input_trimming": 0.0,
+          "course_retrieval": 0.0,
+          "llm_prompt_preparation": 0.0,
+          "llm_call": 6.903,
+          "post_processing": 0.0
+        },
+        "total_time": 23.37,
+        "cache_stats": {
+          "hits": 0,
+          "misses": 8,
+          "hit_ratio": 0.0
+        }
+      },
+      "force_refresh": false,
+      "performance_summary": {
+        "step_timings": {
+          "pipeline_total": 9.765,
+          "roadmap_generation_total": 6.903,
+          "cache_lookup": 0.0,
+          "input_trimming": 0.0,
+          "course_retrieval": 0.0,
+          "llm_prompt_preparation": 0.0,
+          "llm_call": 6.903,
+          "post_processing": 0.0
+        },
+        "total_time": 23.572,
+        "cache_stats": {
+          "hits": 0,
+          "misses": 8,
+          "hit_ratio": 0.0
+        }
+      }
+    },
+    "execution_time_seconds": 12.961526870727539,
+    "session_id": "session_20250803_170607"
+  },
+  {
+    "timestamp": "2025-08-03T17:06:07.513222",
+    "input": {
+      "text": "CHARLES CROFT\nPROGRAM DELIVERY MANAGER\nCONTACT\n555 819 2259\ncharlescroft.com\ncharles@croft.com\nlinkedin.com/in/charlescroft\nVancouver, BC\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum nec orci et mauris blandit semper sit amet in urna.\nPhasellus scelerisque vestibulum elit.\nPROFESSIONAL EXPERIENCE\nYour Position / Company / Location / 2012 - Present\n- Lorem ipsum dolor sit amet, consectetur adipiscing elit.\n- Vestibulum nec orci et mauris blandit semper.\n- Phasellus scelerisque vestibulum elit.\nYour Position / Company / Location / 2012 - Present\n- Lorem ipsum dolor sit amet, consectetur adipiscing elit.\n- Vestibulum nec orci et mauris blandit semper.\n- Phasellus scelerisque vestibulum elit.\nEXPERTISE\n- Agile/Scrum\n- Roadmapping\n- Stakeholder Management\n- Risk Assessment\n- Team Leadership\nTECHNOLOGY\n- JIRA\n- Trello\n- Notion\n- Confluence\n- MS Project",
+      "target_role": "Unknown Role"
+    },
+    "output": {
+      "extracted_skills": [
+        "jira",
+        "trello",
+        "notion",
+        "confluence",
+        "ms-project"
+      ],
+      "missing_skills": [],
+      "nice_to_have": [],
+      "roadmap_phases": 0,
+      "total_recommended_skills": 0
+    },
+    "full_result": {
+      "input": "CHARLES CROFT\nPROGRAM DELIVERY MANAGER\nCONTACT\n555 819 2259\ncharlescroft.com\ncharles@croft.com\nlinkedin.com/in/charlescroft\nVancouver, BC\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum nec orci et mauris blandit semper sit amet in urna.\nPhasellus scelerisque vestibulum elit.\nPROFESSIONAL EXPERIENCE\nYour Position / Company / Location / 2012 - Present\n- Lorem ipsum dolor sit amet, consectetur adipiscing elit.\n- Vestibulum nec orci et mauris blandit semper.\n- Phasellus scelerisque vestibulum elit.\nYour Position / Company / Location / 2012 - Present\n- Lorem ipsum dolor sit amet, consectetur adipiscing elit.\n- Vestibulum nec orci et mauris blandit semper.\n- Phasellus scelerisque vestibulum elit.\nEXPERTISE\n- Agile/Scrum\n- Roadmapping\n- Stakeholder Management\n- Risk Assessment\n- Team Leadership\nTECHNOLOGY\n- JIRA\n- Trello\n- Notion\n- Confluence\n- MS Project",
+      "target_role": "Unknown Role",
+      "extracted_skills": [
+        "jira",
+        "trello",
+        "notion",
+        "confluence",
+        "ms-project"
+      ],
+      "missing_skills": [],
+      "nice_to_have": [],
+      "roadmap": [],
+      "performance_data": {
+        "step_timings": {
+          "pipeline_total": 9.765,
+          "roadmap_generation_total": 7.056,
+          "cache_lookup": 0.0,
+          "input_trimming": 0.0,
+          "course_retrieval": 0.0,
+          "llm_prompt_preparation": 0.0,
+          "llm_call": 7.055,
+          "post_processing": 0.0
+        },
+        "total_time": 23.876,
+        "cache_stats": {
+          "hits": 0,
+          "misses": 8,
+          "hit_ratio": 0.0
+        }
+      },
+      "force_refresh": false,
+      "performance_summary": {
+        "step_timings": {
+          "pipeline_total": 9.918,
+          "roadmap_generation_total": 7.056,
+          "cache_lookup": 0.0,
+          "input_trimming": 0.0,
+          "course_retrieval": 0.0,
+          "llm_prompt_preparation": 0.0,
+          "llm_call": 7.055,
+          "post_processing": 0.0
+        },
+        "total_time": 24.029,
+        "cache_stats": {
+          "hits": 0,
+          "misses": 8,
+          "hit_ratio": 0.0
+        }
+      }
+    },
+    "execution_time_seconds": 13.257018327713013,
+    "session_id": "session_20250803_170607"
+  },
+  {
+    "timestamp": "2025-08-03T17:06:09.679920",
+    "input": {
+      "text": "CHARLES CROFT\nPROGRAM DELIVERY MANAGER\nCONTACT\n555 819 2259\ncharlescroft.com\ncharles@croft.com\nlinkedin.com/in/charlescroft\nVancouver, BC\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum nec orci et mauris blandit semper sit amet in urna.\nPhasellus scelerisque vestibulum elit.\nPROFESSIONAL EXPERIENCE\nYour Position / Company / Location / 2012 - Present\n- Lorem ipsum dolor sit amet, consectetur adipiscing elit.\n- Vestibulum nec orci et mauris blandit semper.\n- Phasellus scelerisque vestibulum elit.\nYour Position / Company / Location / 2012 - Present\n- Lorem ipsum dolor sit amet, consectetur adipiscing elit.\n- Vestibulum nec orci et mauris blandit semper.\n- Phasellus scelerisque vestibulum elit.\nEXPERTISE\n- Agile/Scrum\n- Roadmapping\n- Stakeholder Management\n- Risk Assessment\n- Team Leadership\nTECHNOLOGY\n- JIRA\n- Trello\n- Notion\n- Confluence\n- MS Project",
+      "target_role": "Unknown Role"
+    },
+    "output": {
+      "extracted_skills": [
+        "jira",
+        "trello",
+        "notion",
+        "confluence",
+        "ms-project"
+      ],
+      "missing_skills": [],
+      "nice_to_have": [],
+      "roadmap_phases": 0,
+      "total_recommended_skills": 0
+    },
+    "full_result": {
+      "input": "CHARLES CROFT\nPROGRAM DELIVERY MANAGER\nCONTACT\n555 819 2259\ncharlescroft.com\ncharles@croft.com\nlinkedin.com/in/charlescroft\nVancouver, BC\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum nec orci et mauris blandit semper sit amet in urna.\nPhasellus scelerisque vestibulum elit.\nPROFESSIONAL EXPERIENCE\nYour Position / Company / Location / 2012 - Present\n- Lorem ipsum dolor sit amet, consectetur adipiscing elit.\n- Vestibulum nec orci et mauris blandit semper.\n- Phasellus scelerisque vestibulum elit.\nYour Position / Company / Location / 2012 - Present\n- Lorem ipsum dolor sit amet, consectetur adipiscing elit.\n- Vestibulum nec orci et mauris blandit semper.\n- Phasellus scelerisque vestibulum elit.\nEXPERTISE\n- Agile/Scrum\n- Roadmapping\n- Stakeholder Management\n- Risk Assessment\n- Team Leadership\nTECHNOLOGY\n- JIRA\n- Trello\n- Notion\n- Confluence\n- MS Project",
+      "target_role": "Unknown Role",
+      "extracted_skills": [
+        "jira",
+        "trello",
+        "notion",
+        "confluence",
+        "ms-project"
+      ],
+      "missing_skills": [],
+      "nice_to_have": [],
+      "roadmap": [],
+      "performance_data": {
+        "step_timings": {
+          "post_processing": 0.0
+        },
+        "total_time": 0.0,
+        "cache_stats": {
+          "hits": 0,
+          "misses": 0,
+          "hit_ratio": 0
+        }
+      },
+      "force_refresh": false,
+      "performance_summary": {
+        "step_timings": {
+          "pipeline_total": 1.417,
+          "post_processing": 0.0
+        },
+        "total_time": 1.417,
+        "cache_stats": {
+          "hits": 0,
+          "misses": 0,
+          "hit_ratio": 0
+        }
+      }
+    },
+    "execution_time_seconds": 12.960808038711548,
+    "session_id": "session_20250803_170609"
+  },
+  {
+    "timestamp": "2025-08-03T17:06:09.874171",
+    "input": {
+      "text": "CHARLES CROFT\nPROGRAM DELIVERY MANAGER\nCONTACT\n555 819 2259\ncharlescroft.com\ncharles@croft.com\nlinkedin.com/in/charlescroft\nVancouver, BC\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum nec orci et mauris blandit semper sit amet in urna.\nPhasellus scelerisque vestibulum elit.\nPROFESSIONAL EXPERIENCE\nYour Position / Company / Location / 2012 - Present\n- Lorem ipsum dolor sit amet, consectetur adipiscing elit.\n- Vestibulum nec orci et mauris blandit semper.\n- Phasellus scelerisque vestibulum elit.\nYour Position / Company / Location / 2012 - Present\n- Lorem ipsum dolor sit amet, consectetur adipiscing elit.\n- Vestibulum nec orci et mauris blandit semper.\n- Phasellus scelerisque vestibulum elit.\nEXPERTISE\n- Agile/Scrum\n- Roadmapping\n- Stakeholder Management\n- Risk Assessment\n- Team Leadership\nTECHNOLOGY\n- JIRA\n- Trello\n- Notion\n- Confluence\n- MS Project",
+      "target_role": "Unknown Role"
+    },
+    "output": {
+      "extracted_skills": [
+        "jira",
+        "trello",
+        "notion",
+        "confluence",
+        "ms-project"
+      ],
+      "missing_skills": [],
+      "nice_to_have": [],
+      "roadmap_phases": 0,
+      "total_recommended_skills": 0
+    },
+    "full_result": {
+      "input": "CHARLES CROFT\nPROGRAM DELIVERY MANAGER\nCONTACT\n555 819 2259\ncharlescroft.com\ncharles@croft.com\nlinkedin.com/in/charlescroft\nVancouver, BC\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum nec orci et mauris blandit semper sit amet in urna.\nPhasellus scelerisque vestibulum elit.\nPROFESSIONAL EXPERIENCE\nYour Position / Company / Location / 2012 - Present\n- Lorem ipsum dolor sit amet, consectetur adipiscing elit.\n- Vestibulum nec orci et mauris blandit semper.\n- Phasellus scelerisque vestibulum elit.\nYour Position / Company / Location / 2012 - Present\n- Lorem ipsum dolor sit amet, consectetur adipiscing elit.\n- Vestibulum nec orci et mauris blandit semper.\n- Phasellus scelerisque vestibulum elit.\nEXPERTISE\n- Agile/Scrum\n- Roadmapping\n- Stakeholder Management\n- Risk Assessment\n- Team Leadership\nTECHNOLOGY\n- JIRA\n- Trello\n- Notion\n- Confluence\n- MS Project",
+      "target_role": "Unknown Role",
+      "extracted_skills": [
+        "jira",
+        "trello",
+        "notion",
+        "confluence",
+        "ms-project"
+      ],
+      "missing_skills": [],
+      "nice_to_have": [],
+      "roadmap": [],
+      "performance_data": {
+        "step_timings": {
+          "pipeline_total": 1.417,
+          "post_processing": 0.0
+        },
+        "total_time": 1.417,
+        "cache_stats": {
+          "hits": 0,
+          "misses": 0,
+          "hit_ratio": 0
+        }
+      },
+      "force_refresh": false,
+      "performance_summary": {
+        "step_timings": {
+          "pipeline_total": 1.611,
+          "post_processing": 0.0
+        },
+        "total_time": 1.611,
+        "cache_stats": {
+          "hits": 0,
+          "misses": 0,
+          "hit_ratio": 0
+        }
+      }
+    },
+    "execution_time_seconds": 17.657410383224487,
+    "session_id": "session_20250803_170609"
+  },
+  {
+    "timestamp": "2025-08-03T17:06:10.215831",
+    "input": {
+      "text": "CHARLES CROFT\nPROGRAM DELIVERY MANAGER\nCONTACT\n555 819 2259\ncharlescroft.com\ncharles@croft.com\nlinkedin.com/in/charlescroft\nVancouver, BC\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum nec orci et mauris blandit semper sit amet in urna.\nPhasellus scelerisque vestibulum elit.\nPROFESSIONAL EXPERIENCE\nYour Position / Company / Location / 2012 - Present\n- Lorem ipsum dolor sit amet, consectetur adipiscing elit.\n- Vestibulum nec orci et mauris blandit semper.\n- Phasellus scelerisque vestibulum elit.\nYour Position / Company / Location / 2012 - Present\n- Lorem ipsum dolor sit amet, consectetur adipiscing elit.\n- Vestibulum nec orci et mauris blandit semper.\n- Phasellus scelerisque vestibulum elit.\nEXPERTISE\n- Agile/Scrum\n- Roadmapping\n- Stakeholder Management\n- Risk Assessment\n- Team Leadership\nTECHNOLOGY\n- JIRA\n- Trello\n- Notion\n- Confluence\n- MS Project",
+      "target_role": "Unknown Role"
+    },
+    "output": {
+      "extracted_skills": [
+        "jira",
+        "trello",
+        "notion",
+        "confluence",
+        "ms-project"
+      ],
+      "missing_skills": [],
+      "nice_to_have": [],
+      "roadmap_phases": 0,
+      "total_recommended_skills": 0
+    },
+    "full_result": {
+      "input": "CHARLES CROFT\nPROGRAM DELIVERY MANAGER\nCONTACT\n555 819 2259\ncharlescroft.com\ncharles@croft.com\nlinkedin.com/in/charlescroft\nVancouver, BC\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum nec orci et mauris blandit semper sit amet in urna.\nPhasellus scelerisque vestibulum elit.\nPROFESSIONAL EXPERIENCE\nYour Position / Company / Location / 2012 - Present\n- Lorem ipsum dolor sit amet, consectetur adipiscing elit.\n- Vestibulum nec orci et mauris blandit semper.\n- Phasellus scelerisque vestibulum elit.\nYour Position / Company / Location / 2012 - Present\n- Lorem ipsum dolor sit amet, consectetur adipiscing elit.\n- Vestibulum nec orci et mauris blandit semper.\n- Phasellus scelerisque vestibulum elit.\nEXPERTISE\n- Agile/Scrum\n- Roadmapping\n- Stakeholder Management\n- Risk Assessment\n- Team Leadership\nTECHNOLOGY\n- JIRA\n- Trello\n- Notion\n- Confluence\n- MS Project",
+      "target_role": "Unknown Role",
+      "extracted_skills": [
+        "jira",
+        "trello",
+        "notion",
+        "confluence",
+        "ms-project"
+      ],
+      "missing_skills": [],
+      "nice_to_have": [],
+      "roadmap": [],
+      "performance_data": {
+        "step_timings": {
+          "pipeline_total": 1.611,
+          "post_processing": 0.0
+        },
+        "total_time": 1.611,
+        "cache_stats": {
+          "hits": 0,
+          "misses": 0,
+          "hit_ratio": 0
+        }
+      },
+      "force_refresh": false,
+      "performance_summary": {
+        "step_timings": {
+          "pipeline_total": 1.952,
+          "post_processing": 0.0
+        },
+        "total_time": 1.952,
+        "cache_stats": {
+          "hits": 0,
+          "misses": 0,
+          "hit_ratio": 0
+        }
+      }
+    },
+    "execution_time_seconds": 13.219656705856323,
+    "session_id": "session_20250803_170610"
+  },
+  {
+    "timestamp": "2025-08-03T17:06:10.262183",
+    "input": {
+      "text": "CHARLES CROFT\nPROGRAM DELIVERY MANAGER\nCONTACT\n555 819 2259\ncharlescroft.com\ncharles@croft.com\nlinkedin.com/in/charlescroft\nVancouver, BC\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum nec orci et mauris blandit semper sit amet in urna.\nPhasellus scelerisque vestibulum elit.\nPROFESSIONAL EXPERIENCE\nYour Position / Company / Location / 2012 - Present\n- Lorem ipsum dolor sit amet, consectetur adipiscing elit.\n- Vestibulum nec orci et mauris blandit semper.\n- Phasellus scelerisque vestibulum elit.\nYour Position / Company / Location / 2012 - Present\n- Lorem ipsum dolor sit amet, consectetur adipiscing elit.\n- Vestibulum nec orci et mauris blandit semper.\n- Phasellus scelerisque vestibulum elit.\nEXPERTISE\n- Agile/Scrum\n- Roadmapping\n- Stakeholder Management\n- Risk Assessment\n- Team Leadership\nTECHNOLOGY\n- JIRA\n- Trello\n- Notion\n- Confluence\n- MS Project",
+      "target_role": "Unknown Role"
+    },
+    "output": {
+      "extracted_skills": [
+        "jira",
+        "trello",
+        "notion",
+        "confluence",
+        "ms-project"
+      ],
+      "missing_skills": [],
+      "nice_to_have": [],
+      "roadmap_phases": 0,
+      "total_recommended_skills": 0
+    },
+    "full_result": {
+      "input": "CHARLES CROFT\nPROGRAM DELIVERY MANAGER\nCONTACT\n555 819 2259\ncharlescroft.com\ncharles@croft.com\nlinkedin.com/in/charlescroft\nVancouver, BC\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum nec orci et mauris blandit semper sit amet in urna.\nPhasellus scelerisque vestibulum elit.\nPROFESSIONAL EXPERIENCE\nYour Position / Company / Location / 2012 - Present\n- Lorem ipsum dolor sit amet, consectetur adipiscing elit.\n- Vestibulum nec orci et mauris blandit semper.\n- Phasellus scelerisque vestibulum elit.\nYour Position / Company / Location / 2012 - Present\n- Lorem ipsum dolor sit amet, consectetur adipiscing elit.\n- Vestibulum nec orci et mauris blandit semper.\n- Phasellus scelerisque vestibulum elit.\nEXPERTISE\n- Agile/Scrum\n- Roadmapping\n- Stakeholder Management\n- Risk Assessment\n- Team Leadership\nTECHNOLOGY\n- JIRA\n- Trello\n- Notion\n- Confluence\n- MS Project",
+      "target_role": "Unknown Role",
+      "extracted_skills": [
+        "jira",
+        "trello",
+        "notion",
+        "confluence",
+        "ms-project"
+      ],
+      "missing_skills": [],
+      "nice_to_have": [],
+      "roadmap": [],
+      "performance_data": {
+        "step_timings": {
+          "pipeline_total": 1.952,
+          "post_processing": 0.0
+        },
+        "total_time": 1.952,
+        "cache_stats": {
+          "hits": 0,
+          "misses": 0,
+          "hit_ratio": 0
+        }
+      },
+      "force_refresh": false,
+      "performance_summary": {
+        "step_timings": {
+          "pipeline_total": 1.999,
+          "post_processing": 0.0
+        },
+        "total_time": 1.999,
+        "cache_stats": {
+          "hits": 0,
+          "misses": 0,
+          "hit_ratio": 0
+        }
+      }
+    },
+    "execution_time_seconds": 13.248744010925293,
+    "session_id": "session_20250803_170610"
+  },
+  {
+    "timestamp": "2025-08-03T17:06:10.315784",
+    "input": {
+      "text": "CHARLES CROFT\nPROGRAM DELIVERY MANAGER\nCONTACT\n555 819 2259\ncharlescroft.com\ncharles@croft.com\nlinkedin.com/in/charlescroft\nVancouver, BC\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum nec orci et mauris blandit semper sit amet in urna.\nPhasellus scelerisque vestibulum elit.\nPROFESSIONAL EXPERIENCE\nYour Position / Company / Location / 2012 - Present\n- Lorem ipsum dolor sit amet, consectetur adipiscing elit.\n- Vestibulum nec orci et mauris blandit semper.\n- Phasellus scelerisque vestibulum elit.\nYour Position / Company / Location / 2012 - Present\n- Lorem ipsum dolor sit amet, consectetur adipiscing elit.\n- Vestibulum nec orci et mauris blandit semper.\n- Phasellus scelerisque vestibulum elit.\nEXPERTISE\n- Agile/Scrum\n- Roadmapping\n- Stakeholder Management\n- Risk Assessment\n- Team Leadership\nTECHNOLOGY\n- JIRA\n- Trello\n- Notion\n- Confluence\n- MS Project",
+      "target_role": "Unknown Role"
+    },
+    "output": {
+      "extracted_skills": [
+        "jira",
+        "trello",
+        "notion",
+        "confluence",
+        "ms-project"
+      ],
+      "missing_skills": [],
+      "nice_to_have": [],
+      "roadmap_phases": 0,
+      "total_recommended_skills": 0
+    },
+    "full_result": {
+      "input": "CHARLES CROFT\nPROGRAM DELIVERY MANAGER\nCONTACT\n555 819 2259\ncharlescroft.com\ncharles@croft.com\nlinkedin.com/in/charlescroft\nVancouver, BC\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum nec orci et mauris blandit semper sit amet in urna.\nPhasellus scelerisque vestibulum elit.\nPROFESSIONAL EXPERIENCE\nYour Position / Company / Location / 2012 - Present\n- Lorem ipsum dolor sit amet, consectetur adipiscing elit.\n- Vestibulum nec orci et mauris blandit semper.\n- Phasellus scelerisque vestibulum elit.\nYour Position / Company / Location / 2012 - Present\n- Lorem ipsum dolor sit amet, consectetur adipiscing elit.\n- Vestibulum nec orci et mauris blandit semper.\n- Phasellus scelerisque vestibulum elit.\nEXPERTISE\n- Agile/Scrum\n- Roadmapping\n- Stakeholder Management\n- Risk Assessment\n- Team Leadership\nTECHNOLOGY\n- JIRA\n- Trello\n- Notion\n- Confluence\n- MS Project",
+      "target_role": "Unknown Role",
+      "extracted_skills": [
+        "jira",
+        "trello",
+        "notion",
+        "confluence",
+        "ms-project"
+      ],
+      "missing_skills": [],
+      "nice_to_have": [],
+      "roadmap": [],
+      "performance_data": {
+        "step_timings": {
+          "pipeline_total": 1.999,
+          "post_processing": 0.0
+        },
+        "total_time": 1.999,
+        "cache_stats": {
+          "hits": 0,
+          "misses": 0,
+          "hit_ratio": 0
+        }
+      },
+      "force_refresh": false,
+      "performance_summary": {
+        "step_timings": {
+          "pipeline_total": 2.052,
+          "post_processing": 0.0
+        },
+        "total_time": 2.052,
+        "cache_stats": {
+          "hits": 0,
+          "misses": 0,
+          "hit_ratio": 0
+        }
+      }
+    },
+    "execution_time_seconds": 13.177914381027222,
+    "session_id": "session_20250803_170610"
+  },
+  {
+    "timestamp": "2025-08-03T17:06:10.415562",
+    "input": {
+      "text": "CHARLES CROFT\nPROGRAM DELIVERY MANAGER\nCONTACT\n555 819 2259\ncharlescroft.com\ncharles@croft.com\nlinkedin.com/in/charlescroft\nVancouver, BC\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum nec orci et mauris blandit semper sit amet in urna.\nPhasellus scelerisque vestibulum elit.\nPROFESSIONAL EXPERIENCE\nYour Position / Company / Location / 2012 - Present\n- Lorem ipsum dolor sit amet, consectetur adipiscing elit.\n- Vestibulum nec orci et mauris blandit semper.\n- Phasellus scelerisque vestibulum elit.\nYour Position / Company / Location / 2012 - Present\n- Lorem ipsum dolor sit amet, consectetur adipiscing elit.\n- Vestibulum nec orci et mauris blandit semper.\n- Phasellus scelerisque vestibulum elit.\nEXPERTISE\n- Agile/Scrum\n- Roadmapping\n- Stakeholder Management\n- Risk Assessment\n- Team Leadership\nTECHNOLOGY\n- JIRA\n- Trello\n- Notion\n- Confluence\n- MS Project",
+      "target_role": "Unknown Role"
+    },
+    "output": {
+      "extracted_skills": [
+        "jira",
+        "trello",
+        "notion",
+        "confluence",
+        "ms-project"
+      ],
+      "missing_skills": [],
+      "nice_to_have": [],
+      "roadmap_phases": 0,
+      "total_recommended_skills": 0
+    },
+    "full_result": {
+      "input": "CHARLES CROFT\nPROGRAM DELIVERY MANAGER\nCONTACT\n555 819 2259\ncharlescroft.com\ncharles@croft.com\nlinkedin.com/in/charlescroft\nVancouver, BC\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum nec orci et mauris blandit semper sit amet in urna.\nPhasellus scelerisque vestibulum elit.\nPROFESSIONAL EXPERIENCE\nYour Position / Company / Location / 2012 - Present\n- Lorem ipsum dolor sit amet, consectetur adipiscing elit.\n- Vestibulum nec orci et mauris blandit semper.\n- Phasellus scelerisque vestibulum elit.\nYour Position / Company / Location / 2012 - Present\n- Lorem ipsum dolor sit amet, consectetur adipiscing elit.\n- Vestibulum nec orci et mauris blandit semper.\n- Phasellus scelerisque vestibulum elit.\nEXPERTISE\n- Agile/Scrum\n- Roadmapping\n- Stakeholder Management\n- Risk Assessment\n- Team Leadership\nTECHNOLOGY\n- JIRA\n- Trello\n- Notion\n- Confluence\n- MS Project",
+      "target_role": "Unknown Role",
+      "extracted_skills": [
+        "jira",
+        "trello",
+        "notion",
+        "confluence",
+        "ms-project"
+      ],
+      "missing_skills": [],
+      "nice_to_have": [],
+      "roadmap": [],
+      "performance_data": {
+        "step_timings": {
+          "pipeline_total": 2.052,
+          "post_processing": 0.0
+        },
+        "total_time": 2.052,
+        "cache_stats": {
+          "hits": 0,
+          "misses": 0,
+          "hit_ratio": 0
+        }
+      },
+      "force_refresh": false,
+      "performance_summary": {
+        "step_timings": {
+          "pipeline_total": 2.152,
+          "post_processing": 0.0
+        },
+        "total_time": 2.152,
+        "cache_stats": {
+          "hits": 0,
+          "misses": 0,
+          "hit_ratio": 0
+        }
+      }
+    },
+    "execution_time_seconds": 13.160730600357056,
+    "session_id": "session_20250803_170610"
+  },
+  {
+    "timestamp": "2025-08-03T17:06:10.610903",
+    "input": {
+      "text": "CHARLES CROFT\nPROGRAM DELIVERY MANAGER\nCONTACT\n555 819 2259\ncharlescroft.com\ncharles@croft.com\nlinkedin.com/in/charlescroft\nVancouver, BC\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum nec orci et mauris blandit semper sit amet in urna.\nPhasellus scelerisque vestibulum elit.\nPROFESSIONAL EXPERIENCE\nYour Position / Company / Location / 2012 - Present\n- Lorem ipsum dolor sit amet, consectetur adipiscing elit.\n- Vestibulum nec orci et mauris blandit semper.\n- Phasellus scelerisque vestibulum elit.\nYour Position / Company / Location / 2012 - Present\n- Lorem ipsum dolor sit amet, consectetur adipiscing elit.\n- Vestibulum nec orci et mauris blandit semper.\n- Phasellus scelerisque vestibulum elit.\nEXPERTISE\n- Agile/Scrum\n- Roadmapping\n- Stakeholder Management\n- Risk Assessment\n- Team Leadership\nTECHNOLOGY\n- JIRA\n- Trello\n- Notion\n- Confluence\n- MS Project",
+      "target_role": "Unknown Role"
+    },
+    "output": {
+      "extracted_skills": [
+        "jira",
+        "trello",
+        "notion",
+        "confluence",
+        "ms-project"
+      ],
+      "missing_skills": [],
+      "nice_to_have": [],
+      "roadmap_phases": 0,
+      "total_recommended_skills": 0
+    },
+    "full_result": {
+      "input": "CHARLES CROFT\nPROGRAM DELIVERY MANAGER\nCONTACT\n555 819 2259\ncharlescroft.com\ncharles@croft.com\nlinkedin.com/in/charlescroft\nVancouver, BC\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum nec orci et mauris blandit semper sit amet in urna.\nPhasellus scelerisque vestibulum elit.\nPROFESSIONAL EXPERIENCE\nYour Position / Company / Location / 2012 - Present\n- Lorem ipsum dolor sit amet, consectetur adipiscing elit.\n- Vestibulum nec orci et mauris blandit semper.\n- Phasellus scelerisque vestibulum elit.\nYour Position / Company / Location / 2012 - Present\n- Lorem ipsum dolor sit amet, consectetur adipiscing elit.\n- Vestibulum nec orci et mauris blandit semper.\n- Phasellus scelerisque vestibulum elit.\nEXPERTISE\n- Agile/Scrum\n- Roadmapping\n- Stakeholder Management\n- Risk Assessment\n- Team Leadership\nTECHNOLOGY\n- JIRA\n- Trello\n- Notion\n- Confluence\n- MS Project",
+      "target_role": "Unknown Role",
+      "extracted_skills": [
+        "jira",
+        "trello",
+        "notion",
+        "confluence",
+        "ms-project"
+      ],
+      "missing_skills": [],
+      "nice_to_have": [],
+      "roadmap": [],
+      "performance_data": {
+        "step_timings": {
+          "pipeline_total": 2.152,
+          "post_processing": 0.0
+        },
+        "total_time": 2.152,
+        "cache_stats": {
+          "hits": 0,
+          "misses": 0,
+          "hit_ratio": 0
+        }
+      },
+      "force_refresh": false,
+      "performance_summary": {
+        "step_timings": {
+          "pipeline_total": 2.348,
+          "post_processing": 0.0
+        },
+        "total_time": 2.348,
+        "cache_stats": {
+          "hits": 0,
+          "misses": 0,
+          "hit_ratio": 0
+        }
+      }
+    },
+    "execution_time_seconds": 13.015273809432983,
+    "session_id": "session_20250803_170610"
+  },
+  {
+    "timestamp": "2025-08-03T17:06:10.928687",
+    "input": {
+      "text": "CHARLES CROFT\nPROGRAM DELIVERY MANAGER\nCONTACT\n555 819 2259\ncharlescroft.com\ncharles@croft.com\nlinkedin.com/in/charlescroft\nVancouver, BC\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum nec orci et mauris blandit semper sit amet in urna.\nPhasellus scelerisque vestibulum elit.\nPROFESSIONAL EXPERIENCE\nYour Position / Company / Location / 2012 - Present\n- Lorem ipsum dolor sit amet, consectetur adipiscing elit.\n- Vestibulum nec orci et mauris blandit semper.\n- Phasellus scelerisque vestibulum elit.\nYour Position / Company / Location / 2012 - Present\n- Lorem ipsum dolor sit amet, consectetur adipiscing elit.\n- Vestibulum nec orci et mauris blandit semper.\n- Phasellus scelerisque vestibulum elit.\nEXPERTISE\n- Agile/Scrum\n- Roadmapping\n- Stakeholder Management\n- Risk Assessment\n- Team Leadership\nTECHNOLOGY\n- JIRA\n- Trello\n- Notion\n- Confluence\n- MS Project",
+      "target_role": "Unknown Role"
+    },
+    "output": {
+      "extracted_skills": [
+        "jira",
+        "trello",
+        "notion",
+        "confluence",
+        "ms-project"
+      ],
+      "missing_skills": [],
+      "nice_to_have": [],
+      "roadmap_phases": 0,
+      "total_recommended_skills": 0
+    },
+    "full_result": {
+      "input": "CHARLES CROFT\nPROGRAM DELIVERY MANAGER\nCONTACT\n555 819 2259\ncharlescroft.com\ncharles@croft.com\nlinkedin.com/in/charlescroft\nVancouver, BC\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum nec orci et mauris blandit semper sit amet in urna.\nPhasellus scelerisque vestibulum elit.\nPROFESSIONAL EXPERIENCE\nYour Position / Company / Location / 2012 - Present\n- Lorem ipsum dolor sit amet, consectetur adipiscing elit.\n- Vestibulum nec orci et mauris blandit semper.\n- Phasellus scelerisque vestibulum elit.\nYour Position / Company / Location / 2012 - Present\n- Lorem ipsum dolor sit amet, consectetur adipiscing elit.\n- Vestibulum nec orci et mauris blandit semper.\n- Phasellus scelerisque vestibulum elit.\nEXPERTISE\n- Agile/Scrum\n- Roadmapping\n- Stakeholder Management\n- Risk Assessment\n- Team Leadership\nTECHNOLOGY\n- JIRA\n- Trello\n- Notion\n- Confluence\n- MS Project",
+      "target_role": "Unknown Role",
+      "extracted_skills": [
+        "jira",
+        "trello",
+        "notion",
+        "confluence",
+        "ms-project"
+      ],
+      "missing_skills": [],
+      "nice_to_have": [],
+      "roadmap": [],
+      "performance_data": {
+        "step_timings": {
+          "pipeline_total": 2.348,
+          "post_processing": 0.0
+        },
+        "total_time": 2.348,
+        "cache_stats": {
+          "hits": 0,
+          "misses": 0,
+          "hit_ratio": 0
+        }
+      },
+      "force_refresh": false,
+      "performance_summary": {
+        "step_timings": {
+          "pipeline_total": 2.665,
+          "post_processing": 0.0
+        },
+        "total_time": 2.665,
+        "cache_stats": {
+          "hits": 0,
+          "misses": 0,
+          "hit_ratio": 0
+        }
+      }
+    },
+    "execution_time_seconds": 13.563079595565796,
+    "session_id": "session_20250803_170610"
+  },
+  {
+    "timestamp": "2025-08-03T17:12:11.873419",
+    "input": {
+      "text": "CHARLES CROFT\nPROGRAM DELIVERY MANAGER\nCONTACT\n555 819 2259\ncharlescroft.com\ncharles@croft.com\nlinkedin.com/in/charlescroft\nVancouver, BC\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum nec orci et mauris blandit semper sit amet in urna.\nPhasellus scelerisque vestibulum elit.\nPROFESSIONAL EXPERIENCE\nYour Position / Company / Location / 2012 - Present\n- Lorem ipsum dolor sit amet, consectetur adipiscing elit.\n- Vestibulum nec orci et mauris blandit semper.\n- Phasellus scelerisque vestibulum elit.\nYour Position / Company / Location / 2012 - Present\n- Lorem ipsum dolor sit amet, consectetur adipiscing elit.\n- Vestibulum nec orci et mauris blandit semper.\n- Phasellus scelerisque vestibulum elit.\nEXPERTISE\n- Python\n- Machine Learning\n- NLP\n- Deep Learning\n- Data Preprocessing\nTECHNOLOGY\n- Python\n- Jupyter\n- TensorFlow\n- Scikit-learn\n- Git",
+      "target_role": "Unknown Role"
+    },
+    "output": {
+      "extracted_skills": [
+        "python",
+        "machine-learning",
+        "nlp",
+        "deep-learning",
+        "data-preprocessing",
+        "jupyter",
+        "tensorflow",
+        "scikit-learn",
+        "git"
+      ],
+      "missing_skills": [],
+      "nice_to_have": [],
+      "roadmap_phases": 3,
+      "total_recommended_skills": 0
+    },
+    "full_result": {
+      "input": "CHARLES CROFT\nPROGRAM DELIVERY MANAGER\nCONTACT\n555 819 2259\ncharlescroft.com\ncharles@croft.com\nlinkedin.com/in/charlescroft\nVancouver, BC\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum nec orci et mauris blandit semper sit amet in urna.\nPhasellus scelerisque vestibulum elit.\nPROFESSIONAL EXPERIENCE\nYour Position / Company / Location / 2012 - Present\n- Lorem ipsum dolor sit amet, consectetur adipiscing elit.\n- Vestibulum nec orci et mauris blandit semper.\n- Phasellus scelerisque vestibulum elit.\nYour Position / Company / Location / 2012 - Present\n- Lorem ipsum dolor sit amet, consectetur adipiscing elit.\n- Vestibulum nec orci et mauris blandit semper.\n- Phasellus scelerisque vestibulum elit.\nEXPERTISE\n- Python\n- Machine Learning\n- NLP\n- Deep Learning\n- Data Preprocessing\nTECHNOLOGY\n- Python\n- Jupyter\n- TensorFlow\n- Scikit-learn\n- Git",
+      "target_role": "Unknown Role",
+      "extracted_skills": [
+        "python",
+        "machine-learning",
+        "nlp",
+        "deep-learning",
+        "data-preprocessing",
+        "jupyter",
+        "tensorflow",
+        "scikit-learn",
+        "git"
+      ],
+      "missing_skills": [],
+      "nice_to_have": [],
+      "roadmap": [
+        {
+          "phase": "Phase 1",
+          "skills": [
+            {
+              "skill": "Python Programming",
+              "course": "Python for Everybody - Coursera",
+              "reason": "Fundamental programming language for data analysis"
+            },
+            {
+              "skill": "Data Analysis",
+              "course": "Data Analysis with Pandas - Udemy",
+              "reason": "Essential for interpreting data effectively"
+            }
+          ]
+        },
+        {
+          "phase": "Phase 2",
+          "skills": [
+            {
+              "skill": "Machine Learning",
+              "course": "Machine Learning - Coursera",
+              "reason": "Key for predictive analytics and automation"
+            },
+            {
+              "skill": "Data Visualization",
+              "course": "Data Visualization with Tableau - Udacity",
+              "reason": "Important for presenting data insights clearly"
+            }
+          ]
+        },
+        {
+          "phase": "Phase 3",
+          "skills": [
+            {
+              "skill": "Cloud Computing",
+              "course": "AWS Cloud Practitioner - AWS",
+              "reason": "Necessary for scalable data solutions"
+            },
+            {
+              "skill": "Big Data Technologies",
+              "course": "Big Data Specialization - Coursera",
+              "reason": "Handles large datasets efficiently"
+            }
+          ]
+        }
+      ],
+      "performance_data": {
+        "step_timings": {
+          "post_processing": 0.0
+        },
+        "total_time": 0.0,
+        "cache_stats": {
+          "hits": 0,
+          "misses": 0,
+          "hit_ratio": 0
+        }
+      },
+      "force_refresh": false,
+      "performance_summary": {
+        "step_timings": {
+          "pipeline_total": 2.444,
+          "post_processing": 0.0
+        },
+        "total_time": 2.444,
+        "cache_stats": {
+          "hits": 0,
+          "misses": 0,
+          "hit_ratio": 0
+        }
+      }
+    },
+    "execution_time_seconds": 13.219311237335205,
+    "session_id": "session_20250803_171211"
+  },
+  {
+    "timestamp": "2025-08-03T17:12:11.908387",
+    "input": {
+      "text": "CHARLES CROFT\nPROGRAM DELIVERY MANAGER\nCONTACT\n555 819 2259\ncharlescroft.com\ncharles@croft.com\nlinkedin.com/in/charlescroft\nVancouver, BC\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum nec orci et mauris blandit semper sit amet in urna.\nPhasellus scelerisque vestibulum elit.\nPROFESSIONAL EXPERIENCE\nYour Position / Company / Location / 2012 - Present\n- Lorem ipsum dolor sit amet, consectetur adipiscing elit.\n- Vestibulum nec orci et mauris blandit semper.\n- Phasellus scelerisque vestibulum elit.\nYour Position / Company / Location / 2012 - Present\n- Lorem ipsum dolor sit amet, consectetur adipiscing elit.\n- Vestibulum nec orci et mauris blandit semper.\n- Phasellus scelerisque vestibulum elit.\nEXPERTISE\n- Python\n- Machine Learning\n- NLP\n- Deep Learning\n- Data Preprocessing\nTECHNOLOGY\n- Python\n- Jupyter\n- TensorFlow\n- Scikit-learn\n- Git",
+      "target_role": "Unknown Role"
+    },
+    "output": {
+      "extracted_skills": [
+        "python",
+        "machine-learning",
+        "nlp",
+        "deep-learning",
+        "data-preprocessing",
+        "jupyter",
+        "tensorflow",
+        "scikit-learn",
+        "git"
+      ],
+      "missing_skills": [],
+      "nice_to_have": [],
+      "roadmap_phases": 3,
+      "total_recommended_skills": 0
+    },
+    "full_result": {
+      "input": "CHARLES CROFT\nPROGRAM DELIVERY MANAGER\nCONTACT\n555 819 2259\ncharlescroft.com\ncharles@croft.com\nlinkedin.com/in/charlescroft\nVancouver, BC\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum nec orci et mauris blandit semper sit amet in urna.\nPhasellus scelerisque vestibulum elit.\nPROFESSIONAL EXPERIENCE\nYour Position / Company / Location / 2012 - Present\n- Lorem ipsum dolor sit amet, consectetur adipiscing elit.\n- Vestibulum nec orci et mauris blandit semper.\n- Phasellus scelerisque vestibulum elit.\nYour Position / Company / Location / 2012 - Present\n- Lorem ipsum dolor sit amet, consectetur adipiscing elit.\n- Vestibulum nec orci et mauris blandit semper.\n- Phasellus scelerisque vestibulum elit.\nEXPERTISE\n- Python\n- Machine Learning\n- NLP\n- Deep Learning\n- Data Preprocessing\nTECHNOLOGY\n- Python\n- Jupyter\n- TensorFlow\n- Scikit-learn\n- Git",
+      "target_role": "Unknown Role",
+      "extracted_skills": [
+        "python",
+        "machine-learning",
+        "nlp",
+        "deep-learning",
+        "data-preprocessing",
+        "jupyter",
+        "tensorflow",
+        "scikit-learn",
+        "git"
+      ],
+      "missing_skills": [],
+      "nice_to_have": [],
+      "roadmap": [
+        {
+          "phase": "Phase 1",
+          "skills": [
+            {
+              "skill": "Python Programming",
+              "course": "Python for Everybody - Coursera",
+              "reason": "Fundamental programming language for data analysis"
+            },
+            {
+              "skill": "Data Analysis",
+              "course": "Data Analysis with Pandas - Udemy",
+              "reason": "Essential for interpreting data effectively"
+            }
+          ]
+        },
+        {
+          "phase": "Phase 2",
+          "skills": [
+            {
+              "skill": "Machine Learning",
+              "course": "Machine Learning - Coursera",
+              "reason": "Key for predictive analytics and automation"
+            },
+            {
+              "skill": "Data Visualization",
+              "course": "Data Visualization with Tableau - Udacity",
+              "reason": "Important for presenting data insights clearly"
+            }
+          ]
+        },
+        {
+          "phase": "Phase 3",
+          "skills": [
+            {
+              "skill": "Cloud Computing",
+              "course": "AWS Cloud Practitioner - AWS",
+              "reason": "Necessary for scalable data solutions"
+            },
+            {
+              "skill": "Big Data Technologies",
+              "course": "Big Data Specialization - Coursera",
+              "reason": "Handles large datasets efficiently"
+            }
+          ]
+        }
+      ],
+      "performance_data": {
+        "step_timings": {
+          "pipeline_total": 2.444,
+          "post_processing": 0.0,
+          "cache_lookup": 0.0
+        },
+        "total_time": 2.444,
+        "cache_stats": {
+          "hits": 1,
+          "misses": 0,
+          "hit_ratio": 1.0
+        }
+      },
+      "force_refresh": false,
+      "performance_summary": {
+        "step_timings": {
+          "pipeline_total": 2.479,
+          "post_processing": 0.0,
+          "roadmap_generation_total": 0.0,
+          "cache_lookup": 0.0
+        },
+        "total_time": 2.479,
+        "cache_stats": {
+          "hits": 1,
+          "misses": 0,
+          "hit_ratio": 1.0
+        }
+      }
+    },
+    "execution_time_seconds": 2.748638391494751,
+    "session_id": "session_20250803_171211"
+  },
+  {
+    "timestamp": "2025-08-03T17:12:12.705763",
+    "input": {
+      "text": "CHARLES CROFT\nPROGRAM DELIVERY MANAGER\nCONTACT\n555 819 2259\ncharlescroft.com\ncharles@croft.com\nlinkedin.com/in/charlescroft\nVancouver, BC\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum nec orci et mauris blandit semper sit amet in urna.\nPhasellus scelerisque vestibulum elit.\nPROFESSIONAL EXPERIENCE\nYour Position / Company / Location / 2012 - Present\n- Lorem ipsum dolor sit amet, consectetur adipiscing elit.\n- Vestibulum nec orci et mauris blandit semper.\n- Phasellus scelerisque vestibulum elit.\nYour Position / Company / Location / 2012 - Present\n- Lorem ipsum dolor sit amet, consectetur adipiscing elit.\n- Vestibulum nec orci et mauris blandit semper.\n- Phasellus scelerisque vestibulum elit.\nEXPERTISE\n- Python\n- Machine Learning\n- NLP\n- Deep Learning\n- Data Preprocessing\nTECHNOLOGY\n- Python\n- Jupyter\n- TensorFlow\n- Scikit-learn\n- Git",
+      "target_role": "Unknown Role"
+    },
+    "output": {
+      "extracted_skills": [
+        "python",
+        "machine-learning",
+        "nlp",
+        "deep-learning",
+        "data-preprocessing",
+        "jupyter",
+        "tensorflow",
+        "scikit-learn",
+        "git"
+      ],
+      "missing_skills": [],
+      "nice_to_have": [],
+      "roadmap_phases": 3,
+      "total_recommended_skills": 0
+    },
+    "full_result": {
+      "input": "CHARLES CROFT\nPROGRAM DELIVERY MANAGER\nCONTACT\n555 819 2259\ncharlescroft.com\ncharles@croft.com\nlinkedin.com/in/charlescroft\nVancouver, BC\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum nec orci et mauris blandit semper sit amet in urna.\nPhasellus scelerisque vestibulum elit.\nPROFESSIONAL EXPERIENCE\nYour Position / Company / Location / 2012 - Present\n- Lorem ipsum dolor sit amet, consectetur adipiscing elit.\n- Vestibulum nec orci et mauris blandit semper.\n- Phasellus scelerisque vestibulum elit.\nYour Position / Company / Location / 2012 - Present\n- Lorem ipsum dolor sit amet, consectetur adipiscing elit.\n- Vestibulum nec orci et mauris blandit semper.\n- Phasellus scelerisque vestibulum elit.\nEXPERTISE\n- Python\n- Machine Learning\n- NLP\n- Deep Learning\n- Data Preprocessing\nTECHNOLOGY\n- Python\n- Jupyter\n- TensorFlow\n- Scikit-learn\n- Git",
+      "target_role": "Unknown Role",
+      "extracted_skills": [
+        "python",
+        "machine-learning",
+        "nlp",
+        "deep-learning",
+        "data-preprocessing",
+        "jupyter",
+        "tensorflow",
+        "scikit-learn",
+        "git"
+      ],
+      "missing_skills": [],
+      "nice_to_have": [],
+      "roadmap": [
+        {
+          "phase": "Phase 1",
+          "skills": [
+            {
+              "skill": "Python Programming",
+              "course": "Python for Everybody - Coursera",
+              "reason": "Fundamental programming language for data analysis"
+            },
+            {
+              "skill": "Data Analysis",
+              "course": "Data Analysis with Pandas - Udemy",
+              "reason": "Essential for interpreting data effectively"
+            }
+          ]
+        },
+        {
+          "phase": "Phase 2",
+          "skills": [
+            {
+              "skill": "Machine Learning",
+              "course": "Machine Learning - Coursera",
+              "reason": "Key for predictive analytics and automation"
+            },
+            {
+              "skill": "Data Visualization",
+              "course": "Data Visualization with Tableau - Udacity",
+              "reason": "Important for presenting data insights clearly"
+            }
+          ]
+        },
+        {
+          "phase": "Phase 3",
+          "skills": [
+            {
+              "skill": "Cloud Computing",
+              "course": "AWS Cloud Practitioner - AWS",
+              "reason": "Necessary for scalable data solutions"
+            },
+            {
+              "skill": "Big Data Technologies",
+              "course": "Big Data Specialization - Coursera",
+              "reason": "Handles large datasets efficiently"
+            }
+          ]
+        }
+      ],
+      "performance_data": {
+        "step_timings": {
+          "pipeline_total": 2.479,
+          "post_processing": 0.0,
+          "cache_lookup": 0.0
+        },
+        "total_time": 2.479,
+        "cache_stats": {
+          "hits": 2,
+          "misses": 0,
+          "hit_ratio": 1.0
+        }
+      },
+      "force_refresh": false,
+      "performance_summary": {
+        "step_timings": {
+          "pipeline_total": 3.277,
+          "post_processing": 0.0,
+          "roadmap_generation_total": 0.0,
+          "cache_lookup": 0.0
+        },
+        "total_time": 3.277,
+        "cache_stats": {
+          "hits": 2,
+          "misses": 0,
+          "hit_ratio": 1.0
+        }
+      }
+    },
+    "execution_time_seconds": 3.276585578918457,
+    "session_id": "session_20250803_171212"
+  },
+  {
+    "timestamp": "2025-08-03T17:12:13.495525",
+    "input": {
+      "text": "CHARLES CROFT\nPROGRAM DELIVERY MANAGER\nCONTACT\n555 819 2259\ncharlescroft.com\ncharles@croft.com\nlinkedin.com/in/charlescroft\nVancouver, BC\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum nec orci et mauris blandit semper sit amet in urna.\nPhasellus scelerisque vestibulum elit.\nPROFESSIONAL EXPERIENCE\nYour Position / Company / Location / 2012 - Present\n- Lorem ipsum dolor sit amet, consectetur adipiscing elit.\n- Vestibulum nec orci et mauris blandit semper.\n- Phasellus scelerisque vestibulum elit.\nYour Position / Company / Location / 2012 - Present\n- Lorem ipsum dolor sit amet, consectetur adipiscing elit.\n- Vestibulum nec orci et mauris blandit semper.\n- Phasellus scelerisque vestibulum elit.\nEXPERTISE\n- Python\n- Machine Learning\n- NLP\n- Deep Learning\n- Data Preprocessing\nTECHNOLOGY\n- Python\n- Jupyter\n- TensorFlow\n- Scikit-learn\n- Git",
+      "target_role": "Unknown Role"
+    },
+    "output": {
+      "extracted_skills": [
+        "python",
+        "machine-learning",
+        "nlp",
+        "deep-learning",
+        "data-preprocessing",
+        "jupyter",
+        "tensorflow",
+        "scikit-learn",
+        "git"
+      ],
+      "missing_skills": [],
+      "nice_to_have": [],
+      "roadmap_phases": 3,
+      "total_recommended_skills": 0
+    },
+    "full_result": {
+      "input": "CHARLES CROFT\nPROGRAM DELIVERY MANAGER\nCONTACT\n555 819 2259\ncharlescroft.com\ncharles@croft.com\nlinkedin.com/in/charlescroft\nVancouver, BC\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum nec orci et mauris blandit semper sit amet in urna.\nPhasellus scelerisque vestibulum elit.\nPROFESSIONAL EXPERIENCE\nYour Position / Company / Location / 2012 - Present\n- Lorem ipsum dolor sit amet, consectetur adipiscing elit.\n- Vestibulum nec orci et mauris blandit semper.\n- Phasellus scelerisque vestibulum elit.\nYour Position / Company / Location / 2012 - Present\n- Lorem ipsum dolor sit amet, consectetur adipiscing elit.\n- Vestibulum nec orci et mauris blandit semper.\n- Phasellus scelerisque vestibulum elit.\nEXPERTISE\n- Python\n- Machine Learning\n- NLP\n- Deep Learning\n- Data Preprocessing\nTECHNOLOGY\n- Python\n- Jupyter\n- TensorFlow\n- Scikit-learn\n- Git",
+      "target_role": "Unknown Role",
+      "extracted_skills": [
+        "python",
+        "machine-learning",
+        "nlp",
+        "deep-learning",
+        "data-preprocessing",
+        "jupyter",
+        "tensorflow",
+        "scikit-learn",
+        "git"
+      ],
+      "missing_skills": [],
+      "nice_to_have": [],
+      "roadmap": [
+        {
+          "phase": "Phase 1",
+          "skills": [
+            {
+              "skill": "Data Analysis",
+              "course": "Data Science - Coursera",
+              "reason": "Fundamental for data-driven decisions"
+            },
+            {
+              "skill": "Python Programming",
+              "course": "Python for Everybody - edX",
+              "reason": "Essential for automation and analysis"
+            }
+          ]
+        },
+        {
+          "phase": "Phase 2",
+          "skills": [
+            {
+              "skill": "Machine Learning",
+              "course": "Machine Learning - Coursera",
+              "reason": "Key for predictive analytics"
+            },
+            {
+              "skill": "SQL Database Management",
+              "course": "SQL for Data Science - Coursera",
+              "reason": "Important for data manipulation"
+            }
+          ]
+        },
+        {
+          "phase": "Phase 3",
+          "skills": [
+            {
+              "skill": "Cloud Computing",
+              "course": "AWS Fundamentals - Coursera",
+              "reason": "Supports scalable data solutions"
+            },
+            {
+              "skill": "Data Visualization",
+              "course": "Data Visualization with Tableau - Udacity",
+              "reason": "Enhances data storytelling capabilities"
+            }
+          ]
+        }
+      ],
+      "performance_data": {
+        "step_timings": {
+          "pipeline_total": 3.277,
+          "post_processing": 0.0,
+          "roadmap_generation_total": 0.79,
+          "cache_lookup": 0.0
+        },
+        "total_time": 4.066,
+        "cache_stats": {
+          "hits": 2,
+          "misses": 0,
+          "hit_ratio": 1.0
+        }
+      },
+      "force_refresh": false,
+      "performance_summary": {
+        "step_timings": {
+          "pipeline_total": 4.066,
+          "post_processing": 0.0,
+          "roadmap_generation_total": 0.79,
+          "cache_lookup": 0.0
+        },
+        "total_time": 4.856,
+        "cache_stats": {
+          "hits": 2,
+          "misses": 0,
+          "hit_ratio": 1.0
+        }
+      }
+    },
+    "execution_time_seconds": 10.131447792053223,
+    "session_id": "session_20250803_171213"
+  },
+  {
+    "timestamp": "2025-08-03T17:36:26.873859",
+    "input": {
+      "text": "CHARLES CROFT\n\nPROGRAM DELIVERY MANAGER\nCONTACT\n555 819 2259\ncharlescroft.com\ncharles@croft.com\nlinkedin.com/in/charlescroft\nVancouver, BC\n\nLorem ipsum dolor sit amet...Lorem ipsum dolor sit amet...\n\nPROFESSIONAL EXPERIENCE\nYour Position / Company / Location / 2012 - Present\nLorem ipsum dolor sit amet, consectetur adipiscing elit.\nVestibulum nec orci et mauris blandit semper.\nPhasellus scelerisque vestibulum elit.\nYour Position / Company / Location / 2012 - Present\nLorem ipsum dolor sit amet, consectetur adipiscing elit.\nVestibulum nec orci et mauris blandit semper.\nPhasellus scelerisque vestibulum elit.\n\nEXPERTISE\nPython\nMachine Learning\nNLP\nDeep Learning\nData Preprocessing\n\nTECHNOLOGY\nPython\nJupyter\nTensorFlow\nScikit-learn\nGit",
+      "target_role": "Skill Extraction"
+    },
+    "output": {
+      "extracted_skills": [
+        "python",
+        "machine-learning",
+        "nlp",
+        "deep-learning",
+        "data-preprocessing",
+        "jupyter",
+        "tensorflow",
+        "scikit-learn",
+        "git"
+      ],
+      "missing_skills": [],
+      "nice_to_have": [],
+      "roadmap_phases": 0,
+      "total_recommended_skills": 0
+    },
+    "full_result": {
+      "extracted_skills": [
+        "python",
+        "machine-learning",
+        "nlp",
+        "deep-learning",
+        "data-preprocessing",
+        "jupyter",
+        "tensorflow",
+        "scikit-learn",
+        "git"
+      ],
+      "performance_summary": {
+        "step_timings": {
+          "skill_extraction_only": 2.496
+        },
+        "total_time": 2.496,
+        "cache_stats": {
+          "hits": 0,
+          "misses": 0,
+          "hit_ratio": 0
+        }
+      }
+    },
+    "execution_time_seconds": 2.496088743209839,
+    "session_id": "session_20250803_173626"
+  },
+  {
+    "timestamp": "2025-08-03T17:38:24.197386",
+    "input": {
+      "text": "CHARLES CROFT\nPROGRAM DELIVERY MANAGER\nCONTACT\n555 819 2259\ncharlescroft.com\ncharles@croft.com\nlinkedin.com/in/charlescroft\nVancouver, BC\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum nec orci et mauris blandit semper sit amet in urna.\nPhasellus scelerisque vestibulum elit.\nPROFESSIONAL EXPERIENCE\nYour Position / Company / Location / 2012 - Present\n- Lorem ipsum dolor sit amet, consectetur adipiscing elit.\n- Vestibulum nec orci et mauris blandit semper.\n- Phasellus scelerisque vestibulum elit.\nYour Position / Company / Location / 2012 - Present\n- Lorem ipsum dolor sit amet, consectetur adipiscing elit.\n- Vestibulum nec orci et mauris blandit semper.\n- Phasellus scelerisque vestibulum elit.\nEXPERTISE\n- Python\n- Machine Learning\n- NLP\n- Deep Learning\n- Data Preprocessing\nTECHNOLOGY\n- Python\n- Jupyter\n- TensorFlow\n- Scikit-learn\n- Git",
+      "target_role": "Skill Extraction"
+    },
+    "output": {
+      "extracted_skills": [
+        "python",
+        "machine-learning",
+        "nlp",
+        "deep-learning",
+        "data-preprocessing",
+        "jupyter",
+        "tensorflow",
+        "scikit-learn",
+        "git"
+      ],
+      "missing_skills": [],
+      "nice_to_have": [],
+      "roadmap_phases": 0,
+      "total_recommended_skills": 0
+    },
+    "full_result": {
+      "extracted_skills": [
+        "python",
+        "machine-learning",
+        "nlp",
+        "deep-learning",
+        "data-preprocessing",
+        "jupyter",
+        "tensorflow",
+        "scikit-learn",
+        "git"
+      ],
+      "performance_summary": {
+        "step_timings": {
+          "skill_extraction_only": 2.247
+        },
+        "total_time": 2.247,
+        "cache_stats": {
+          "hits": 0,
+          "misses": 0,
+          "hit_ratio": 0
+        }
+      }
+    },
+    "execution_time_seconds": 2.2465994358062744,
+    "session_id": "session_20250803_173824"
+  },
+  {
+    "timestamp": "2025-08-03T19:14:35.415945",
+    "input": {
+      "text": "Mitesh Kumavat\n/ne+91 9909182854 |miteshkumavat777@gmail.com |/\u2640nednLinkedin |/gtbGithub |/g\u2640bePortfolio\nEducation\nBachelor of Technology CGPA - 8\nLJ University Sep. 2023 \u2013 Present\nHigher Secondary Education\nGovt Ex Higher Secondary School June. 2019 \u2013 May 2023\nSummary\nFull-stack web developer with experience in building modern apps using MERN, Next.js, Flask, and AI integrations.\nPassionate about solving real-world problems with tech, strong in hackathons, and currently exploring AI, LangChain.\nExperience\nHackathon - HackNUThon 6.0 Apr. 2025\nNirma University Ahmedabad, India\n\u2022Developed FoodBite , a smart kitchen platform for inventory, sales, and waste management.\n\u2022Implemented features such as low stock alerts, expiry tracking, and analytics dashboard.\n\u2022Used NEXT.js with Recharts , including interactive dashboard for admin access.\n\u2022Trained and Finetuned YOLOV8 model for stock detection.\n\u2022GitHub: github.com/mitesh-kumavat/food-bite Live: food-bite.vercel.app\nHackathon - Ingenium 6.0 Mar. 2025\nAhmedabad University Ahmedabad, India\n\u2022Built an E-RUPI based wallet system leveraging blockchain technology to ensure secure and transparent\ndigital transactions.\n\u2022Focused on real-world use cases like subsidy distribution, where users can receive and redeem vouchers seamlessly.\n\u2022Contributed to the frontend development using Next.js with ShadCN UI , ensuring a clean, responsive user\ninterface.\n\u2022Live: fricpay.vercel.app\nProjects\nMovieverse |Flask, SQLite, Tailwind CSS, JavaScript |GitHub |Live Demo Jan. 2025 \u2013 Feb. 2025\n\u2022Built a full-stack web application providing personalized movie recommendations with a clean and responsive\nUI.\n\u2022Implemented user authentication , movie search, and FIFO-based watchlist management system.\n\u2022Designed frontend using HTML, Tailwind CSS, JavaScript for seamless desktop and mobile experience.\n\u2022Used Flask with SQLite for backend logic and lightweight database operations.\nOpinions |React.js, Node.js, Express.js, MongoDB, JWT, Cloudinary |GitHub |Live Demo Mar. 2025\n\u2022Built a feature-rich polling platform enabling users to create, vote, filter, and manage diverse poll types .\n\u2022Implemented secure JWT-based user authentication for login and signup functionality.\n\u2022Supported multiple poll types: Single-choice, Yes/No, Rating, Open-ended, and Image-based .\n\u2022Integrated poll features like bookmarking, admin poll closing, and previous vote tracking .\n\u2022Managed media uploads via Cloudinary and used MongoDB Atlas for scalable data storage.\nTechnical Skills\nLanguages: Python, JavaScript, TypeScript, Java, SQL\nFrameworks/Libraries: React.js, Next.js, Node.js, Express.js, Flask, FastAPI, Tailwind CSS, Recharts, ShadCN\nAI/ML Tools: LangChain, YOLOv8, Hugging Face\nORM and Databases: PostgreSQL, Prisma, MongoDB, Mongoose, SQLite, Firebase\nDeveloper Tools: Git, Docker, Vercel, Render, Cloudinary, Postman, VS Code",
+      "target_role": "Skill Extraction"
+    },
+    "output": {
+      "extracted_skills": [
+        "python",
+        "javascript",
+        "typescript",
+        "java",
+        "sql",
+        "react",
+        "nextjs",
+        "nodejs",
+        "expressjs",
+        "flask",
+        "fastapi",
+        "tailwind-css",
+        "recharts",
+        "shadcn",
+        "langchain",
+        "yolov8",
+        "hugging-face",
+        "postgresql",
+        "prisma",
+        "mongodb",
+        "mongoose",
+        "sqlite",
+        "firebase",
+        "git",
+        "docker",
+        "vercel",
+        "render",
+        "cloudinary",
+        "postman",
+        "vs-code"
+      ],
+      "missing_skills": [],
+      "nice_to_have": [],
+      "roadmap_phases": 0,
+      "total_recommended_skills": 0
+    },
+    "full_result": {
+      "extracted_skills": [
+        "python",
+        "javascript",
+        "typescript",
+        "java",
+        "sql",
+        "react",
+        "nextjs",
+        "nodejs",
+        "expressjs",
+        "flask",
+        "fastapi",
+        "tailwind-css",
+        "recharts",
+        "shadcn",
+        "langchain",
+        "yolov8",
+        "hugging-face",
+        "postgresql",
+        "prisma",
+        "mongodb",
+        "mongoose",
+        "sqlite",
+        "firebase",
+        "git",
+        "docker",
+        "vercel",
+        "render",
+        "cloudinary",
+        "postman",
+        "vs-code"
+      ],
+      "performance_summary": {
+        "step_timings": {
+          "skill_extraction_only": 4.836
+        },
+        "total_time": 4.836,
+        "cache_stats": {
+          "hits": 0,
+          "misses": 0,
+          "hit_ratio": 0
+        }
+      }
+    },
+    "execution_time_seconds": 4.8364808559417725,
+    "session_id": "session_20250803_191435"
+  },
+  {
+    "timestamp": "2025-08-03T19:14:46.092938",
+    "input": {
+      "text": "Skills: python, javascript, typescript, java, sql, react, nextjs, nodejs, expressjs, flask, fastapi, tailwind-css, recharts, shadcn, langchain, yolov8, hugging-face, postgresql, prisma, mongodb, mongoose, sqlite, firebase, git, docker, vercel, render, cloudinary, postman, vs-code",
+      "target_role": "Target Role Assessment: ai-engineer"
+    },
+    "output": {
+      "extracted_skills": [],
+      "missing_skills": [],
+      "nice_to_have": [],
+      "roadmap_phases": 0,
+      "total_recommended_skills": 0
+    },
+    "full_result": {
+      "target_role": "ai-engineer",
+      "role_assessment": {
+        "role_name": "ai-engineer",
+        "readiness_score": 0.143,
+        "readiness_label": "Needs foundation",
+        "missing_skills": [
+          {
+            "skill": "python",
+            "current_level": 2,
+            "target_level": 3,
+            "gap_degree": 1,
+            "importance": "must"
+          },
+          {
+            "skill": "deep-learning",
+            "current_level": 0,
+            "target_level": 3,
+            "gap_degree": 3,
+            "importance": "must"
+          },
+          {
+            "skill": "tensorflow",
+            "current_level": 0,
+            "target_level": 3,
+            "gap_degree": 3,
+            "importance": "must"
+          },
+          {
+            "skill": "pytorch",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "must"
+          },
+          {
+            "skill": "machine-learning",
+            "current_level": 0,
+            "target_level": 3,
+            "gap_degree": 3,
+            "importance": "must"
+          },
+          {
+            "skill": "neural-networks",
+            "current_level": 0,
+            "target_level": 3,
+            "gap_degree": 3,
+            "importance": "must"
+          },
+          {
+            "skill": "computer-vision",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "must"
+          },
+          {
+            "skill": "nlp",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "must"
+          },
+          {
+            "skill": "transformers",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "nice"
+          },
+          {
+            "skill": "llm",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "nice"
+          }
+        ],
+        "quick_win_recommendations": [
+          "Foundation needed in Deep Learning: Dedicate 8-12 hours to comprehensive training through online courses or bootcamps (Level 0\u21923)",
+          "Foundation needed in Tensorflow: Dedicate 8-12 hours to comprehensive training through online courses or bootcamps (Level 0\u21923)"
+        ]
+      }
+    },
+    "execution_time_seconds": 0.00017905235290527344,
+    "session_id": "session_20250803_191446"
+  },
+  {
+    "timestamp": "2025-08-03T19:16:12.283025",
+    "input": {
+      "text": "Mitesh Kumavat\n/ne+91 9909182854 |miteshkumavat777@gmail.com |/\u2640nednLinkedin |/gtbGithub |/g\u2640bePortfolio\nEducation\nBachelor of Technology CGPA - 8\nLJ University Sep. 2023 \u2013 Present\nHigher Secondary Education\nGovt Ex Higher Secondary School June. 2019 \u2013 May 2023\nSummary\nFull-stack web developer with experience in building modern apps using MERN, Next.js, Flask, and AI integrations.\nPassionate about solving real-world problems with tech, strong in hackathons, and currently exploring AI, LangChain.\nExperience\nHackathon - HackNUThon 6.0 Apr. 2025\nNirma University Ahmedabad, India\n\u2022Developed FoodBite , a smart kitchen platform for inventory, sales, and waste management.\n\u2022Implemented features such as low stock alerts, expiry tracking, and analytics dashboard.\n\u2022Used NEXT.js with Recharts , including interactive dashboard for admin access.\n\u2022Trained and Finetuned YOLOV8 model for stock detection.\n\u2022GitHub: github.com/mitesh-kumavat/food-bite Live: food-bite.vercel.app\nHackathon - Ingenium 6.0 Mar. 2025\nAhmedabad University Ahmedabad, India\n\u2022Built an E-RUPI based wallet system leveraging blockchain technology to ensure secure and transparent\ndigital transactions.\n\u2022Focused on real-world use cases like subsidy distribution, where users can receive and redeem vouchers seamlessly.\n\u2022Contributed to the frontend development using Next.js with ShadCN UI , ensuring a clean, responsive user\ninterface.\n\u2022Live: fricpay.vercel.app\nProjects\nMovieverse |Flask, SQLite, Tailwind CSS, JavaScript |GitHub |Live Demo Jan. 2025 \u2013 Feb. 2025\n\u2022Built a full-stack web application providing personalized movie recommendations with a clean and responsive\nUI.\n\u2022Implemented user authentication , movie search, and FIFO-based watchlist management system.\n\u2022Designed frontend using HTML, Tailwind CSS, JavaScript for seamless desktop and mobile experience.\n\u2022Used Flask with SQLite for backend logic and lightweight database operations.\nOpinions |React.js, Node.js, Express.js, MongoDB, JWT, Cloudinary |GitHub |Live Demo Mar. 2025\n\u2022Built a feature-rich polling platform enabling users to create, vote, filter, and manage diverse poll types .\n\u2022Implemented secure JWT-based user authentication for login and signup functionality.\n\u2022Supported multiple poll types: Single-choice, Yes/No, Rating, Open-ended, and Image-based .\n\u2022Integrated poll features like bookmarking, admin poll closing, and previous vote tracking .\n\u2022Managed media uploads via Cloudinary and used MongoDB Atlas for scalable data storage.\nTechnical Skills\nLanguages: Python, JavaScript, TypeScript, Java, SQL\nFrameworks/Libraries: React.js, Next.js, Node.js, Express.js, Flask, FastAPI, Tailwind CSS, Recharts, ShadCN\nAI/ML Tools: LangChain, YOLOv8, Hugging Face\nORM and Databases: PostgreSQL, Prisma, MongoDB, Mongoose, SQLite, Firebase\nDeveloper Tools: Git, Docker, Vercel, Render, Cloudinary, Postman, VS Code",
+      "target_role": "Skill Extraction"
+    },
+    "output": {
+      "extracted_skills": [
+        "python",
+        "javascript",
+        "typescript",
+        "java",
+        "sql",
+        "react",
+        "nextjs",
+        "nodejs",
+        "expressjs",
+        "flask",
+        "fastapi",
+        "tailwind-css",
+        "recharts",
+        "shadcn",
+        "langchain",
+        "yolov8",
+        "hugging-face",
+        "postgresql",
+        "prisma",
+        "mongodb",
+        "mongoose",
+        "sqlite",
+        "firebase",
+        "git",
+        "docker",
+        "vercel",
+        "render",
+        "cloudinary",
+        "postman",
+        "vs-code"
+      ],
+      "missing_skills": [],
+      "nice_to_have": [],
+      "roadmap_phases": 0,
+      "total_recommended_skills": 0
+    },
+    "full_result": {
+      "extracted_skills": [
+        "python",
+        "javascript",
+        "typescript",
+        "java",
+        "sql",
+        "react",
+        "nextjs",
+        "nodejs",
+        "expressjs",
+        "flask",
+        "fastapi",
+        "tailwind-css",
+        "recharts",
+        "shadcn",
+        "langchain",
+        "yolov8",
+        "hugging-face",
+        "postgresql",
+        "prisma",
+        "mongodb",
+        "mongoose",
+        "sqlite",
+        "firebase",
+        "git",
+        "docker",
+        "vercel",
+        "render",
+        "cloudinary",
+        "postman",
+        "vs-code"
+      ],
+      "performance_summary": {
+        "step_timings": {
+          "skill_extraction_only": 4.448
+        },
+        "total_time": 4.448,
+        "cache_stats": {
+          "hits": 0,
+          "misses": 0,
+          "hit_ratio": 0
+        }
+      }
+    },
+    "execution_time_seconds": 4.447667598724365,
+    "session_id": "session_20250803_191612"
+  },
+  {
+    "timestamp": "2025-08-03T19:16:15.703655",
+    "input": {
+      "text": "Skills: python, javascript, typescript, java, sql, react, nextjs, nodejs, expressjs, flask, fastapi, tailwind-css, recharts, shadcn, langchain, yolov8, hugging-face, postgresql, prisma, mongodb, mongoose, sqlite, firebase, git, docker, vercel, render, cloudinary, postman, vs-code",
+      "target_role": "Target Role Assessment: devops-engineer"
+    },
+    "output": {
+      "extracted_skills": [],
+      "missing_skills": [],
+      "nice_to_have": [],
+      "roadmap_phases": 0,
+      "total_recommended_skills": 0
+    },
+    "full_result": {
+      "target_role": "devops-engineer",
+      "role_assessment": {
+        "role_name": "devops-engineer",
+        "readiness_score": 0.173,
+        "readiness_label": "Needs foundation",
+        "missing_skills": [
+          {
+            "skill": "linux",
+            "current_level": 0,
+            "target_level": 3,
+            "gap_degree": 3,
+            "importance": "must"
+          },
+          {
+            "skill": "docker",
+            "current_level": 2,
+            "target_level": 3,
+            "gap_degree": 1,
+            "importance": "must"
+          },
+          {
+            "skill": "kubernetes",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "must"
+          },
+          {
+            "skill": "git",
+            "current_level": 2,
+            "target_level": 3,
+            "gap_degree": 1,
+            "importance": "must"
+          },
+          {
+            "skill": "ci-cd",
+            "current_level": 0,
+            "target_level": 3,
+            "gap_degree": 3,
+            "importance": "must"
+          },
+          {
+            "skill": "jenkins",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "must"
+          },
+          {
+            "skill": "terraform",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "must"
+          },
+          {
+            "skill": "aws",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "must"
+          },
+          {
+            "skill": "bash",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "must"
+          },
+          {
+            "skill": "monitoring",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "must"
+          },
+          {
+            "skill": "ansible",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "nice"
+          },
+          {
+            "skill": "azure",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "nice"
+          }
+        ],
+        "quick_win_recommendations": [
+          "Foundation needed in linux: Start with course LIN001 - 'Linux Command Line Basics' (8h) (Level 0\u21923)",
+          "Foundation needed in ci cd: Start with course CICD001 - 'DevOps CI/CD Pipeline' (12h) (Level 0\u21923)"
+        ]
+      }
+    },
+    "execution_time_seconds": 0.00018930435180664062,
+    "session_id": "session_20250803_191615"
+  },
+  {
+    "timestamp": "2025-08-03T19:19:00.002661",
+    "input": {
+      "text": "Mitesh Kumavat\n/ne+91 9909182854 |miteshkumavat777@gmail.com |/\u2640nednLinkedin |/gtbGithub |/g\u2640bePortfolio\nEducation\nBachelor of Technology CGPA - 8\nLJ University Sep. 2023 \u2013 Present\nHigher Secondary Education\nGovt Ex Higher Secondary School June. 2019 \u2013 May 2023\nSummary\nFull-stack web developer with experience in building modern apps using MERN, Next.js, Flask, and AI integrations.\nPassionate about solving real-world problems with tech, strong in hackathons, and currently exploring AI, LangChain.\nExperience\nHackathon - HackNUThon 6.0 Apr. 2025\nNirma University Ahmedabad, India\n\u2022Developed FoodBite , a smart kitchen platform for inventory, sales, and waste management.\n\u2022Implemented features such as low stock alerts, expiry tracking, and analytics dashboard.\n\u2022Used NEXT.js with Recharts , including interactive dashboard for admin access.\n\u2022Trained and Finetuned YOLOV8 model for stock detection.\n\u2022GitHub: github.com/mitesh-kumavat/food-bite Live: food-bite.vercel.app\nHackathon - Ingenium 6.0 Mar. 2025\nAhmedabad University Ahmedabad, India\n\u2022Built an E-RUPI based wallet system leveraging blockchain technology to ensure secure and transparent\ndigital transactions.\n\u2022Focused on real-world use cases like subsidy distribution, where users can receive and redeem vouchers seamlessly.\n\u2022Contributed to the frontend development using Next.js with ShadCN UI , ensuring a clean, responsive user\ninterface.\n\u2022Live: fricpay.vercel.app\nProjects\nMovieverse |Flask, SQLite, Tailwind CSS, JavaScript |GitHub |Live Demo Jan. 2025 \u2013 Feb. 2025\n\u2022Built a full-stack web application providing personalized movie recommendations with a clean and responsive\nUI.\n\u2022Implemented user authentication , movie search, and FIFO-based watchlist management system.\n\u2022Designed frontend using HTML, Tailwind CSS, JavaScript for seamless desktop and mobile experience.\n\u2022Used Flask with SQLite for backend logic and lightweight database operations.\nOpinions |React.js, Node.js, Express.js, MongoDB, JWT, Cloudinary |GitHub |Live Demo Mar. 2025\n\u2022Built a feature-rich polling platform enabling users to create, vote, filter, and manage diverse poll types .\n\u2022Implemented secure JWT-based user authentication for login and signup functionality.\n\u2022Supported multiple poll types: Single-choice, Yes/No, Rating, Open-ended, and Image-based .\n\u2022Integrated poll features like bookmarking, admin poll closing, and previous vote tracking .\n\u2022Managed media uploads via Cloudinary and used MongoDB Atlas for scalable data storage.\nTechnical Skills\nLanguages: Python, JavaScript, TypeScript, Java, SQL\nFrameworks/Libraries: React.js, Next.js, Node.js, Express.js, Flask, FastAPI, Tailwind CSS, Recharts, ShadCN\nAI/ML Tools: LangChain, YOLOv8, Hugging Face\nORM and Databases: PostgreSQL, Prisma, MongoDB, Mongoose, SQLite, Firebase\nDeveloper Tools: Git, Docker, Vercel, Render, Cloudinary, Postman, VS Code",
+      "target_role": "Skill Extraction"
+    },
+    "output": {
+      "extracted_skills": [
+        "python",
+        "javascript",
+        "typescript",
+        "java",
+        "sql",
+        "react",
+        "nextjs",
+        "nodejs",
+        "expressjs",
+        "flask",
+        "fastapi",
+        "tailwind-css",
+        "recharts",
+        "shadcn",
+        "langchain",
+        "yolov8",
+        "hugging-face",
+        "postgresql",
+        "prisma",
+        "mongodb",
+        "mongoose",
+        "sqlite",
+        "firebase",
+        "git",
+        "docker",
+        "vercel",
+        "render",
+        "cloudinary",
+        "postman",
+        "vs-code"
+      ],
+      "missing_skills": [],
+      "nice_to_have": [],
+      "roadmap_phases": 0,
+      "total_recommended_skills": 0
+    },
+    "full_result": {
+      "extracted_skills": [
+        "python",
+        "javascript",
+        "typescript",
+        "java",
+        "sql",
+        "react",
+        "nextjs",
+        "nodejs",
+        "expressjs",
+        "flask",
+        "fastapi",
+        "tailwind-css",
+        "recharts",
+        "shadcn",
+        "langchain",
+        "yolov8",
+        "hugging-face",
+        "postgresql",
+        "prisma",
+        "mongodb",
+        "mongoose",
+        "sqlite",
+        "firebase",
+        "git",
+        "docker",
+        "vercel",
+        "render",
+        "cloudinary",
+        "postman",
+        "vs-code"
+      ],
+      "performance_summary": {
+        "step_timings": {
+          "skill_extraction_only": 4.499
+        },
+        "total_time": 4.499,
+        "cache_stats": {
+          "hits": 0,
+          "misses": 0,
+          "hit_ratio": 0
+        }
+      }
+    },
+    "execution_time_seconds": 4.498825550079346,
+    "session_id": "session_20250803_191900"
+  },
+  {
+    "timestamp": "2025-08-03T19:19:02.621611",
+    "input": {
+      "text": "Skills: python, javascript, typescript, java, sql, react, nextjs, nodejs, expressjs, flask, fastapi, tailwind-css, recharts, shadcn, langchain, yolov8, hugging-face, postgresql, prisma, mongodb, mongoose, sqlite, firebase, git, docker, vercel, render, cloudinary, postman, vs-code",
+      "target_role": "Target Role Assessment: ai-engineer"
+    },
+    "output": {
+      "extracted_skills": [],
+      "missing_skills": [],
+      "nice_to_have": [],
+      "roadmap_phases": 0,
+      "total_recommended_skills": 0
+    },
+    "full_result": {
+      "target_role": "ai-engineer",
+      "role_assessment": {
+        "role_name": "ai-engineer",
+        "readiness_score": 0.143,
+        "readiness_label": "Needs foundation",
+        "missing_skills": [
+          {
+            "skill": "python",
+            "current_level": 2,
+            "target_level": 3,
+            "gap_degree": 1,
+            "importance": "must"
+          },
+          {
+            "skill": "deep-learning",
+            "current_level": 0,
+            "target_level": 3,
+            "gap_degree": 3,
+            "importance": "must"
+          },
+          {
+            "skill": "tensorflow",
+            "current_level": 0,
+            "target_level": 3,
+            "gap_degree": 3,
+            "importance": "must"
+          },
+          {
+            "skill": "pytorch",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "must"
+          },
+          {
+            "skill": "machine-learning",
+            "current_level": 0,
+            "target_level": 3,
+            "gap_degree": 3,
+            "importance": "must"
+          },
+          {
+            "skill": "neural-networks",
+            "current_level": 0,
+            "target_level": 3,
+            "gap_degree": 3,
+            "importance": "must"
+          },
+          {
+            "skill": "computer-vision",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "must"
+          },
+          {
+            "skill": "nlp",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "must"
+          },
+          {
+            "skill": "transformers",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "nice"
+          },
+          {
+            "skill": "llm",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "nice"
+          }
+        ],
+        "quick_win_recommendations": [
+          "Foundation needed in Deep Learning: Dedicate 8-12 hours to comprehensive training through online courses or bootcamps (Level 0\u21923)",
+          "Foundation needed in Tensorflow: Dedicate 8-12 hours to comprehensive training through online courses or bootcamps (Level 0\u21923)"
+        ]
+      }
+    },
+    "execution_time_seconds": 0.00015115737915039062,
+    "session_id": "session_20250803_191902"
+  },
+  {
+    "timestamp": "2025-08-03T19:24:02.963599",
+    "input": {
+      "text": "CHARLES CROFT\nPROGRAM DELIVERY MANAGER\nCONTACT\n555 819 2259\ncharlescroft.com\ncharles@croft.com\nlinkedin.com/in/charlescroft\nVancouver, BC\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum nec orci et mauris blandit semper sit amet in urna.\nPhasellus scelerisque vestibulum elit.\nPROFESSIONAL EXPERIENCE\nYour Position / Company / Location / 2012 - Present\n- Lorem ipsum dolor sit amet, consectetur adipiscing elit.\n- Vestibulum nec orci et mauris blandit semper.\n- Phasellus scelerisque vestibulum elit.\nYour Position / Company / Location / 2012 - Present\n- Lorem ipsum dolor sit amet, consectetur adipiscing elit.\n- Vestibulum nec orci et mauris blandit semper.\n- Phasellus scelerisque vestibulum elit.\nEXPERTISE\n- Agile/Scrum\n- Roadmapping\n- Stakeholder Management\n- Risk Assessment\n- Team Leadership\nTECHNOLOGY\n- JIRA\n- Trello\n- Notion\n- Confluence\n- MS Project",
+      "target_role": "Skill Extraction"
+    },
+    "output": {
+      "extracted_skills": [
+        "jira",
+        "trello",
+        "notion",
+        "confluence",
+        "ms-project"
+      ],
+      "missing_skills": [],
+      "nice_to_have": [],
+      "roadmap_phases": 0,
+      "total_recommended_skills": 0
+    },
+    "full_result": {
+      "extracted_skills": [
+        "jira",
+        "trello",
+        "notion",
+        "confluence",
+        "ms-project"
+      ],
+      "performance_summary": {
+        "step_timings": {
+          "skill_extraction_only": 1.753
+        },
+        "total_time": 1.753,
+        "cache_stats": {
+          "hits": 0,
+          "misses": 0,
+          "hit_ratio": 0
+        }
+      }
+    },
+    "execution_time_seconds": 1.75300931930542,
+    "session_id": "session_20250803_192402"
+  },
+  {
+    "timestamp": "2025-08-03T19:24:05.329400",
+    "input": {
+      "text": "Skills: jira, trello, notion, confluence, ms-project",
+      "target_role": "Target Role Assessment: product-manager"
+    },
+    "output": {
+      "extracted_skills": [],
+      "missing_skills": [],
+      "nice_to_have": [],
+      "roadmap_phases": 0,
+      "total_recommended_skills": 0
+    },
+    "full_result": {
+      "target_role": "product-manager",
+      "role_assessment": {
+        "role_name": "product-manager",
+        "readiness_score": 0.081,
+        "readiness_label": "Needs foundation",
+        "missing_skills": [
+          {
+            "skill": "product-strategy",
+            "current_level": 0,
+            "target_level": 3,
+            "gap_degree": 3,
+            "importance": "must"
+          },
+          {
+            "skill": "user-research",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "must"
+          },
+          {
+            "skill": "data-analysis",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "must"
+          },
+          {
+            "skill": "roadmap-planning",
+            "current_level": 0,
+            "target_level": 3,
+            "gap_degree": 3,
+            "importance": "must"
+          },
+          {
+            "skill": "agile",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "must"
+          },
+          {
+            "skill": "stakeholder-management",
+            "current_level": 0,
+            "target_level": 3,
+            "gap_degree": 3,
+            "importance": "must"
+          },
+          {
+            "skill": "market-research",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "must"
+          },
+          {
+            "skill": "sql",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "nice"
+          },
+          {
+            "skill": "excel",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "nice"
+          },
+          {
+            "skill": "figma",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "nice"
+          }
+        ],
+        "quick_win_recommendations": [
+          "Foundation needed in Product Strategy: Dedicate 8-12 hours to comprehensive training through online courses or bootcamps (Level 0\u21923)",
+          "Foundation needed in Roadmap Planning: Dedicate 8-12 hours to comprehensive training through online courses or bootcamps (Level 0\u21923)"
+        ]
+      }
+    },
+    "execution_time_seconds": 0.00017571449279785156,
+    "session_id": "session_20250803_192405"
+  },
+  {
+    "timestamp": "2025-08-03T19:27:30.185258",
+    "input": {
+      "text": "CHARLES CROFT\nPROGRAM DELIVERY MANAGER\nCONTACT\n555 819 2259\ncharlescroft.com\ncharles@croft.com\nlinkedin.com/in/charlescroft\nVancouver, BC\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum nec orci et mauris blandit semper sit amet in urna.\nPhasellus scelerisque vestibulum elit.\nPROFESSIONAL EXPERIENCE\nYour Position / Company / Location / 2012 - Present\n- Lorem ipsum dolor sit amet, consectetur adipiscing elit.\n- Vestibulum nec orci et mauris blandit semper.\n- Phasellus scelerisque vestibulum elit.\nYour Position / Company / Location / 2012 - Present\n- Lorem ipsum dolor sit amet, consectetur adipiscing elit.\n- Vestibulum nec orci et mauris blandit semper.\n- Phasellus scelerisque vestibulum elit.\nEXPERTISE\n- CI/CD\n- Docker\n- Kubernetes\n- AWS\n- Monitoring & Logging\nTECHNOLOGY\n- Linux\n- Ansible\n- Terraform\n- Prometheus\n- Grafana",
+      "target_role": "Skill Extraction"
+    },
+    "output": {
+      "extracted_skills": [
+        "ci-cd",
+        "docker",
+        "kubernetes",
+        "aws",
+        "linux",
+        "ansible",
+        "terraform",
+        "prometheus",
+        "grafana"
+      ],
+      "missing_skills": [],
+      "nice_to_have": [],
+      "roadmap_phases": 0,
+      "total_recommended_skills": 0
+    },
+    "full_result": {
+      "extracted_skills": [
+        "ci-cd",
+        "docker",
+        "kubernetes",
+        "aws",
+        "linux",
+        "ansible",
+        "terraform",
+        "prometheus",
+        "grafana"
+      ],
+      "performance_summary": {
+        "step_timings": {
+          "skill_extraction_only": 2.161
+        },
+        "total_time": 2.161,
+        "cache_stats": {
+          "hits": 0,
+          "misses": 0,
+          "hit_ratio": 0
+        }
+      }
+    },
+    "execution_time_seconds": 2.1615309715270996,
+    "session_id": "session_20250803_192730"
+  },
+  {
+    "timestamp": "2025-08-03T19:27:30.350575",
+    "input": {
+      "text": "Skills: ci-cd, docker, kubernetes, aws, linux, ansible, terraform, prometheus, grafana",
+      "target_role": "Target Role Assessment: devops-engineer"
+    },
+    "output": {
+      "extracted_skills": [],
+      "missing_skills": [],
+      "nice_to_have": [],
+      "roadmap_phases": 0,
+      "total_recommended_skills": 0
+    },
+    "full_result": {
+      "target_role": "devops-engineer",
+      "role_assessment": {
+        "role_name": "devops-engineer",
+        "readiness_score": 0.467,
+        "readiness_label": "Needs foundation",
+        "missing_skills": [
+          {
+            "skill": "linux",
+            "current_level": 2,
+            "target_level": 3,
+            "gap_degree": 1,
+            "importance": "must"
+          },
+          {
+            "skill": "docker",
+            "current_level": 2,
+            "target_level": 3,
+            "gap_degree": 1,
+            "importance": "must"
+          },
+          {
+            "skill": "git",
+            "current_level": 0,
+            "target_level": 3,
+            "gap_degree": 3,
+            "importance": "must"
+          },
+          {
+            "skill": "ci-cd",
+            "current_level": 2,
+            "target_level": 3,
+            "gap_degree": 1,
+            "importance": "must"
+          },
+          {
+            "skill": "jenkins",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "must"
+          },
+          {
+            "skill": "bash",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "must"
+          },
+          {
+            "skill": "monitoring",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "must"
+          },
+          {
+            "skill": "python",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "nice"
+          },
+          {
+            "skill": "azure",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "nice"
+          }
+        ],
+        "quick_win_recommendations": [
+          "Foundation needed in Git: Dedicate 8-12 hours to comprehensive training through online courses or bootcamps (Level 0\u21923)",
+          "Foundation needed in Jenkins: Dedicate 8-12 hours to comprehensive training through online courses or bootcamps (Level 0\u21922)"
+        ]
+      }
+    },
+    "execution_time_seconds": 0.0001323223114013672,
+    "session_id": "session_20250803_192730"
+  },
+  {
+    "timestamp": "2025-08-03T19:29:07.674946",
+    "input": {
+      "text": "Mitesh Kumavat\n/ne+91 9909182854 |miteshkumavat777@gmail.com |/\u2640nednLinkedin |/gtbGithub |/g\u2640bePortfolio\nEducation\nBachelor of Technology CGPA - 8\nLJ University Sep. 2023 \u2013 Present\nHigher Secondary Education\nGovt Ex Higher Secondary School June. 2019 \u2013 May 2023\nSummary\nFull-stack web developer with experience in building modern apps using MERN, Next.js, Flask, and AI integrations.\nPassionate about solving real-world problems with tech, strong in hackathons, and currently exploring AI, LangChain.\nExperience\nHackathon - HackNUThon 6.0 Apr. 2025\nNirma University Ahmedabad, India\n\u2022Developed FoodBite , a smart kitchen platform for inventory, sales, and waste management.\n\u2022Implemented features such as low stock alerts, expiry tracking, and analytics dashboard.\n\u2022Used NEXT.js with Recharts , including interactive dashboard for admin access.\n\u2022Trained and Finetuned YOLOV8 model for stock detection.\n\u2022GitHub: github.com/mitesh-kumavat/food-bite Live: food-bite.vercel.app\nHackathon - Ingenium 6.0 Mar. 2025\nAhmedabad University Ahmedabad, India\n\u2022Built an E-RUPI based wallet system leveraging blockchain technology to ensure secure and transparent\ndigital transactions.\n\u2022Focused on real-world use cases like subsidy distribution, where users can receive and redeem vouchers seamlessly.\n\u2022Contributed to the frontend development using Next.js with ShadCN UI , ensuring a clean, responsive user\ninterface.\n\u2022Live: fricpay.vercel.app\nProjects\nMovieverse |Flask, SQLite, Tailwind CSS, JavaScript |GitHub |Live Demo Jan. 2025 \u2013 Feb. 2025\n\u2022Built a full-stack web application providing personalized movie recommendations with a clean and responsive\nUI.\n\u2022Implemented user authentication , movie search, and FIFO-based watchlist management system.\n\u2022Designed frontend using HTML, Tailwind CSS, JavaScript for seamless desktop and mobile experience.\n\u2022Used Flask with SQLite for backend logic and lightweight database operations.\nOpinions |React.js, Node.js, Express.js, MongoDB, JWT, Cloudinary |GitHub |Live Demo Mar. 2025\n\u2022Built a feature-rich polling platform enabling users to create, vote, filter, and manage diverse poll types .\n\u2022Implemented secure JWT-based user authentication for login and signup functionality.\n\u2022Supported multiple poll types: Single-choice, Yes/No, Rating, Open-ended, and Image-based .\n\u2022Integrated poll features like bookmarking, admin poll closing, and previous vote tracking .\n\u2022Managed media uploads via Cloudinary and used MongoDB Atlas for scalable data storage.\nTechnical Skills\nLanguages: Python, JavaScript, TypeScript, Java, SQL\nFrameworks/Libraries: React.js, Next.js, Node.js, Express.js, Flask, FastAPI, Tailwind CSS, Recharts, ShadCN\nAI/ML Tools: LangChain, YOLOv8, Hugging Face\nORM and Databases: PostgreSQL, Prisma, MongoDB, Mongoose, SQLite, Firebase\nDeveloper Tools: Git, Docker, Vercel, Render, Cloudinary, Postman, VS Code",
+      "target_role": "Skill Extraction"
+    },
+    "output": {
+      "extracted_skills": [
+        "python",
+        "javascript",
+        "typescript",
+        "java",
+        "sql",
+        "react",
+        "nextjs",
+        "nodejs",
+        "expressjs",
+        "flask",
+        "fastapi",
+        "tailwind-css",
+        "recharts",
+        "shadcn",
+        "langchain",
+        "yolov8",
+        "hugging-face",
+        "postgresql",
+        "prisma",
+        "mongodb",
+        "mongoose",
+        "sqlite",
+        "firebase",
+        "git",
+        "docker",
+        "vercel",
+        "render",
+        "cloudinary",
+        "postman",
+        "vs-code"
+      ],
+      "missing_skills": [],
+      "nice_to_have": [],
+      "roadmap_phases": 0,
+      "total_recommended_skills": 0
+    },
+    "full_result": {
+      "extracted_skills": [
+        "python",
+        "javascript",
+        "typescript",
+        "java",
+        "sql",
+        "react",
+        "nextjs",
+        "nodejs",
+        "expressjs",
+        "flask",
+        "fastapi",
+        "tailwind-css",
+        "recharts",
+        "shadcn",
+        "langchain",
+        "yolov8",
+        "hugging-face",
+        "postgresql",
+        "prisma",
+        "mongodb",
+        "mongoose",
+        "sqlite",
+        "firebase",
+        "git",
+        "docker",
+        "vercel",
+        "render",
+        "cloudinary",
+        "postman",
+        "vs-code"
+      ],
+      "performance_summary": {
+        "step_timings": {
+          "skill_extraction_only": 4.918
+        },
+        "total_time": 4.918,
+        "cache_stats": {
+          "hits": 0,
+          "misses": 0,
+          "hit_ratio": 0
+        }
+      }
+    },
+    "execution_time_seconds": 4.9180872440338135,
+    "session_id": "session_20250803_192907"
+  },
+  {
+    "timestamp": "2025-08-03T19:29:11.735493",
+    "input": {
+      "text": "Skills: python, javascript, typescript, java, sql, react, nextjs, nodejs, expressjs, flask, fastapi, tailwind-css, recharts, shadcn, langchain, yolov8, hugging-face, postgresql, prisma, mongodb, mongoose, sqlite, firebase, git, docker, vercel, render, cloudinary, postman, vs-code",
+      "target_role": "Target Role Assessment: product-manager"
+    },
+    "output": {
+      "extracted_skills": [],
+      "missing_skills": [],
+      "nice_to_have": [],
+      "roadmap_phases": 0,
+      "total_recommended_skills": 0
+    },
+    "full_result": {
+      "target_role": "product-manager",
+      "role_assessment": {
+        "role_name": "product-manager",
+        "readiness_score": 0.081,
+        "readiness_label": "Needs foundation",
+        "missing_skills": [
+          {
+            "skill": "product-strategy",
+            "current_level": 0,
+            "target_level": 3,
+            "gap_degree": 3,
+            "importance": "must"
+          },
+          {
+            "skill": "user-research",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "must"
+          },
+          {
+            "skill": "data-analysis",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "must"
+          },
+          {
+            "skill": "roadmap-planning",
+            "current_level": 0,
+            "target_level": 3,
+            "gap_degree": 3,
+            "importance": "must"
+          },
+          {
+            "skill": "agile",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "must"
+          },
+          {
+            "skill": "stakeholder-management",
+            "current_level": 0,
+            "target_level": 3,
+            "gap_degree": 3,
+            "importance": "must"
+          },
+          {
+            "skill": "market-research",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "must"
+          },
+          {
+            "skill": "excel",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "nice"
+          },
+          {
+            "skill": "jira",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "nice"
+          },
+          {
+            "skill": "figma",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "nice"
+          }
+        ],
+        "quick_win_recommendations": [
+          "Foundation needed in Product Strategy: Dedicate 8-12 hours to comprehensive training through online courses or bootcamps (Level 0\u21923)",
+          "Foundation needed in Roadmap Planning: Dedicate 8-12 hours to comprehensive training through online courses or bootcamps (Level 0\u21923)"
+        ]
+      }
+    },
+    "execution_time_seconds": 0.00014638900756835938,
+    "session_id": "session_20250803_192911"
+  },
+  {
+    "timestamp": "2025-08-03T19:29:15.094291",
+    "input": {
+      "text": "Skills: python, javascript, typescript, java, sql, react, nextjs, nodejs, expressjs, flask, fastapi, tailwind-css, recharts, shadcn, langchain, yolov8, hugging-face, postgresql, prisma, mongodb, mongoose, sqlite, firebase, git, docker, vercel, render, cloudinary, postman, vs-code",
+      "target_role": "Target Role Assessment: ai-engineer"
+    },
+    "output": {
+      "extracted_skills": [],
+      "missing_skills": [],
+      "nice_to_have": [],
+      "roadmap_phases": 0,
+      "total_recommended_skills": 0
+    },
+    "full_result": {
+      "target_role": "ai-engineer",
+      "role_assessment": {
+        "role_name": "ai-engineer",
+        "readiness_score": 0.143,
+        "readiness_label": "Needs foundation",
+        "missing_skills": [
+          {
+            "skill": "python",
+            "current_level": 2,
+            "target_level": 3,
+            "gap_degree": 1,
+            "importance": "must"
+          },
+          {
+            "skill": "deep-learning",
+            "current_level": 0,
+            "target_level": 3,
+            "gap_degree": 3,
+            "importance": "must"
+          },
+          {
+            "skill": "tensorflow",
+            "current_level": 0,
+            "target_level": 3,
+            "gap_degree": 3,
+            "importance": "must"
+          },
+          {
+            "skill": "pytorch",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "must"
+          },
+          {
+            "skill": "machine-learning",
+            "current_level": 0,
+            "target_level": 3,
+            "gap_degree": 3,
+            "importance": "must"
+          },
+          {
+            "skill": "neural-networks",
+            "current_level": 0,
+            "target_level": 3,
+            "gap_degree": 3,
+            "importance": "must"
+          },
+          {
+            "skill": "computer-vision",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "must"
+          },
+          {
+            "skill": "nlp",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "must"
+          },
+          {
+            "skill": "transformers",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "nice"
+          },
+          {
+            "skill": "llm",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "nice"
+          }
+        ],
+        "quick_win_recommendations": [
+          "Foundation needed in Deep Learning: Dedicate 8-12 hours to comprehensive training through online courses or bootcamps (Level 0\u21923)",
+          "Foundation needed in Tensorflow: Dedicate 8-12 hours to comprehensive training through online courses or bootcamps (Level 0\u21923)"
+        ]
+      }
+    },
+    "execution_time_seconds": 0.00014162063598632812,
+    "session_id": "session_20250803_192915"
+  }
+]

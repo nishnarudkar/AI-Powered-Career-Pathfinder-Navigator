@@ -6,23 +6,17 @@ document.addEventListener('DOMContentLoaded', () => {
     const skillInput = document.getElementById('skill-input');
     const addSkillBtn = document.getElementById('add-skill');
     const extractSkillsBtn = document.getElementById('extract-skills');
-    const readinessResults = document.getElementById('readiness-results');
-    const readinessAssessment = document.getElementById('readiness-assessment');
-    const selectedRoleName = document.getElementById('selected-role-name');
     const skillsList = document.getElementById('skills-list');
     const jobRole = document.getElementById('job-role');
     const generateRoadmapBtn = document.getElementById('generate-roadmap');
+    const forceRefreshBtn = document.getElementById('force-refresh');
+    const performanceTestBtn = document.getElementById('performance-test');
     const loading = document.getElementById('loading');
     const roadmapContainer = document.getElementById('roadmap-container');
     const roadmapList = document.getElementById('roadmap-list');
     const resourcesContainer = document.getElementById('resources-container');
     const resources = document.getElementById('resources');
-
-    // Debug: Check if all elements are found
-    console.log('Elements found:');
-    console.log('generateRoadmapBtn:', generateRoadmapBtn);
-    console.log('jobRole:', jobRole);
-    console.log('skillsList:', skillsList);
+    const performanceInfo = document.getElementById('performance-info');
 
     // Enhanced drag and drop functionality
     uploadArea.addEventListener('click', () => resumeInput.click());
@@ -194,9 +188,9 @@ document.addEventListener('DOMContentLoaded', () => {
     });
 
     // Handle skill extraction
-        extractSkillsBtn.addEventListener('click', async () => {
+    extractSkillsBtn.addEventListener('click', async () => {
         if (!resumeInput.dataset.sessionId) {
-            showMessage('Please upload a resume first or add skills manually.', 'warning');
+            showMessage('Please upload a resume first!', 'warning');
             return;
         }
 
@@ -208,206 +202,162 @@ document.addEventListener('DOMContentLoaded', () => {
             });
             const data = await response.json();
 
-            if (data.success) {
+            if (data.success && data.skills) {
+                // Clear existing skills
                 skillsList.innerHTML = '';
-                data.skills.forEach(skill => addSkillToList(skill));
+                
+                // Add extracted skills
+                data.skills.forEach(skill => {
+                    const li = document.createElement('li');
+                    li.className = 'skill-tag';
+                    li.innerHTML = `
+                        <span>${skill}</span>
+                        <button class="skill-remove" onclick="removeSkill(this)">×</button>
+                    `;
+                    skillsList.appendChild(li);
+                });
+                
                 showMessage(`Extracted ${data.skills.length} skills from your resume!`, 'success');
             } else {
-                showMessage(data.error || 'Failed to extract skills', 'warning');
+                showMessage('Failed to extract skills. Please try adding them manually.', 'warning');
             }
         } catch (error) {
-            showMessage('Error extracting skills. Please try again.', 'warning');
+            showMessage('Error extracting skills', 'warning');
         }
     });
 
-    // Target role readiness assessment function
-    async function assessTargetRoleReadiness(targetRole) {
-        const skills = Array.from(skillsList.children).map(li => 
-            li.querySelector('span').textContent
-        );
-
-        if (skills.length === 0) {
-            showMessage('Please add some skills first or extract them from your resume.', 'warning');
-            return;
-        }
-
-        try {
-            readinessAssessment.style.display = 'block';
-            readinessResults.innerHTML = '<div class="loading">🔄 Assessing readiness for ' + targetRole.replace('-', ' ') + '...</div>';
-
-            const response = await fetch('/assess-target-role-readiness', {
-                method: 'POST',
-                headers: { 'Content-Type': 'application/json' },
-                body: JSON.stringify({ 
-                    skills: skills,
-                    target_role: targetRole
-                })
-            });
-            const data = await response.json();
-
-            if (data.success) {
-                console.log('Role assessment successful, displaying results');
-                displayTargetRoleReadiness(data.role_assessment);
-                showMessage('Role readiness assessment complete!', 'success');
-            } else {
-                console.log('Role assessment failed:', data.error);
-                showMessage(data.error || 'Failed to assess role readiness', 'warning');
-                readinessAssessment.style.display = 'none';
-            }
-        } catch (error) {
-            showMessage('Error assessing role readiness. Please try again.', 'warning');
-            readinessAssessment.style.display = 'none';
-        }
-    }
-
-    async function displayTargetRoleReadiness(roleAssessment) {
-        readinessResults.innerHTML = '';
-
-        const readinessScore = Math.round(roleAssessment.readiness_score * 100);
-        const missingSkillsCount = roleAssessment.missing_skills.length;
-        
-        const assessmentHtml = `
-            <div class="target-role-assessment">
-                <div class="role-header">
-                    <div class="role-name">${formatRoleName(roleAssessment.role_name)}</div>
-                    <div class="readiness-score ${getReadinessClass(roleAssessment.readiness_label)}">${readinessScore}%</div>
-                </div>
-                <div class="readiness-label ${getReadinessClass(roleAssessment.readiness_label)}">${roleAssessment.readiness_label}</div>
-                
-                <div class="assessment-details">
-                    <div class="skills-section">
-                        <h4>✅ Matched Skills (${roleAssessment.matched_skills.length})</h4>
-                        <div class="skills-list">${roleAssessment.matched_skills.join(', ')}</div>
-                    </div>
-                    
-                    ${roleAssessment.missing_skills.length > 0 ? `
-                        <div class="skills-section">
-                            <h4>🎯 Skills to Develop (${missingSkillsCount})</h4>
-                            <div class="skills-list">${roleAssessment.missing_skills.join(', ')}</div>
-                        </div>
-                    ` : ''}
-                    
-                    ${roleAssessment.quick_win_recommendations.length > 0 ? `
-                        <div class="quick-wins">
-                            <h4>🚀 Quick Wins & Recommendations:</h4>
-                            ${roleAssessment.quick_win_recommendations.map(rec => `<div class="quick-win-item">${rec}</div>`).join('')}
-                        </div>
-                    ` : ''}
-                </div>
-            </div>
-        `;
-        
-        readinessResults.innerHTML = assessmentHtml;
-        
-        // Enable the generate roadmap button after assessment
-        generateRoadmapBtn.disabled = false;
-        generateRoadmapBtn.innerHTML = '✨ Generate My Learning Roadmap';
-        console.log('Button enabled after role assessment:', generateRoadmapBtn.disabled);
-    }
-
-    function getReadinessClass(label) {
-        if (label.includes('Ready')) return 'ready';
-        if (label.includes('Workable')) return 'workable';
-        return 'needs-foundation';
-    }
-
-    function formatRoleName(roleName) {
-        return roleName.split('-').map(word => 
-            word.charAt(0).toUpperCase() + word.slice(1)
-        ).join(' ');
-    }
-
-    function addSkillToList(skill) {
-        const existingSkills = Array.from(skillsList.children).map(li => 
-            li.querySelector('span').textContent.toLowerCase()
-        );
-        
-        if (existingSkills.includes(skill.toLowerCase())) {
-            return; // Skip duplicates
-        }
-
-        const li = document.createElement('li');
-        li.className = 'skill-tag';
-        li.innerHTML = `
-            <span>${skill}</span>
-            <button class="skill-remove" onclick="removeSkill(this)">×</button>
-        `;
-        skillsList.appendChild(li);
-    }
-
-    // Roadmap generation
-    async function generateRoadmap() {
-        console.log('Generate roadmap clicked!');
-        console.log('Button disabled:', generateRoadmapBtn.disabled);
-        console.log('Job role value:', jobRole.value);
-        
+    // Enhanced roadmap generation
+    async function generateRoadmap(forceRefresh = false) {
         const role = jobRole.value;
         if (!role) {
             showMessage('Please select a target job role.', 'warning');
-            console.log('No role selected, stopping');
             return;
         }
 
         const skills = Array.from(skillsList.children).map(li => 
             li.querySelector('span').textContent
         );
-        console.log('Skills found:', skills);
 
         if (skills.length === 0) {
             showMessage('Please add some skills first!', 'warning');
-            console.log('No skills found, stopping');
             return;
         }
 
-        console.log('About to start roadmap generation...');
-
         // Create manual session if no session exists but skills are present
         if (!resumeInput.dataset.sessionId) {
-            console.log('No session ID, creating manual session...');
             await createManualSession();
             if (!resumeInput.dataset.sessionId) {
                 showMessage('Failed to create session for manual skills!', 'warning');
-                console.log('Failed to create session');
                 return;
             }
-            console.log('Manual session created:', resumeInput.dataset.sessionId);
         }
 
-        console.log('Showing loading indicator...');
         loading.style.display = 'block';
         roadmapContainer.style.display = 'none';
+        performanceInfo.style.display = 'none';
         generateRoadmapBtn.disabled = true;
+        if (forceRefreshBtn) forceRefreshBtn.disabled = true;
+
+        const startTime = Date.now();
 
         try {
-            console.log('Making request to /generate-roadmap...');
             const response = await fetch('/generate-roadmap', {
                 method: 'POST',
                 headers: { 'Content-Type': 'application/json' },
                 body: JSON.stringify({ 
                     skills, 
                     role, 
-                    session_id: resumeInput.dataset.sessionId
+                    session_id: resumeInput.dataset.sessionId,
+                    force_refresh: forceRefresh
                 })
             });
-            console.log('Response received:', response.status);
             const data = await response.json();
-            console.log('Response data:', data);
+            
+            const endTime = Date.now();
+            const totalTime = (endTime - startTime) / 1000;
             
             if (data.success) {
-                console.log('Success! Displaying roadmap...');
                 displayRoadmap(data);
+                displayPerformanceMetrics(data.performance, totalTime);
             } else {
-                console.log('Error from server:', data.error);
                 showMessage(`Error: ${data.error}`, 'warning');
             }
         } catch (error) {
-            console.log('Network error:', error);
             showMessage(`Network error: ${error.message}`, 'warning');
         } finally {
-            console.log('Hiding loading indicator...');
             loading.style.display = 'none';
             generateRoadmapBtn.disabled = false;
+            if (forceRefreshBtn) forceRefreshBtn.disabled = false;
         }
+    }
+
+    generateRoadmapBtn.addEventListener('click', () => generateRoadmap(false));
+    
+    if (forceRefreshBtn) {
+        forceRefreshBtn.addEventListener('click', () => {
+            showMessage('Forcing refresh - bypassing cache...', 'info');
+            generateRoadmap(true);
+        });
+    }
+
+    if (performanceTestBtn) {
+        performanceTestBtn.addEventListener('click', async () => {
+            showMessage('Running performance test...', 'info');
+            
+            try {
+                const response = await fetch('/performance-test', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({
+                        input: 'Test engineer with Python, SQL, and React experience',
+                        role: 'Data Scientist'
+                    })
+                });
+                
+                const data = await response.json();
+                if (data.success) {
+                    const perf = data.performance_comparison;
+                    showMessage(
+                        `Performance Test Results:\\n` +
+                        `First run: ${perf.optimized_time}s\\n` +
+                        `Cached run: ${perf.cached_time}s\\n` +
+                        `Cache speedup: ${perf.cache_speedup}x`, 
+                        'success'
+                    );
+                    
+                    // Show detailed metrics
+                    displayPerformanceMetrics(perf.performance_summary, perf.optimized_time);
+                } else {
+                    showMessage('Performance test failed', 'warning');
+                }
+            } catch (error) {
+                showMessage(`Performance test error: ${error.message}`, 'warning');
+            }
+        });
+    }
+
+    function displayPerformanceMetrics(performance, totalTime) {
+        if (!performance || !performanceInfo) return;
+        
+        const generationTime = document.getElementById('generation-time');
+        const cacheRatio = document.getElementById('cache-ratio');
+        const llmTime = document.getElementById('llm-time');
+        
+        if (generationTime) {
+            generationTime.textContent = `${performance.generation_time || totalTime}s`;
+        }
+        
+        if (cacheRatio) {
+            const ratio = performance.cache_hit_ratio || 0;
+            cacheRatio.textContent = `${(ratio * 100).toFixed(1)}%`;
+        }
+        
+        if (llmTime && performance.step_timings) {
+            const llmCallTime = performance.step_timings.llm_call || 0;
+            llmTime.textContent = `${llmCallTime}s`;
+        }
+        
+        performanceInfo.style.display = 'block';
     }
 
     function displayRoadmap(data) {
@@ -416,36 +366,12 @@ document.addEventListener('DOMContentLoaded', () => {
         resources.textContent = data.resources || 'No resources provided.';
         resourcesContainer.style.display = 'block';
 
-        // Display time estimates if available
-        const timeEstimatesContainer = document.getElementById('time-estimates-container');
-        if (data.time_estimates && timeEstimatesContainer) {
-            const overallTimeFrame = document.getElementById('overall-time-frame');
-            const totalHours = document.getElementById('total-hours');
-            const bufferedHours = document.getElementById('buffered-hours');
-            const weeklyCommitment = document.getElementById('weekly-commitment');
-            
-            if (overallTimeFrame) overallTimeFrame.textContent = data.time_estimates.overall_time_frame || 'Time estimates not available';
-            if (totalHours) totalHours.textContent = `Base time: ${data.time_estimates.overall_total_hours || 0}h`;
-            if (bufferedHours) bufferedHours.textContent = `With buffer: ${data.time_estimates.overall_buffered_hours || 0}h`;
-            if (weeklyCommitment) weeklyCommitment.textContent = `Weekly commitment: ${data.time_estimates.weekly_hours || 8}h`;
-            
-            timeEstimatesContainer.style.display = 'block';
-        }
-
         if (data.roadmap && data.roadmap.length > 0) {
             data.roadmap.forEach((phase, phaseIndex) => {
                 const phaseHeader = document.createElement('h3');
                 phaseHeader.className = 'phase-header';
                 phaseHeader.textContent = phase.phase;
                 roadmapList.appendChild(phaseHeader);
-
-                // Add phase time information
-                if (phase.phase_time_frame) {
-                    const phaseTimeDiv = document.createElement('div');
-                    phaseTimeDiv.className = 'phase-time-info';
-                    phaseTimeDiv.textContent = phase.phase_time_frame;
-                    roadmapList.appendChild(phaseTimeDiv);
-                }
 
                 phase.skills.forEach((item, itemIndex) => {
                     const li = document.createElement('li');
@@ -454,15 +380,6 @@ document.addEventListener('DOMContentLoaded', () => {
                     
                     const skillSpan = document.createElement('span');
                     skillSpan.textContent = item.skill;
-                    
-                    // Add estimated hours if available
-                    if (item.est_hours) {
-                        const hoursSpan = document.createElement('span');
-                        hoursSpan.className = 'skill-hours';
-                        hoursSpan.textContent = `(~${item.est_hours}h)`;
-                        skillSpan.appendChild(hoursSpan);
-                    }
-                    
                     li.appendChild(skillSpan);
 
                     if (item.course.title !== 'N/A') {
@@ -495,35 +412,12 @@ document.addEventListener('DOMContentLoaded', () => {
         'product-manager'
     ];
 
-    // Job role selection listener - assess readiness for target role
-    jobRole.addEventListener('change', async () => {
+    // Validate job role selection
+    jobRole.addEventListener('change', () => {
         const selectedRole = jobRole.value;
         if (!validJobRoles.includes(selectedRole)) {
             showMessage('Please select a valid job role.', 'warning');
             jobRole.value = '';
-            readinessAssessment.style.display = 'none';
-            generateRoadmapBtn.disabled = true;
-            return;
-        }
-        
-        if (selectedRole) {
-            selectedRoleName.textContent = selectedRole.replace('-', ' ').replace(/\b\w/g, l => l.toUpperCase());
-            await assessTargetRoleReadiness(selectedRole);
-        } else {
-            readinessAssessment.style.display = 'none';
-            generateRoadmapBtn.disabled = true;
         }
     });
-
-    // Add event listener at the very end to ensure all elements are ready
-    generateRoadmapBtn.addEventListener('click', () => {
-        console.log('Generate roadmap button clicked!');
-        generateRoadmap();
-    });
-
-    // Global test function for onclick
-    window.testClick = function() {
-        console.log('Test click function called!');
-        generateRoadmap();
-    };
 });

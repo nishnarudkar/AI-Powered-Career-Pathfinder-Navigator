@@ -1,0 +1,45 @@
+Mitesh Kumavat
+/ne+91 9909182854 |miteshkumavat777@gmail.com |/♀nednLinkedin |/gtbGithub |/g♀bePortfolio
+Education
+Bachelor of Technology CGPA - 8
+LJ University Sep. 2023 – Present
+Higher Secondary Education
+Govt Ex Higher Secondary School June. 2019 – May 2023
+Summary
+Full-stack web developer with experience in building modern apps using MERN, Next.js, Flask, and AI integrations.
+Passionate about solving real-world problems with tech, strong in hackathons, and currently exploring AI, LangChain.
+Experience
+Hackathon - HackNUThon 6.0 Apr. 2025
+Nirma University Ahmedabad, India
+•Developed FoodBite , a smart kitchen platform for inventory, sales, and waste management.
+•Implemented features such as low stock alerts, expiry tracking, and analytics dashboard.
+•Used NEXT.js with Recharts , including interactive dashboard for admin access.
+•Trained and Finetuned YOLOV8 model for stock detection.
+•GitHub: github.com/mitesh-kumavat/food-bite Live: food-bite.vercel.app
+Hackathon - Ingenium 6.0 Mar. 2025
+Ahmedabad University Ahmedabad, India
+•Built an E-RUPI based wallet system leveraging blockchain technology to ensure secure and transparent
+digital transactions.
+•Focused on real-world use cases like subsidy distribution, where users can receive and redeem vouchers seamlessly.
+•Contributed to the frontend development using Next.js with ShadCN UI , ensuring a clean, responsive user
+interface.
+•Live: fricpay.vercel.app
+Projects
+Movieverse |Flask, SQLite, Tailwind CSS, JavaScript |GitHub |Live Demo Jan. 2025 – Feb. 2025
+•Built a full-stack web application providing personalized movie recommendations with a clean and responsive
+UI.
+•Implemented user authentication , movie search, and FIFO-based watchlist management system.
+•Designed frontend using HTML, Tailwind CSS, JavaScript for seamless desktop and mobile experience.
+•Used Flask with SQLite for backend logic and lightweight database operations.
+Opinions |React.js, Node.js, Express.js, MongoDB, JWT, Cloudinary |GitHub |Live Demo Mar. 2025
+•Built a feature-rich polling platform enabling users to create, vote, filter, and manage diverse poll types .
+•Implemented secure JWT-based user authentication for login and signup functionality.
+•Supported multiple poll types: Single-choice, Yes/No, Rating, Open-ended, and Image-based .
+•Integrated poll features like bookmarking, admin poll closing, and previous vote tracking .
+•Managed media uploads via Cloudinary and used MongoDB Atlas for scalable data storage.
+Technical Skills
+Languages: Python, JavaScript, TypeScript, Java, SQL
+Frameworks/Libraries: React.js, Next.js, Node.js, Express.js, Flask, FastAPI, Tailwind CSS, Recharts, ShadCN
+AI/ML Tools: LangChain, YOLOv8, Hugging Face
+ORM and Databases: PostgreSQL, Prisma, MongoDB, Mongoose, SQLite, Firebase
+Developer Tools: Git, Docker, Vercel, Render, Cloudinary, Postman, VS Code

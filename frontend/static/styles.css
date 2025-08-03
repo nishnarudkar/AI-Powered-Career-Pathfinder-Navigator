@@ -398,6 +398,255 @@ header p {
     font-size: 1.1em;
 }
 
+.time-estimates-container {
+    background: linear-gradient(135deg, #f0f9ff, #e0f2fe);
+    border: 2px solid #0ea5e9;
+    border-radius: 16px;
+    padding: 20px;
+    margin-bottom: 25px;
+    animation: timeAppear 0.6s ease-out;
+}
+
+@keyframes timeAppear {
+    from {
+        opacity: 0;
+        transform: translateY(-10px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.time-estimates-header {
+    display: flex;
+    align-items: center;
+    margin-bottom: 15px;
+}
+
+.time-icon {
+    font-size: 24px;
+    margin-right: 10px;
+}
+
+.time-title {
+    font-size: 1.3em;
+    font-weight: 600;
+    color: #0c4a6e;
+}
+
+.time-estimates-content {
+    color: #0c4a6e;
+}
+
+.time-estimates-content #overall-time-frame {
+    font-size: 1.1em;
+    font-weight: 500;
+    margin-bottom: 10px;
+    line-height: 1.4;
+}
+
+.time-breakdown {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+    margin-top: 10px;
+}
+
+.time-detail {
+    background: rgba(14, 165, 233, 0.1);
+    padding: 8px 12px;
+    border-radius: 8px;
+    font-size: 0.9em;
+    font-weight: 500;
+}
+
+.phase-time-info {
+    background: rgba(16, 185, 129, 0.1);
+    border: 1px solid #10b981;
+    border-radius: 8px;
+    padding: 10px;
+    margin-top: 10px;
+    font-size: 0.9em;
+    color: #047857;
+}
+
+.skill-hours {
+    font-size: 0.8em;
+    color: #6b7280;
+    font-weight: 500;
+    margin-left: 8px;
+}
+
+.section-description {
+    color: #6b7280;
+    margin-bottom: 20px;
+    font-size: 1em;
+    line-height: 1.5;
+}
+
+.readiness-results {
+    margin-top: 25px;
+    animation: slideDown 0.5s ease-out;
+}
+
+@keyframes slideDown {
+    from {
+        opacity: 0;
+        transform: translateY(-20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.readiness-results h3 {
+    color: #2d3748;
+    margin-bottom: 20px;
+    font-size: 1.4em;
+}
+
+.role-readiness-item {
+    background: linear-gradient(135deg, #f8fafc, #e2e8f0);
+    border: 2px solid #cbd5e0;
+    border-radius: 12px;
+    padding: 20px;
+    margin-bottom: 15px;
+    transition: all 0.3s ease;
+    position: relative;
+    overflow: hidden;
+}
+
+.role-readiness-item:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 8px 25px rgba(0, 0, 0, 0.1);
+    border-color: #667eea;
+}
+
+.role-readiness-item.ready {
+    border-color: #48bb78;
+    background: linear-gradient(135deg, #f0fff4, #e6fffa);
+}
+
+.role-readiness-item.workable {
+    border-color: #ed8936;
+    background: linear-gradient(135deg, #fffbf0, #fef5e7);
+}
+
+.role-readiness-item.needs-foundation {
+    border-color: #f56565;
+    background: linear-gradient(135deg, #fffafa, #fed7d7);
+}
+
+.role-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.role-name {
+    font-size: 1.2em;
+    font-weight: 600;
+    color: #2d3748;
+    text-transform: capitalize;
+}
+
+.readiness-score {
+    font-size: 1.1em;
+    font-weight: 700;
+    padding: 5px 12px;
+    border-radius: 20px;
+    color: white;
+}
+
+.readiness-score.ready {
+    background: #48bb78;
+}
+
+.readiness-score.workable {
+    background: #ed8936;
+}
+
+.readiness-score.needs-foundation {
+    background: #f56565;
+}
+
+.readiness-label {
+    font-size: 0.9em;
+    margin-bottom: 10px;
+    font-weight: 500;
+}
+
+.readiness-label.ready {
+    color: #2f855a;
+}
+
+.readiness-label.workable {
+    color: #c05621;
+}
+
+.readiness-label.needs-foundation {
+    color: #c53030;
+}
+
+.role-summary {
+    background: rgba(102, 126, 234, 0.05);
+    border: 1px solid rgba(102, 126, 234, 0.2);
+    border-radius: 8px;
+    padding: 10px 12px;
+    margin: 10px 0;
+    font-size: 0.85em;
+    line-height: 1.4;
+    color: #4a5568;
+    font-style: italic;
+}
+
+.missing-skills-summary {
+    font-size: 0.9em;
+    color: #6b7280;
+    margin-bottom: 10px;
+}
+
+.quick-wins {
+    margin-top: 10px;
+}
+
+.quick-wins h4 {
+    font-size: 0.9em;
+    color: #4a5568;
+    margin-bottom: 8px;
+    font-weight: 600;
+}
+
+.quick-win-item {
+    background: rgba(102, 126, 234, 0.1);
+    border-left: 3px solid #667eea;
+    padding: 8px 12px;
+    margin-bottom: 5px;
+    border-radius: 4px;
+    font-size: 0.85em;
+    line-height: 1.4;
+}
+
+.select-role-btn {
+    background: linear-gradient(135deg, #667eea, #764ba2);
+    color: white;
+    border: none;
+    padding: 8px 16px;
+    border-radius: 6px;
+    font-size: 0.85em;
+    cursor: pointer;
+    margin-top: 10px;
+    transition: all 0.3s ease;
+}
+
+.select-role-btn:hover {
+    transform: translateY(-1px);
+    box-shadow: 0 4px 12px rgba(102, 126, 234, 0.3);
+}
+
 .roadmap-list {
     list-style: none;
     counter-reset: roadmap-counter;
@@ -535,4 +784,61 @@ header p {
     #skills-list {
         justify-content: center;
     }
+}
+
+/* Target Role Assessment Styles */
+.target-role-assessment {
+    background: linear-gradient(135deg, #f8fafc, #e2e8f0);
+    border: 2px solid #667eea;
+    border-radius: 16px;
+    padding: 25px;
+    animation: slideUp 0.5s ease-out;
+}
+
+.target-role-assessment .role-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 15px;
+    padding-bottom: 15px;
+    border-bottom: 2px solid #e2e8f0;
+}
+
+.target-role-assessment .role-name {
+    font-size: 1.4em;
+    font-weight: 700;
+    color: #2d3748;
+}
+
+.assessment-details {
+    margin-top: 20px;
+}
+
+.skills-section {
+    margin-bottom: 20px;
+    padding: 15px;
+    background: rgba(255, 255, 255, 0.6);
+    border-radius: 10px;
+    border-left: 4px solid #667eea;
+}
+
+.skills-section h4 {
+    color: #2d3748;
+    margin-bottom: 10px;
+    font-size: 1.1em;
+}
+
+.skills-list {
+    color: #4a5568;
+    font-size: 0.95em;
+    line-height: 1.5;
+}
+
+/* Helper text styles */
+.helper-text {
+    color: #718096;
+    font-size: 0.85em;
+    margin-top: 8px;
+    text-align: center;
+    font-style: italic;
 }

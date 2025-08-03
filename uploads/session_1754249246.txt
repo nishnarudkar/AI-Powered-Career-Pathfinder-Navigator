@@ -1,0 +1,31 @@
+CHARLES CROFT
+PROGRAM DELIVERY MANAGER
+CONTACT
+555 819 2259
+charlescroft.com
+charles@croft.com
+linkedin.com/in/charlescroft
+Vancouver, BC
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum nec orci et mauris blandit semper sit amet in urna.
+Phasellus scelerisque vestibulum elit.
+PROFESSIONAL EXPERIENCE
+Your Position / Company / Location / 2012 - Present
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+- Vestibulum nec orci et mauris blandit semper.
+- Phasellus scelerisque vestibulum elit.
+Your Position / Company / Location / 2012 - Present
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+- Vestibulum nec orci et mauris blandit semper.
+- Phasellus scelerisque vestibulum elit.
+EXPERTISE
+- CI/CD
+- Docker
+- Kubernetes
+- AWS
+- Monitoring & Logging
+TECHNOLOGY
+- Linux
+- Ansible
+- Terraform
+- Prometheus
+- Grafana

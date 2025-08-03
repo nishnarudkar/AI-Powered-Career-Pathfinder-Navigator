@@ -1,0 +1,3 @@
+Manual skills entry:
+Skills: python, sql, numpy, pandas
+Experience: User provided skills manually.
