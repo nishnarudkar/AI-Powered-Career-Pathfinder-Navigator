@@ -49,6 +49,7 @@ This project was developed by a dedicated team of five individuals:
 -   [Aamir Sarang](https://github.com/Aamir-Sarang31)
 
 ## 📁 Project Structure
+```
 AI-Powered-Career-Pathfinder-Navigator/
 ├── agents/
 │   ├── career_logger.py
@@ -77,7 +78,7 @@ AI-Powered-Career-Pathfinder-Navigator/
 ├── LICENSE
 ├── README.md
 └── requirements.txt
-
+```
 
 ## 🚀 Quick Start Guide
 
