@@ -29,7 +29,7 @@ Here are a few screenshots of the application in action:
 
 | Screenshot 1                                     | Screenshot 2                                       |
 | :----------------------------------------------- | :------------------------------------------------- |
-| ![Screenshot 1](screenshots/screenshot-1.png)    | ![Screenshot 2](screenshots/screenshot-2.png)      |
+| ![Screenshot 1](screenshots/Jobreadiness.png)    | ![Screenshot 2](screenshots/screenshot-2.png)      |
 | **Skill Analysis & Readiness Assessment** | **Personalized Roadmap Generation** |
 
 ## 🚀 Live Demo
