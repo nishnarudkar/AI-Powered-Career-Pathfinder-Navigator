@@ -1,0 +1,1841 @@
+[
+  {
+    "timestamp": "2025-08-04T17:29:27.191160",
+    "input": {
+      "text": "Geetesh\n \nDalal\n \n+91\n \n9821960747\n \n|\n \ngeeteshdalal.work@gmail.com\n \n|\n \nPortfolio\n \n|\n \nGitHub\n \n|\n \nLinkedIn\n \n \n \nEDUCATION\n \n \n \nBennett\n \nUniversity\n \n(The\n \nTimes\n \nGroup)\n \nGreater\n \nNoida,\n \nIndia\n \nB.Tech\n \n-\n \nComputer\n \nScience\n \nEngineering\n \n2023\n \n-\n \n2027\n \nCGP A:\n \n9.04\n \n \nPROJECTS\n \n \n \nGenPalette\n \n-\n \nAI\n \nColor\n \nPalette\n \nGenerator\n \n&\n \nVisualizer\n \nGitHub\n \n|\n \nLive\n \n \n\u25cf\n \nBuilt\n \nan\n \nAI-powered\n \nweb\n \napp\n \nusing\n \nGemini\n \nAPI\n \nto\n \ngenerate\n \ncohesive\n \ncolor\n \npalettes,\n \nwith\n \nlive\n \npreviews,\n \nan\n \nexplore\n \nsection\n \nof\n \nAI-generated\n \npalettes,\n \nand\n \na\n \ndashboard\n \nto\n \nsave\n \nfavourites.\n \n\u25cf\n \nOptimized\n \nperformance\n \nand\n \ncode\n \nquality\n \nby\n \ndynamically\n \nimporting\n \nroute-specific\n \ncomponents\n \nto\n \nreduce\n \nJS\n \nbundle\n \nsize\n \nby\n \n90KB\n \nand\n \nbuilding\n \ncustom\n \nReact\n \nhooks\n \nfor\n \ncleaner ,\n \nreusable,\n \nand\n \nmaintainable\n \nlogic.\n \n\u25cf\n \nImplemented\n \nAuth.js-based\n \nauthentication,\n \nRedux\n \nfor\n \nstate\n \nmanagement,\n \nand\n \nFramer\n \nMotion\n \nfor\n \nseamless\n \nUI\n \nanimations.\n \n\u25cf\n \nTechnologies:\n \nNext.js,\n \nReact.js,\n \nTailwind\n \nCSS,\n \nGemini\n \nAPI,\n \nMongoDB,\n \nRedux,\n \nAuth.js,\n \nFramer\n \nMotion\n \n \nReadmeEasy\n \n-\n \nAI\n \nPowered\n \nReadme\n \nGeneration\n \nTool\n \nGitHub\n \n|\n \nLive\n \n \n\u25cf\n \nBuilt\n \nan\n \nAI\n \ntool\n \nthat\n \ngenerates\n \nclean,\n \nstructured,\n \nand\n \nprofessional\n \nReadme.md\n \nfiles\n \nunder\n \n15\n \nseconds\n \nusing\n \nGemini\n \nAPI\n,\n \nbased\n \non\n \ninferred\n \nproject\n \ndata.\n \n\u25cf\n \nSuccessfully\n \ngenerated\n \n50+\n \nReadme.md\n \nfiles\n \nhelping\n \nusers\n \ncreate\n \npolished\n \nand\n \nstandardized\n \ndocumentation\n \neffortlessly\n \nwithin\n \nseconds.\n \n\u25cf\n \nTechnologies:\n \nNext.js,\n \nReact.js,\n \nTypeScript,\n \nTailwind\n \nCSS,\n \nGemini\n \nAPI,\n \nMongoDB\n \n \nCampusHive\n \n-\n \nCampus\n \nSocial\n \nNetworking\n \nPlatform\n \nGitHub\n \n|\n \nLive\n \n \n\u25cf\n \nDeveloped\n \na\n \nMERN\n \nstack\n \nweb\n \napplication\n \nfeaturing\n \nreal-time\n \nchat,\n \ncarpooling,\n \nlost\n \n&\n \nfound,\n \nand\n \nproject\n \ncollaboration\n \ndesigned\n \nto\n \nsave\n \nuniversity\n \nstudents\n \nup\n \nto\n \nestimated\n \n70%\n \nin\n \ntravel\n \ncosts\n \nand\n \nimprove\n \nitem\n \nrecovery\n \nrates\n \nby\n \nestimated\n \n80%\n.\n \n\u25cf\n \nIntegrated\n \nJWT-based\n \nauth,\n \nGoogle\n \nOAuth,\n \nfile\n \nuploads,\n \nand\n \nresponsive\n \ndesign\n \nto\n \nensure\n \nsecure\n \naccess\n \nand\n \nsmooth\n \nmobile\n \nexperience.\n \n\u25cf\n \nTechnologies:\n \nReact.js,\n \nNode.js,\n \nExpress.js,\n \nMongoDB,\n \nSocket.IO\n \n \nCodev\n \n-\n \nDeveloper\n \nPortfolio\n \n&\n \nDiscovery\n \nPlatform\n \nGitHub\n \n|\n \nLive\n \n \n\u25cf\n \nDeveloped\n \na\n \nfull-stack\n \nweb\n \nplatform\n \nenabling\n \ndevelopers\n \nto\n \ncreate\n \npersonalized\n \nportfolios\n \nwith\n \ncoding\n \nprofiles\n \n(LeetCode,\n \nGitHub,\n \nCodeforces),\n \nprojects,\n \nand\n \nskills\n \nestimated\n \nto\n \nboost\n \ndiscoverability\n \nby\n \nrecruiters\n \nand\n \npeers\n \nby\n \n60%.\n \n\u25cf\n \nIntegrated\n \nfeatures\n \nlike\n \nprofile\n \nphoto\n \nusing\n \nCloudinary ,\n \nglobal\n \nstate\n \nmanagement\n \nusing\n \nRedux,\n \nsmooth\n \nanimations\n \nusing\n \nFramer\n \nMotion,\n \nand\n \nresponsive\n \ndesign\n \nusing\n \nTailwind\n \nCSS.\n \n\u25cf\n \nTechnologies:\n \nNext.js,\n \nReact.js,\n \nTailwind\n \nCSS,\n \nMongoDB,\n \nRedux,\n \nFramer\n \nMotion\n \n \nSKILLS\n \n \n \nLanguages:\n \nJava,\n \nJavaScript,\n \nTypeScript\n \nFrontend:\n \nHTML,\n \nCSS,\n \nTailwind\n \nCSS,\n \nReact.js,\n \nNext.js,\n \nRedux,\n \nFramer\n \nMotion\n \nBackend:\n \nNode.js,\n \nExpress.js,\n \nREST\n \nAPIs\n \nDatabases:\n \nMongoDB,\n \nMySQL\n \nTools:\n \nGit,\n \nGitHub,\n \nPostman,\n \nVercel\n \n \nRELEVANT\n \nCOURSEWORK\n \n \n \nData\n \nStructures\n \n&\n \nAlgorithms,\n \nOperating\n \nSystems,\n \nComputer\n \nNetworks,\n \nDatabase\n \nManagement\n \nSystems\n \n(DBMS),\n \nObject-Oriented\n \nProgramming\n \n(OOP),\n \nFull\n \nStack\n \nDevelopment\n ",
+      "target_role": "Skill Extraction"
+    },
+    "output": {
+      "extracted_skills": [
+        "java",
+        "javascript",
+        "typescript",
+        "html",
+        "css",
+        "tailwind-css",
+        "react",
+        "nextjs",
+        "redux",
+        "framer-motion",
+        "nodejs",
+        "expressjs",
+        "rest-apis",
+        "mongodb",
+        "mysql",
+        "git",
+        "github",
+        "postman",
+        "vercel",
+        "socketio",
+        "jwt",
+        "google-oauth",
+        "cloudinary",
+        "gemini-api"
+      ],
+      "missing_skills": [],
+      "nice_to_have": [],
+      "roadmap_phases": 0,
+      "total_recommended_skills": 0
+    },
+    "full_result": {
+      "extracted_skills": [
+        "java",
+        "javascript",
+        "typescript",
+        "html",
+        "css",
+        "tailwind-css",
+        "react",
+        "nextjs",
+        "redux",
+        "framer-motion",
+        "nodejs",
+        "expressjs",
+        "rest-apis",
+        "mongodb",
+        "mysql",
+        "git",
+        "github",
+        "postman",
+        "vercel",
+        "socketio",
+        "jwt",
+        "google-oauth",
+        "cloudinary",
+        "gemini-api"
+      ],
+      "performance_summary": {
+        "step_timings": {
+          "skill_extraction_only": 2.243
+        },
+        "total_time": 2.243,
+        "cache_stats": {
+          "hits": 0,
+          "misses": 0,
+          "hit_ratio": 0
+        }
+      }
+    },
+    "execution_time_seconds": 6.058177947998047,
+    "session_id": "session_20250804_172927"
+  },
+  {
+    "timestamp": "2025-08-04T17:29:29.121306",
+    "input": {
+      "text": "Geetesh\n \nDalal\n \n+91\n \n9821960747\n \n|\n \ngeeteshdalal.work@gmail.com\n \n|\n \nPortfolio\n \n|\n \nGitHub\n \n|\n \nLinkedIn\n \n \n \nEDUCATION\n \n \n \nBennett\n \nUniversity\n \n(The\n \nTimes\n \nGroup)\n \nGreater\n \nNoida,\n \nIndia\n \nB.Tech\n \n-\n \nComputer\n \nScience\n \nEngineering\n \n2023\n \n-\n \n2027\n \nCGP A:\n \n9.04\n \n \nPROJECTS\n \n \n \nGenPalette\n \n-\n \nAI\n \nColor\n \nPalette\n \nGenerator\n \n&\n \nVisualizer\n \nGitHub\n \n|\n \nLive\n \n \n\u25cf\n \nBuilt\n \nan\n \nAI-powered\n \nweb\n \napp\n \nusing\n \nGemini\n \nAPI\n \nto\n \ngenerate\n \ncohesive\n \ncolor\n \npalettes,\n \nwith\n \nlive\n \npreviews,\n \nan\n \nexplore\n \nsection\n \nof\n \nAI-generated\n \npalettes,\n \nand\n \na\n \ndashboard\n \nto\n \nsave\n \nfavourites.\n \n\u25cf\n \nOptimized\n \nperformance\n \nand\n \ncode\n \nquality\n \nby\n \ndynamically\n \nimporting\n \nroute-specific\n \ncomponents\n \nto\n \nreduce\n \nJS\n \nbundle\n \nsize\n \nby\n \n90KB\n \nand\n \nbuilding\n \ncustom\n \nReact\n \nhooks\n \nfor\n \ncleaner ,\n \nreusable,\n \nand\n \nmaintainable\n \nlogic.\n \n\u25cf\n \nImplemented\n \nAuth.js-based\n \nauthentication,\n \nRedux\n \nfor\n \nstate\n \nmanagement,\n \nand\n \nFramer\n \nMotion\n \nfor\n \nseamless\n \nUI\n \nanimations.\n \n\u25cf\n \nTechnologies:\n \nNext.js,\n \nReact.js,\n \nTailwind\n \nCSS,\n \nGemini\n \nAPI,\n \nMongoDB,\n \nRedux,\n \nAuth.js,\n \nFramer\n \nMotion\n \n \nReadmeEasy\n \n-\n \nAI\n \nPowered\n \nReadme\n \nGeneration\n \nTool\n \nGitHub\n \n|\n \nLive\n \n \n\u25cf\n \nBuilt\n \nan\n \nAI\n \ntool\n \nthat\n \ngenerates\n \nclean,\n \nstructured,\n \nand\n \nprofessional\n \nReadme.md\n \nfiles\n \nunder\n \n15\n \nseconds\n \nusing\n \nGemini\n \nAPI\n,\n \nbased\n \non\n \ninferred\n \nproject\n \ndata.\n \n\u25cf\n \nSuccessfully\n \ngenerated\n \n50+\n \nReadme.md\n \nfiles\n \nhelping\n \nusers\n \ncreate\n \npolished\n \nand\n \nstandardized\n \ndocumentation\n \neffortlessly\n \nwithin\n \nseconds.\n \n\u25cf\n \nTechnologies:\n \nNext.js,\n \nReact.js,\n \nTypeScript,\n \nTailwind\n \nCSS,\n \nGemini\n \nAPI,\n \nMongoDB\n \n \nCampusHive\n \n-\n \nCampus\n \nSocial\n \nNetworking\n \nPlatform\n \nGitHub\n \n|\n \nLive\n \n \n\u25cf\n \nDeveloped\n \na\n \nMERN\n \nstack\n \nweb\n \napplication\n \nfeaturing\n \nreal-time\n \nchat,\n \ncarpooling,\n \nlost\n \n&\n \nfound,\n \nand\n \nproject\n \ncollaboration\n \ndesigned\n \nto\n \nsave\n \nuniversity\n \nstudents\n \nup\n \nto\n \nestimated\n \n70%\n \nin\n \ntravel\n \ncosts\n \nand\n \nimprove\n \nitem\n \nrecovery\n \nrates\n \nby\n \nestimated\n \n80%\n.\n \n\u25cf\n \nIntegrated\n \nJWT-based\n \nauth,\n \nGoogle\n \nOAuth,\n \nfile\n \nuploads,\n \nand\n \nresponsive\n \ndesign\n \nto\n \nensure\n \nsecure\n \naccess\n \nand\n \nsmooth\n \nmobile\n \nexperience.\n \n\u25cf\n \nTechnologies:\n \nReact.js,\n \nNode.js,\n \nExpress.js,\n \nMongoDB,\n \nSocket.IO\n \n \nCodev\n \n-\n \nDeveloper\n \nPortfolio\n \n&\n \nDiscovery\n \nPlatform\n \nGitHub\n \n|\n \nLive\n \n \n\u25cf\n \nDeveloped\n \na\n \nfull-stack\n \nweb\n \nplatform\n \nenabling\n \ndevelopers\n \nto\n \ncreate\n \npersonalized\n \nportfolios\n \nwith\n \ncoding\n \nprofiles\n \n(LeetCode,\n \nGitHub,\n \nCodeforces),\n \nprojects,\n \nand\n \nskills\n \nestimated\n \nto\n \nboost\n \ndiscoverability\n \nby\n \nrecruiters\n \nand\n \npeers\n \nby\n \n60%.\n \n\u25cf\n \nIntegrated\n \nfeatures\n \nlike\n \nprofile\n \nphoto\n \nusing\n \nCloudinary ,\n \nglobal\n \nstate\n \nmanagement\n \nusing\n \nRedux,\n \nsmooth\n \nanimations\n \nusing\n \nFramer\n \nMotion,\n \nand\n \nresponsive\n \ndesign\n \nusing\n \nTailwind\n \nCSS.\n \n\u25cf\n \nTechnologies:\n \nNext.js,\n \nReact.js,\n \nTailwind\n \nCSS,\n \nMongoDB,\n \nRedux,\n \nFramer\n \nMotion\n \n \nSKILLS\n \n \n \nLanguages:\n \nJava,\n \nJavaScript,\n \nTypeScript\n \nFrontend:\n \nHTML,\n \nCSS,\n \nTailwind\n \nCSS,\n \nReact.js,\n \nNext.js,\n \nRedux,\n \nFramer\n \nMotion\n \nBackend:\n \nNode.js,\n \nExpress.js,\n \nREST\n \nAPIs\n \nDatabases:\n \nMongoDB,\n \nMySQL\n \nTools:\n \nGit,\n \nGitHub,\n \nPostman,\n \nVercel\n \n \nRELEVANT\n \nCOURSEWORK\n \n \n \nData\n \nStructures\n \n&\n \nAlgorithms,\n \nOperating\n \nSystems,\n \nComputer\n \nNetworks,\n \nDatabase\n \nManagement\n \nSystems\n \n(DBMS),\n \nObject-Oriented\n \nProgramming\n \n(OOP),\n \nFull\n \nStack\n \nDevelopment\n ",
+      "target_role": "Skill Extraction"
+    },
+    "output": {
+      "extracted_skills": [
+        "java",
+        "javascript",
+        "typescript",
+        "html",
+        "css",
+        "tailwind-css",
+        "react",
+        "nextjs",
+        "redux",
+        "framer-motion",
+        "nodejs",
+        "expressjs",
+        "rest-apis",
+        "mongodb",
+        "mysql",
+        "git",
+        "github",
+        "postman",
+        "vercel",
+        "socketio",
+        "jwt",
+        "google-oauth",
+        "cloudinary",
+        "gemini-api"
+      ],
+      "missing_skills": [],
+      "nice_to_have": [],
+      "roadmap_phases": 0,
+      "total_recommended_skills": 0
+    },
+    "full_result": {
+      "extracted_skills": [
+        "java",
+        "javascript",
+        "typescript",
+        "html",
+        "css",
+        "tailwind-css",
+        "react",
+        "nextjs",
+        "redux",
+        "framer-motion",
+        "nodejs",
+        "expressjs",
+        "rest-apis",
+        "mongodb",
+        "mysql",
+        "git",
+        "github",
+        "postman",
+        "vercel",
+        "socketio",
+        "jwt",
+        "google-oauth",
+        "cloudinary",
+        "gemini-api"
+      ],
+      "performance_summary": {
+        "step_timings": {
+          "skill_extraction_only": 4.173
+        },
+        "total_time": 4.173,
+        "cache_stats": {
+          "hits": 0,
+          "misses": 0,
+          "hit_ratio": 0
+        }
+      }
+    },
+    "execution_time_seconds": 4.17290472984314,
+    "session_id": "session_20250804_172929"
+  },
+  {
+    "timestamp": "2025-08-04T17:29:32.973630",
+    "input": {
+      "text": "Skills: java, javascript, typescript, html, css, tailwind-css, react, nextjs, redux, framer-motion, nodejs, expressjs, rest-apis, mongodb, mysql, git, github, postman, vercel, socketio, jwt, google-oauth, cloudinary, gemini-api",
+      "target_role": "Target Role Assessment: full-stack-developer"
+    },
+    "output": {
+      "extracted_skills": [],
+      "missing_skills": [],
+      "nice_to_have": [],
+      "roadmap_phases": 0,
+      "total_recommended_skills": 0
+    },
+    "full_result": {
+      "target_role": "full-stack-developer",
+      "role_assessment": {
+        "role_name": "full-stack-developer",
+        "readiness_score": 0.456,
+        "readiness_label": "Needs foundation",
+        "missing_skills": [
+          {
+            "skill": "javascript",
+            "current_level": 2,
+            "target_level": 3,
+            "gap_degree": 1,
+            "importance": "must"
+          },
+          {
+            "skill": "html",
+            "current_level": 2,
+            "target_level": 3,
+            "gap_degree": 1,
+            "importance": "must"
+          },
+          {
+            "skill": "css",
+            "current_level": 2,
+            "target_level": 3,
+            "gap_degree": 1,
+            "importance": "must"
+          },
+          {
+            "skill": "react",
+            "current_level": 2,
+            "target_level": 3,
+            "gap_degree": 1,
+            "importance": "must"
+          },
+          {
+            "skill": "nodejs",
+            "current_level": 2,
+            "target_level": 3,
+            "gap_degree": 1,
+            "importance": "must"
+          },
+          {
+            "skill": "sql",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "must"
+          },
+          {
+            "skill": "rest-api",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "must"
+          },
+          {
+            "skill": "express",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "must"
+          },
+          {
+            "skill": "vuejs",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "nice"
+          },
+          {
+            "skill": "angular",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "nice"
+          },
+          {
+            "skill": "postgresql",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "nice"
+          }
+        ],
+        "quick_win_recommendations": [
+          "Foundation needed in sql: Start with course SQL001 - 'SQL for Data Science' (15h) (Level 0\u21922)",
+          "Foundation needed in Rest Api: Dedicate 8-12 hours to comprehensive training through online courses or bootcamps (Level 0\u21922)"
+        ]
+      }
+    },
+    "execution_time_seconds": 0.00032639503479003906,
+    "session_id": "session_20250804_172932"
+  },
+  {
+    "timestamp": "2025-08-04T17:33:01.309306",
+    "input": {
+      "text": "Geetesh\n \nDalal\n \n+91\n \n9821960747\n \n|\n \ngeeteshdalal.work@gmail.com\n \n|\n \nPortfolio\n \n|\n \nGitHub\n \n|\n \nLinkedIn\n \n \n \nEDUCATION\n \n \n \nBennett\n \nUniversity\n \n(The\n \nTimes\n \nGroup)\n \nGreater\n \nNoida,\n \nIndia\n \nB.Tech\n \n-\n \nComputer\n \nScience\n \nEngineering\n \n2023\n \n-\n \n2027\n \nCGP A:\n \n9.04\n \n \nPROJECTS\n \n \n \nGenPalette\n \n-\n \nAI\n \nColor\n \nPalette\n \nGenerator\n \n&\n \nVisualizer\n \nGitHub\n \n|\n \nLive\n \n \n\u25cf\n \nBuilt\n \nan\n \nAI-powered\n \nweb\n \napp\n \nusing\n \nGemini\n \nAPI\n \nto\n \ngenerate\n \ncohesive\n \ncolor\n \npalettes,\n \nwith\n \nlive\n \npreviews,\n \nan\n \nexplore\n \nsection\n \nof\n \nAI-generated\n \npalettes,\n \nand\n \na\n \ndashboard\n \nto\n \nsave\n \nfavourites.\n \n\u25cf\n \nOptimized\n \nperformance\n \nand\n \ncode\n \nquality\n \nby\n \ndynamically\n \nimporting\n \nroute-specific\n \ncomponents\n \nto\n \nreduce\n \nJS\n \nbundle\n \nsize\n \nby\n \n90KB\n \nand\n \nbuilding\n \ncustom\n \nReact\n \nhooks\n \nfor\n \ncleaner ,\n \nreusable,\n \nand\n \nmaintainable\n \nlogic.\n \n\u25cf\n \nImplemented\n \nAuth.js-based\n \nauthentication,\n \nRedux\n \nfor\n \nstate\n \nmanagement,\n \nand\n \nFramer\n \nMotion\n \nfor\n \nseamless\n \nUI\n \nanimations.\n \n\u25cf\n \nTechnologies:\n \nNext.js,\n \nReact.js,\n \nTailwind\n \nCSS,\n \nGemini\n \nAPI,\n \nMongoDB,\n \nRedux,\n \nAuth.js,\n \nFramer\n \nMotion\n \n \nReadmeEasy\n \n-\n \nAI\n \nPowered\n \nReadme\n \nGeneration\n \nTool\n \nGitHub\n \n|\n \nLive\n \n \n\u25cf\n \nBuilt\n \nan\n \nAI\n \ntool\n \nthat\n \ngenerates\n \nclean,\n \nstructured,\n \nand\n \nprofessional\n \nReadme.md\n \nfiles\n \nunder\n \n15\n \nseconds\n \nusing\n \nGemini\n \nAPI\n,\n \nbased\n \non\n \ninferred\n \nproject\n \ndata.\n \n\u25cf\n \nSuccessfully\n \ngenerated\n \n50+\n \nReadme.md\n \nfiles\n \nhelping\n \nusers\n \ncreate\n \npolished\n \nand\n \nstandardized\n \ndocumentation\n \neffortlessly\n \nwithin\n \nseconds.\n \n\u25cf\n \nTechnologies:\n \nNext.js,\n \nReact.js,\n \nTypeScript,\n \nTailwind\n \nCSS,\n \nGemini\n \nAPI,\n \nMongoDB\n \n \nCampusHive\n \n-\n \nCampus\n \nSocial\n \nNetworking\n \nPlatform\n \nGitHub\n \n|\n \nLive\n \n \n\u25cf\n \nDeveloped\n \na\n \nMERN\n \nstack\n \nweb\n \napplication\n \nfeaturing\n \nreal-time\n \nchat,\n \ncarpooling,\n \nlost\n \n&\n \nfound,\n \nand\n \nproject\n \ncollaboration\n \ndesigned\n \nto\n \nsave\n \nuniversity\n \nstudents\n \nup\n \nto\n \nestimated\n \n70%\n \nin\n \ntravel\n \ncosts\n \nand\n \nimprove\n \nitem\n \nrecovery\n \nrates\n \nby\n \nestimated\n \n80%\n.\n \n\u25cf\n \nIntegrated\n \nJWT-based\n \nauth,\n \nGoogle\n \nOAuth,\n \nfile\n \nuploads,\n \nand\n \nresponsive\n \ndesign\n \nto\n \nensure\n \nsecure\n \naccess\n \nand\n \nsmooth\n \nmobile\n \nexperience.\n \n\u25cf\n \nTechnologies:\n \nReact.js,\n \nNode.js,\n \nExpress.js,\n \nMongoDB,\n \nSocket.IO\n \n \nCodev\n \n-\n \nDeveloper\n \nPortfolio\n \n&\n \nDiscovery\n \nPlatform\n \nGitHub\n \n|\n \nLive\n \n \n\u25cf\n \nDeveloped\n \na\n \nfull-stack\n \nweb\n \nplatform\n \nenabling\n \ndevelopers\n \nto\n \ncreate\n \npersonalized\n \nportfolios\n \nwith\n \ncoding\n \nprofiles\n \n(LeetCode,\n \nGitHub,\n \nCodeforces),\n \nprojects,\n \nand\n \nskills\n \nestimated\n \nto\n \nboost\n \ndiscoverability\n \nby\n \nrecruiters\n \nand\n \npeers\n \nby\n \n60%.\n \n\u25cf\n \nIntegrated\n \nfeatures\n \nlike\n \nprofile\n \nphoto\n \nusing\n \nCloudinary ,\n \nglobal\n \nstate\n \nmanagement\n \nusing\n \nRedux,\n \nsmooth\n \nanimations\n \nusing\n \nFramer\n \nMotion,\n \nand\n \nresponsive\n \ndesign\n \nusing\n \nTailwind\n \nCSS.\n \n\u25cf\n \nTechnologies:\n \nNext.js,\n \nReact.js,\n \nTailwind\n \nCSS,\n \nMongoDB,\n \nRedux,\n \nFramer\n \nMotion\n \n \nSKILLS\n \n \n \nLanguages:\n \nJava,\n \nJavaScript,\n \nTypeScript\n \nFrontend:\n \nHTML,\n \nCSS,\n \nTailwind\n \nCSS,\n \nReact.js,\n \nNext.js,\n \nRedux,\n \nFramer\n \nMotion\n \nBackend:\n \nNode.js,\n \nExpress.js,\n \nREST\n \nAPIs\n \nDatabases:\n \nMongoDB,\n \nMySQL\n \nTools:\n \nGit,\n \nGitHub,\n \nPostman,\n \nVercel\n \n \nRELEVANT\n \nCOURSEWORK\n \n \n \nData\n \nStructures\n \n&\n \nAlgorithms,\n \nOperating\n \nSystems,\n \nComputer\n \nNetworks,\n \nDatabase\n \nManagement\n \nSystems\n \n(DBMS),\n \nObject-Oriented\n \nProgramming\n \n(OOP),\n \nFull\n \nStack\n \nDevelopment\n ",
+      "target_role": "Skill Extraction"
+    },
+    "output": {
+      "extracted_skills": [
+        "java",
+        "javascript",
+        "typescript",
+        "html",
+        "css",
+        "tailwind-css",
+        "react",
+        "nextjs",
+        "redux",
+        "framer-motion",
+        "nodejs",
+        "expressjs",
+        "rest-apis",
+        "mongodb",
+        "mysql",
+        "git",
+        "github",
+        "postman",
+        "vercel",
+        "socketio",
+        "jwt",
+        "google-oauth",
+        "cloudinary",
+        "authjs",
+        "gemini-api"
+      ],
+      "missing_skills": [],
+      "nice_to_have": [],
+      "roadmap_phases": 0,
+      "total_recommended_skills": 0
+    },
+    "full_result": {
+      "extracted_skills": [
+        "java",
+        "javascript",
+        "typescript",
+        "html",
+        "css",
+        "tailwind-css",
+        "react",
+        "nextjs",
+        "redux",
+        "framer-motion",
+        "nodejs",
+        "expressjs",
+        "rest-apis",
+        "mongodb",
+        "mysql",
+        "git",
+        "github",
+        "postman",
+        "vercel",
+        "socketio",
+        "jwt",
+        "google-oauth",
+        "cloudinary",
+        "authjs",
+        "gemini-api"
+      ],
+      "performance_summary": {
+        "step_timings": {
+          "skill_extraction_only": 2.822
+        },
+        "total_time": 2.822,
+        "cache_stats": {
+          "hits": 0,
+          "misses": 0,
+          "hit_ratio": 0
+        }
+      }
+    },
+    "execution_time_seconds": 2.8225574493408203,
+    "session_id": "session_20250804_173301"
+  },
+  {
+    "timestamp": "2025-08-04T17:33:10.576350",
+    "input": {
+      "text": "Skills: java, javascript, typescript, html, css, tailwind-css, react, nextjs, redux, framer-motion, nodejs, expressjs, rest-apis, mongodb, mysql, git, github, postman, vercel, socketio, jwt, google-oauth, cloudinary, authjs, gemini-api",
+      "target_role": "Target Role Assessment: ai-engineer"
+    },
+    "output": {
+      "extracted_skills": [],
+      "missing_skills": [],
+      "nice_to_have": [],
+      "roadmap_phases": 0,
+      "total_recommended_skills": 0
+    },
+    "full_result": {
+      "target_role": "ai-engineer",
+      "role_assessment": {
+        "role_name": "ai-engineer",
+        "readiness_score": 0.0,
+        "readiness_label": "Needs foundation",
+        "missing_skills": [
+          {
+            "skill": "python",
+            "current_level": 0,
+            "target_level": 3,
+            "gap_degree": 3,
+            "importance": "must"
+          },
+          {
+            "skill": "deep-learning",
+            "current_level": 0,
+            "target_level": 3,
+            "gap_degree": 3,
+            "importance": "must"
+          },
+          {
+            "skill": "tensorflow",
+            "current_level": 0,
+            "target_level": 3,
+            "gap_degree": 3,
+            "importance": "must"
+          },
+          {
+            "skill": "pytorch",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "must"
+          },
+          {
+            "skill": "machine-learning",
+            "current_level": 0,
+            "target_level": 3,
+            "gap_degree": 3,
+            "importance": "must"
+          },
+          {
+            "skill": "neural-networks",
+            "current_level": 0,
+            "target_level": 3,
+            "gap_degree": 3,
+            "importance": "must"
+          },
+          {
+            "skill": "computer-vision",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "must"
+          },
+          {
+            "skill": "nlp",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "must"
+          },
+          {
+            "skill": "transformers",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "nice"
+          },
+          {
+            "skill": "llm",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "nice"
+          },
+          {
+            "skill": "hugging-face",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "nice"
+          }
+        ],
+        "quick_win_recommendations": [
+          "Foundation needed in python: Start with course PY001 - 'Python for Everybody Specialization' (40h) (Level 0\u21923)",
+          "Foundation needed in Deep Learning: Dedicate 8-12 hours to comprehensive training through online courses or bootcamps (Level 0\u21923)"
+        ]
+      }
+    },
+    "execution_time_seconds": 0.0004889965057373047,
+    "session_id": "session_20250804_173310"
+  },
+  {
+    "timestamp": "2025-08-04T17:38:22.779153",
+    "input": {
+      "text": "Geetesh\n \nDalal\n \n+91\n \n9821960747\n \n|\n \ngeeteshdalal.work@gmail.com\n \n|\n \nPortfolio\n \n|\n \nGitHub\n \n|\n \nLinkedIn\n \n \n \nEDUCATION\n \n \n \nBennett\n \nUniversity\n \n(The\n \nTimes\n \nGroup)\n \nGreater\n \nNoida,\n \nIndia\n \nB.Tech\n \n-\n \nComputer\n \nScience\n \nEngineering\n \n2023\n \n-\n \n2027\n \nCGP A:\n \n9.04\n \n \nPROJECTS\n \n \n \nGenPalette\n \n-\n \nAI\n \nColor\n \nPalette\n \nGenerator\n \n&\n \nVisualizer\n \nGitHub\n \n|\n \nLive\n \n \n\u25cf\n \nBuilt\n \nan\n \nAI-powered\n \nweb\n \napp\n \nusing\n \nGemini\n \nAPI\n \nto\n \ngenerate\n \ncohesive\n \ncolor\n \npalettes,\n \nwith\n \nlive\n \npreviews,\n \nan\n \nexplore\n \nsection\n \nof\n \nAI-generated\n \npalettes,\n \nand\n \na\n \ndashboard\n \nto\n \nsave\n \nfavourites.\n \n\u25cf\n \nOptimized\n \nperformance\n \nand\n \ncode\n \nquality\n \nby\n \ndynamically\n \nimporting\n \nroute-specific\n \ncomponents\n \nto\n \nreduce\n \nJS\n \nbundle\n \nsize\n \nby\n \n90KB\n \nand\n \nbuilding\n \ncustom\n \nReact\n \nhooks\n \nfor\n \ncleaner ,\n \nreusable,\n \nand\n \nmaintainable\n \nlogic.\n \n\u25cf\n \nImplemented\n \nAuth.js-based\n \nauthentication,\n \nRedux\n \nfor\n \nstate\n \nmanagement,\n \nand\n \nFramer\n \nMotion\n \nfor\n \nseamless\n \nUI\n \nanimations.\n \n\u25cf\n \nTechnologies:\n \nNext.js,\n \nReact.js,\n \nTailwind\n \nCSS,\n \nGemini\n \nAPI,\n \nMongoDB,\n \nRedux,\n \nAuth.js,\n \nFramer\n \nMotion\n \n \nReadmeEasy\n \n-\n \nAI\n \nPowered\n \nReadme\n \nGeneration\n \nTool\n \nGitHub\n \n|\n \nLive\n \n \n\u25cf\n \nBuilt\n \nan\n \nAI\n \ntool\n \nthat\n \ngenerates\n \nclean,\n \nstructured,\n \nand\n \nprofessional\n \nReadme.md\n \nfiles\n \nunder\n \n15\n \nseconds\n \nusing\n \nGemini\n \nAPI\n,\n \nbased\n \non\n \ninferred\n \nproject\n \ndata.\n \n\u25cf\n \nSuccessfully\n \ngenerated\n \n50+\n \nReadme.md\n \nfiles\n \nhelping\n \nusers\n \ncreate\n \npolished\n \nand\n \nstandardized\n \ndocumentation\n \neffortlessly\n \nwithin\n \nseconds.\n \n\u25cf\n \nTechnologies:\n \nNext.js,\n \nReact.js,\n \nTypeScript,\n \nTailwind\n \nCSS,\n \nGemini\n \nAPI,\n \nMongoDB\n \n \nCampusHive\n \n-\n \nCampus\n \nSocial\n \nNetworking\n \nPlatform\n \nGitHub\n \n|\n \nLive\n \n \n\u25cf\n \nDeveloped\n \na\n \nMERN\n \nstack\n \nweb\n \napplication\n \nfeaturing\n \nreal-time\n \nchat,\n \ncarpooling,\n \nlost\n \n&\n \nfound,\n \nand\n \nproject\n \ncollaboration\n \ndesigned\n \nto\n \nsave\n \nuniversity\n \nstudents\n \nup\n \nto\n \nestimated\n \n70%\n \nin\n \ntravel\n \ncosts\n \nand\n \nimprove\n \nitem\n \nrecovery\n \nrates\n \nby\n \nestimated\n \n80%\n.\n \n\u25cf\n \nIntegrated\n \nJWT-based\n \nauth,\n \nGoogle\n \nOAuth,\n \nfile\n \nuploads,\n \nand\n \nresponsive\n \ndesign\n \nto\n \nensure\n \nsecure\n \naccess\n \nand\n \nsmooth\n \nmobile\n \nexperience.\n \n\u25cf\n \nTechnologies:\n \nReact.js,\n \nNode.js,\n \nExpress.js,\n \nMongoDB,\n \nSocket.IO\n \n \nCodev\n \n-\n \nDeveloper\n \nPortfolio\n \n&\n \nDiscovery\n \nPlatform\n \nGitHub\n \n|\n \nLive\n \n \n\u25cf\n \nDeveloped\n \na\n \nfull-stack\n \nweb\n \nplatform\n \nenabling\n \ndevelopers\n \nto\n \ncreate\n \npersonalized\n \nportfolios\n \nwith\n \ncoding\n \nprofiles\n \n(LeetCode,\n \nGitHub,\n \nCodeforces),\n \nprojects,\n \nand\n \nskills\n \nestimated\n \nto\n \nboost\n \ndiscoverability\n \nby\n \nrecruiters\n \nand\n \npeers\n \nby\n \n60%.\n \n\u25cf\n \nIntegrated\n \nfeatures\n \nlike\n \nprofile\n \nphoto\n \nusing\n \nCloudinary ,\n \nglobal\n \nstate\n \nmanagement\n \nusing\n \nRedux,\n \nsmooth\n \nanimations\n \nusing\n \nFramer\n \nMotion,\n \nand\n \nresponsive\n \ndesign\n \nusing\n \nTailwind\n \nCSS.\n \n\u25cf\n \nTechnologies:\n \nNext.js,\n \nReact.js,\n \nTailwind\n \nCSS,\n \nMongoDB,\n \nRedux,\n \nFramer\n \nMotion\n \n \nSKILLS\n \n \n \nLanguages:\n \nJava,\n \nJavaScript,\n \nTypeScript\n \nFrontend:\n \nHTML,\n \nCSS,\n \nTailwind\n \nCSS,\n \nReact.js,\n \nNext.js,\n \nRedux,\n \nFramer\n \nMotion\n \nBackend:\n \nNode.js,\n \nExpress.js,\n \nREST\n \nAPIs\n \nDatabases:\n \nMongoDB,\n \nMySQL\n \nTools:\n \nGit,\n \nGitHub,\n \nPostman,\n \nVercel\n \n \nRELEVANT\n \nCOURSEWORK\n \n \n \nData\n \nStructures\n \n&\n \nAlgorithms,\n \nOperating\n \nSystems,\n \nComputer\n \nNetworks,\n \nDatabase\n \nManagement\n \nSystems\n \n(DBMS),\n \nObject-Oriented\n \nProgramming\n \n(OOP),\n \nFull\n \nStack\n \nDevelopment\n ",
+      "target_role": "Skill Extraction"
+    },
+    "output": {
+      "extracted_skills": [
+        "java",
+        "javascript",
+        "typescript",
+        "html",
+        "css",
+        "tailwind-css",
+        "react",
+        "nextjs",
+        "redux",
+        "framer-motion",
+        "nodejs",
+        "expressjs",
+        "rest-apis",
+        "mongodb",
+        "mysql",
+        "git",
+        "github",
+        "postman",
+        "vercel",
+        "socketio",
+        "jwt",
+        "google-oauth",
+        "cloudinary",
+        "gemini-api"
+      ],
+      "missing_skills": [],
+      "nice_to_have": [],
+      "roadmap_phases": 0,
+      "total_recommended_skills": 0
+    },
+    "full_result": {
+      "extracted_skills": [
+        "java",
+        "javascript",
+        "typescript",
+        "html",
+        "css",
+        "tailwind-css",
+        "react",
+        "nextjs",
+        "redux",
+        "framer-motion",
+        "nodejs",
+        "expressjs",
+        "rest-apis",
+        "mongodb",
+        "mysql",
+        "git",
+        "github",
+        "postman",
+        "vercel",
+        "socketio",
+        "jwt",
+        "google-oauth",
+        "cloudinary",
+        "gemini-api"
+      ],
+      "performance_summary": {
+        "step_timings": {
+          "skill_extraction_only": 5.041
+        },
+        "total_time": 5.041,
+        "cache_stats": {
+          "hits": 0,
+          "misses": 0,
+          "hit_ratio": 0
+        }
+      }
+    },
+    "execution_time_seconds": 5.041045904159546,
+    "session_id": "session_20250804_173822"
+  },
+  {
+    "timestamp": "2025-08-04T17:38:28.033927",
+    "input": {
+      "text": "Skills: java, javascript, typescript, html, css, tailwind-css, react, nextjs, redux, framer-motion, nodejs, expressjs, rest-apis, mongodb, mysql, git, github, postman, vercel, socketio, jwt, google-oauth, cloudinary, gemini-api",
+      "target_role": "Target Role Assessment: devops-engineer"
+    },
+    "output": {
+      "extracted_skills": [],
+      "missing_skills": [],
+      "nice_to_have": [],
+      "roadmap_phases": 0,
+      "total_recommended_skills": 0
+    },
+    "full_result": {
+      "target_role": "devops-engineer",
+      "role_assessment": {
+        "role_name": "devops-engineer",
+        "readiness_score": 0.053,
+        "readiness_label": "Needs foundation",
+        "missing_skills": [
+          {
+            "skill": "linux",
+            "current_level": 0,
+            "target_level": 3,
+            "gap_degree": 3,
+            "importance": "must"
+          },
+          {
+            "skill": "docker",
+            "current_level": 0,
+            "target_level": 3,
+            "gap_degree": 3,
+            "importance": "must"
+          },
+          {
+            "skill": "kubernetes",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "must"
+          },
+          {
+            "skill": "git",
+            "current_level": 2,
+            "target_level": 3,
+            "gap_degree": 1,
+            "importance": "must"
+          },
+          {
+            "skill": "ci-cd",
+            "current_level": 0,
+            "target_level": 3,
+            "gap_degree": 3,
+            "importance": "must"
+          },
+          {
+            "skill": "jenkins",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "must"
+          },
+          {
+            "skill": "terraform",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "must"
+          },
+          {
+            "skill": "aws",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "must"
+          },
+          {
+            "skill": "bash",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "must"
+          },
+          {
+            "skill": "monitoring",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "must"
+          },
+          {
+            "skill": "ansible",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "nice"
+          },
+          {
+            "skill": "python",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "nice"
+          },
+          {
+            "skill": "azure",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "nice"
+          }
+        ],
+        "quick_win_recommendations": [
+          "Foundation needed in linux: Start with course LIN001 - 'Linux Command Line Basics' (8h) (Level 0\u21923)",
+          "Foundation needed in docker: Start with course DOCK001 - 'Docker Mastery' (19h) (Level 0\u21923)"
+        ]
+      }
+    },
+    "execution_time_seconds": 0.0004520416259765625,
+    "session_id": "session_20250804_173828"
+  },
+  {
+    "timestamp": "2025-08-04T17:42:26.924291",
+    "input": {
+      "text": "Geetesh\n \nDalal\n \n+91\n \n9821960747\n \n|\n \ngeeteshdalal.work@gmail.com\n \n|\n \nPortfolio\n \n|\n \nGitHub\n \n|\n \nLinkedIn\n \n \n \nEDUCATION\n \n \n \nBennett\n \nUniversity\n \n(The\n \nTimes\n \nGroup)\n \nGreater\n \nNoida,\n \nIndia\n \nB.Tech\n \n-\n \nComputer\n \nScience\n \nEngineering\n \n2023\n \n-\n \n2027\n \nCGP A:\n \n9.04\n \n \nPROJECTS\n \n \n \nGenPalette\n \n-\n \nAI\n \nColor\n \nPalette\n \nGenerator\n \n&\n \nVisualizer\n \nGitHub\n \n|\n \nLive\n \n \n\u25cf\n \nBuilt\n \nan\n \nAI-powered\n \nweb\n \napp\n \nusing\n \nGemini\n \nAPI\n \nto\n \ngenerate\n \ncohesive\n \ncolor\n \npalettes,\n \nwith\n \nlive\n \npreviews,\n \nan\n \nexplore\n \nsection\n \nof\n \nAI-generated\n \npalettes,\n \nand\n \na\n \ndashboard\n \nto\n \nsave\n \nfavourites.\n \n\u25cf\n \nOptimized\n \nperformance\n \nand\n \ncode\n \nquality\n \nby\n \ndynamically\n \nimporting\n \nroute-specific\n \ncomponents\n \nto\n \nreduce\n \nJS\n \nbundle\n \nsize\n \nby\n \n90KB\n \nand\n \nbuilding\n \ncustom\n \nReact\n \nhooks\n \nfor\n \ncleaner ,\n \nreusable,\n \nand\n \nmaintainable\n \nlogic.\n \n\u25cf\n \nImplemented\n \nAuth.js-based\n \nauthentication,\n \nRedux\n \nfor\n \nstate\n \nmanagement,\n \nand\n \nFramer\n \nMotion\n \nfor\n \nseamless\n \nUI\n \nanimations.\n \n\u25cf\n \nTechnologies:\n \nNext.js,\n \nReact.js,\n \nTailwind\n \nCSS,\n \nGemini\n \nAPI,\n \nMongoDB,\n \nRedux,\n \nAuth.js,\n \nFramer\n \nMotion\n \n \nReadmeEasy\n \n-\n \nAI\n \nPowered\n \nReadme\n \nGeneration\n \nTool\n \nGitHub\n \n|\n \nLive\n \n \n\u25cf\n \nBuilt\n \nan\n \nAI\n \ntool\n \nthat\n \ngenerates\n \nclean,\n \nstructured,\n \nand\n \nprofessional\n \nReadme.md\n \nfiles\n \nunder\n \n15\n \nseconds\n \nusing\n \nGemini\n \nAPI\n,\n \nbased\n \non\n \ninferred\n \nproject\n \ndata.\n \n\u25cf\n \nSuccessfully\n \ngenerated\n \n50+\n \nReadme.md\n \nfiles\n \nhelping\n \nusers\n \ncreate\n \npolished\n \nand\n \nstandardized\n \ndocumentation\n \neffortlessly\n \nwithin\n \nseconds.\n \n\u25cf\n \nTechnologies:\n \nNext.js,\n \nReact.js,\n \nTypeScript,\n \nTailwind\n \nCSS,\n \nGemini\n \nAPI,\n \nMongoDB\n \n \nCampusHive\n \n-\n \nCampus\n \nSocial\n \nNetworking\n \nPlatform\n \nGitHub\n \n|\n \nLive\n \n \n\u25cf\n \nDeveloped\n \na\n \nMERN\n \nstack\n \nweb\n \napplication\n \nfeaturing\n \nreal-time\n \nchat,\n \ncarpooling,\n \nlost\n \n&\n \nfound,\n \nand\n \nproject\n \ncollaboration\n \ndesigned\n \nto\n \nsave\n \nuniversity\n \nstudents\n \nup\n \nto\n \nestimated\n \n70%\n \nin\n \ntravel\n \ncosts\n \nand\n \nimprove\n \nitem\n \nrecovery\n \nrates\n \nby\n \nestimated\n \n80%\n.\n \n\u25cf\n \nIntegrated\n \nJWT-based\n \nauth,\n \nGoogle\n \nOAuth,\n \nfile\n \nuploads,\n \nand\n \nresponsive\n \ndesign\n \nto\n \nensure\n \nsecure\n \naccess\n \nand\n \nsmooth\n \nmobile\n \nexperience.\n \n\u25cf\n \nTechnologies:\n \nReact.js,\n \nNode.js,\n \nExpress.js,\n \nMongoDB,\n \nSocket.IO\n \n \nCodev\n \n-\n \nDeveloper\n \nPortfolio\n \n&\n \nDiscovery\n \nPlatform\n \nGitHub\n \n|\n \nLive\n \n \n\u25cf\n \nDeveloped\n \na\n \nfull-stack\n \nweb\n \nplatform\n \nenabling\n \ndevelopers\n \nto\n \ncreate\n \npersonalized\n \nportfolios\n \nwith\n \ncoding\n \nprofiles\n \n(LeetCode,\n \nGitHub,\n \nCodeforces),\n \nprojects,\n \nand\n \nskills\n \nestimated\n \nto\n \nboost\n \ndiscoverability\n \nby\n \nrecruiters\n \nand\n \npeers\n \nby\n \n60%.\n \n\u25cf\n \nIntegrated\n \nfeatures\n \nlike\n \nprofile\n \nphoto\n \nusing\n \nCloudinary ,\n \nglobal\n \nstate\n \nmanagement\n \nusing\n \nRedux,\n \nsmooth\n \nanimations\n \nusing\n \nFramer\n \nMotion,\n \nand\n \nresponsive\n \ndesign\n \nusing\n \nTailwind\n \nCSS.\n \n\u25cf\n \nTechnologies:\n \nNext.js,\n \nReact.js,\n \nTailwind\n \nCSS,\n \nMongoDB,\n \nRedux,\n \nFramer\n \nMotion\n \n \nSKILLS\n \n \n \nLanguages:\n \nJava,\n \nJavaScript,\n \nTypeScript\n \nFrontend:\n \nHTML,\n \nCSS,\n \nTailwind\n \nCSS,\n \nReact.js,\n \nNext.js,\n \nRedux,\n \nFramer\n \nMotion\n \nBackend:\n \nNode.js,\n \nExpress.js,\n \nREST\n \nAPIs\n \nDatabases:\n \nMongoDB,\n \nMySQL\n \nTools:\n \nGit,\n \nGitHub,\n \nPostman,\n \nVercel\n \n \nRELEVANT\n \nCOURSEWORK\n \n \n \nData\n \nStructures\n \n&\n \nAlgorithms,\n \nOperating\n \nSystems,\n \nComputer\n \nNetworks,\n \nDatabase\n \nManagement\n \nSystems\n \n(DBMS),\n \nObject-Oriented\n \nProgramming\n \n(OOP),\n \nFull\n \nStack\n \nDevelopment\n ",
+      "target_role": "Skill Extraction"
+    },
+    "output": {
+      "extracted_skills": [
+        "java",
+        "javascript",
+        "typescript",
+        "html",
+        "css",
+        "tailwind-css",
+        "react",
+        "nextjs",
+        "redux",
+        "framer-motion",
+        "nodejs",
+        "expressjs",
+        "rest-apis",
+        "mongodb",
+        "mysql",
+        "git",
+        "github",
+        "postman",
+        "vercel",
+        "socketio",
+        "jwt",
+        "google-oauth",
+        "cloudinary",
+        "gemini-api"
+      ],
+      "missing_skills": [],
+      "nice_to_have": [],
+      "roadmap_phases": 0,
+      "total_recommended_skills": 0
+    },
+    "full_result": {
+      "extracted_skills": [
+        "java",
+        "javascript",
+        "typescript",
+        "html",
+        "css",
+        "tailwind-css",
+        "react",
+        "nextjs",
+        "redux",
+        "framer-motion",
+        "nodejs",
+        "expressjs",
+        "rest-apis",
+        "mongodb",
+        "mysql",
+        "git",
+        "github",
+        "postman",
+        "vercel",
+        "socketio",
+        "jwt",
+        "google-oauth",
+        "cloudinary",
+        "gemini-api"
+      ],
+      "performance_summary": {
+        "step_timings": {
+          "skill_extraction_only": 3.149
+        },
+        "total_time": 3.149,
+        "cache_stats": {
+          "hits": 0,
+          "misses": 0,
+          "hit_ratio": 0
+        }
+      }
+    },
+    "execution_time_seconds": 3.1489875316619873,
+    "session_id": "session_20250804_174226"
+  },
+  {
+    "timestamp": "2025-08-04T17:42:32.415400",
+    "input": {
+      "text": "Skills: java, javascript, typescript, html, css, tailwind-css, react, nextjs, redux, framer-motion, nodejs, expressjs, rest-apis, mongodb, mysql, git, github, postman, vercel, socketio, jwt, google-oauth, cloudinary, gemini-api",
+      "target_role": "Target Role Assessment: cloud-architect"
+    },
+    "output": {
+      "extracted_skills": [],
+      "missing_skills": [],
+      "nice_to_have": [],
+      "roadmap_phases": 0,
+      "total_recommended_skills": 0
+    },
+    "full_result": {
+      "target_role": "cloud-architect",
+      "role_assessment": {
+        "role_name": "cloud-architect",
+        "readiness_score": 0.0,
+        "readiness_label": "Needs foundation",
+        "missing_skills": [
+          {
+            "skill": "aws",
+            "current_level": 0,
+            "target_level": 3,
+            "gap_degree": 3,
+            "importance": "must"
+          },
+          {
+            "skill": "azure",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "must"
+          },
+          {
+            "skill": "docker",
+            "current_level": 0,
+            "target_level": 3,
+            "gap_degree": 3,
+            "importance": "must"
+          },
+          {
+            "skill": "kubernetes",
+            "current_level": 0,
+            "target_level": 3,
+            "gap_degree": 3,
+            "importance": "must"
+          },
+          {
+            "skill": "terraform",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "must"
+          },
+          {
+            "skill": "linux",
+            "current_level": 0,
+            "target_level": 3,
+            "gap_degree": 3,
+            "importance": "must"
+          },
+          {
+            "skill": "networking",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "must"
+          },
+          {
+            "skill": "security",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "must"
+          },
+          {
+            "skill": "monitoring",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "must"
+          },
+          {
+            "skill": "gcp",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "nice"
+          },
+          {
+            "skill": "ansible",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "nice"
+          },
+          {
+            "skill": "jenkins",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "nice"
+          }
+        ],
+        "quick_win_recommendations": [
+          "Foundation needed in aws: Start with course AWS001 - 'AWS Cloud Practitioner' (6h) (Level 0\u21923)",
+          "Foundation needed in docker: Start with course DOCK001 - 'Docker Mastery' (19h) (Level 0\u21923)"
+        ]
+      }
+    },
+    "execution_time_seconds": 0.0002715587615966797,
+    "session_id": "session_20250804_174232"
+  },
+  {
+    "timestamp": "2025-08-04T18:04:29.742963",
+    "input": {
+      "text": "Geetesh\n \nDalal\n \n+91\n \n9821960747\n \n|\n \ngeeteshdalal.work@gmail.com\n \n|\n \nPortfolio\n \n|\n \nGitHub\n \n|\n \nLinkedIn\n \n \n \nEDUCATION\n \n \n \nBennett\n \nUniversity\n \n(The\n \nTimes\n \nGroup)\n \nGreater\n \nNoida,\n \nIndia\n \nB.Tech\n \n-\n \nComputer\n \nScience\n \nEngineering\n \n2023\n \n-\n \n2027\n \nCGP A:\n \n9.04\n \n \nPROJECTS\n \n \n \nGenPalette\n \n-\n \nAI\n \nColor\n \nPalette\n \nGenerator\n \n&\n \nVisualizer\n \nGitHub\n \n|\n \nLive\n \n \n\u25cf\n \nBuilt\n \nan\n \nAI-powered\n \nweb\n \napp\n \nusing\n \nGemini\n \nAPI\n \nto\n \ngenerate\n \ncohesive\n \ncolor\n \npalettes,\n \nwith\n \nlive\n \npreviews,\n \nan\n \nexplore\n \nsection\n \nof\n \nAI-generated\n \npalettes,\n \nand\n \na\n \ndashboard\n \nto\n \nsave\n \nfavourites.\n \n\u25cf\n \nOptimized\n \nperformance\n \nand\n \ncode\n \nquality\n \nby\n \ndynamically\n \nimporting\n \nroute-specific\n \ncomponents\n \nto\n \nreduce\n \nJS\n \nbundle\n \nsize\n \nby\n \n90KB\n \nand\n \nbuilding\n \ncustom\n \nReact\n \nhooks\n \nfor\n \ncleaner ,\n \nreusable,\n \nand\n \nmaintainable\n \nlogic.\n \n\u25cf\n \nImplemented\n \nAuth.js-based\n \nauthentication,\n \nRedux\n \nfor\n \nstate\n \nmanagement,\n \nand\n \nFramer\n \nMotion\n \nfor\n \nseamless\n \nUI\n \nanimations.\n \n\u25cf\n \nTechnologies:\n \nNext.js,\n \nReact.js,\n \nTailwind\n \nCSS,\n \nGemini\n \nAPI,\n \nMongoDB,\n \nRedux,\n \nAuth.js,\n \nFramer\n \nMotion\n \n \nReadmeEasy\n \n-\n \nAI\n \nPowered\n \nReadme\n \nGeneration\n \nTool\n \nGitHub\n \n|\n \nLive\n \n \n\u25cf\n \nBuilt\n \nan\n \nAI\n \ntool\n \nthat\n \ngenerates\n \nclean,\n \nstructured,\n \nand\n \nprofessional\n \nReadme.md\n \nfiles\n \nunder\n \n15\n \nseconds\n \nusing\n \nGemini\n \nAPI\n,\n \nbased\n \non\n \ninferred\n \nproject\n \ndata.\n \n\u25cf\n \nSuccessfully\n \ngenerated\n \n50+\n \nReadme.md\n \nfiles\n \nhelping\n \nusers\n \ncreate\n \npolished\n \nand\n \nstandardized\n \ndocumentation\n \neffortlessly\n \nwithin\n \nseconds.\n \n\u25cf\n \nTechnologies:\n \nNext.js,\n \nReact.js,\n \nTypeScript,\n \nTailwind\n \nCSS,\n \nGemini\n \nAPI,\n \nMongoDB\n \n \nCampusHive\n \n-\n \nCampus\n \nSocial\n \nNetworking\n \nPlatform\n \nGitHub\n \n|\n \nLive\n \n \n\u25cf\n \nDeveloped\n \na\n \nMERN\n \nstack\n \nweb\n \napplication\n \nfeaturing\n \nreal-time\n \nchat,\n \ncarpooling,\n \nlost\n \n&\n \nfound,\n \nand\n \nproject\n \ncollaboration\n \ndesigned\n \nto\n \nsave\n \nuniversity\n \nstudents\n \nup\n \nto\n \nestimated\n \n70%\n \nin\n \ntravel\n \ncosts\n \nand\n \nimprove\n \nitem\n \nrecovery\n \nrates\n \nby\n \nestimated\n \n80%\n.\n \n\u25cf\n \nIntegrated\n \nJWT-based\n \nauth,\n \nGoogle\n \nOAuth,\n \nfile\n \nuploads,\n \nand\n \nresponsive\n \ndesign\n \nto\n \nensure\n \nsecure\n \naccess\n \nand\n \nsmooth\n \nmobile\n \nexperience.\n \n\u25cf\n \nTechnologies:\n \nReact.js,\n \nNode.js,\n \nExpress.js,\n \nMongoDB,\n \nSocket.IO\n \n \nCodev\n \n-\n \nDeveloper\n \nPortfolio\n \n&\n \nDiscovery\n \nPlatform\n \nGitHub\n \n|\n \nLive\n \n \n\u25cf\n \nDeveloped\n \na\n \nfull-stack\n \nweb\n \nplatform\n \nenabling\n \ndevelopers\n \nto\n \ncreate\n \npersonalized\n \nportfolios\n \nwith\n \ncoding\n \nprofiles\n \n(LeetCode,\n \nGitHub,\n \nCodeforces),\n \nprojects,\n \nand\n \nskills\n \nestimated\n \nto\n \nboost\n \ndiscoverability\n \nby\n \nrecruiters\n \nand\n \npeers\n \nby\n \n60%.\n \n\u25cf\n \nIntegrated\n \nfeatures\n \nlike\n \nprofile\n \nphoto\n \nusing\n \nCloudinary ,\n \nglobal\n \nstate\n \nmanagement\n \nusing\n \nRedux,\n \nsmooth\n \nanimations\n \nusing\n \nFramer\n \nMotion,\n \nand\n \nresponsive\n \ndesign\n \nusing\n \nTailwind\n \nCSS.\n \n\u25cf\n \nTechnologies:\n \nNext.js,\n \nReact.js,\n \nTailwind\n \nCSS,\n \nMongoDB,\n \nRedux,\n \nFramer\n \nMotion\n \n \nSKILLS\n \n \n \nLanguages:\n \nJava,\n \nJavaScript,\n \nTypeScript\n \nFrontend:\n \nHTML,\n \nCSS,\n \nTailwind\n \nCSS,\n \nReact.js,\n \nNext.js,\n \nRedux,\n \nFramer\n \nMotion\n \nBackend:\n \nNode.js,\n \nExpress.js,\n \nREST\n \nAPIs\n \nDatabases:\n \nMongoDB,\n \nMySQL\n \nTools:\n \nGit,\n \nGitHub,\n \nPostman,\n \nVercel\n \n \nRELEVANT\n \nCOURSEWORK\n \n \n \nData\n \nStructures\n \n&\n \nAlgorithms,\n \nOperating\n \nSystems,\n \nComputer\n \nNetworks,\n \nDatabase\n \nManagement\n \nSystems\n \n(DBMS),\n \nObject-Oriented\n \nProgramming\n \n(OOP),\n \nFull\n \nStack\n \nDevelopment\n ",
+      "target_role": "Skill Extraction"
+    },
+    "output": {
+      "extracted_skills": [
+        "java",
+        "javascript",
+        "typescript",
+        "html",
+        "css",
+        "tailwind-css",
+        "react",
+        "nextjs",
+        "redux",
+        "framer-motion",
+        "nodejs",
+        "expressjs",
+        "rest-apis",
+        "mongodb",
+        "mysql",
+        "git",
+        "github",
+        "postman",
+        "vercel",
+        "socketio",
+        "jwt",
+        "google-oauth",
+        "cloudinary",
+        "gemini-api"
+      ],
+      "missing_skills": [],
+      "nice_to_have": [],
+      "roadmap_phases": 0,
+      "total_recommended_skills": 0
+    },
+    "full_result": {
+      "extracted_skills": [
+        "java",
+        "javascript",
+        "typescript",
+        "html",
+        "css",
+        "tailwind-css",
+        "react",
+        "nextjs",
+        "redux",
+        "framer-motion",
+        "nodejs",
+        "expressjs",
+        "rest-apis",
+        "mongodb",
+        "mysql",
+        "git",
+        "github",
+        "postman",
+        "vercel",
+        "socketio",
+        "jwt",
+        "google-oauth",
+        "cloudinary",
+        "gemini-api"
+      ],
+      "performance_summary": {
+        "step_timings": {
+          "skill_extraction_only": 4.327
+        },
+        "total_time": 4.327,
+        "cache_stats": {
+          "hits": 0,
+          "misses": 0,
+          "hit_ratio": 0
+        }
+      }
+    },
+    "execution_time_seconds": 4.326746940612793,
+    "session_id": "session_20250804_180429"
+  },
+  {
+    "timestamp": "2025-08-04T18:04:35.404508",
+    "input": {
+      "text": "Skills: java, javascript, typescript, html, css, tailwind-css, react, nextjs, redux, framer-motion, nodejs, expressjs, rest-apis, mongodb, mysql, git, github, postman, vercel, socketio, jwt, google-oauth, cloudinary, gemini-api",
+      "target_role": "Target Role Assessment: ml-engineer"
+    },
+    "output": {
+      "extracted_skills": [],
+      "missing_skills": [],
+      "nice_to_have": [],
+      "roadmap_phases": 0,
+      "total_recommended_skills": 0
+    },
+    "full_result": {
+      "target_role": "ml-engineer",
+      "role_assessment": {
+        "role_name": "ml-engineer",
+        "readiness_score": 0.08,
+        "readiness_label": "Needs foundation",
+        "missing_skills": [
+          {
+            "skill": "python",
+            "current_level": 0,
+            "target_level": 3,
+            "gap_degree": 3,
+            "importance": "must"
+          },
+          {
+            "skill": "machine-learning",
+            "current_level": 0,
+            "target_level": 3,
+            "gap_degree": 3,
+            "importance": "must"
+          },
+          {
+            "skill": "tensorflow",
+            "current_level": 0,
+            "target_level": 3,
+            "gap_degree": 3,
+            "importance": "must"
+          },
+          {
+            "skill": "pytorch",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "must"
+          },
+          {
+            "skill": "deep-learning",
+            "current_level": 0,
+            "target_level": 3,
+            "gap_degree": 3,
+            "importance": "must"
+          },
+          {
+            "skill": "docker",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "must"
+          },
+          {
+            "skill": "kubernetes",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "must"
+          },
+          {
+            "skill": "sql",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "must"
+          },
+          {
+            "skill": "linux",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "must"
+          },
+          {
+            "skill": "aws",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "nice"
+          },
+          {
+            "skill": "mlops",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "nice"
+          },
+          {
+            "skill": "scikit-learn",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "nice"
+          }
+        ],
+        "quick_win_recommendations": [
+          "Foundation needed in python: Start with course PY001 - 'Python for Everybody Specialization' (40h) (Level 0\u21923)",
+          "Foundation needed in machine learning: Start with course ML001 - 'Machine Learning Course' (60h) (Level 0\u21923)"
+        ]
+      }
+    },
+    "execution_time_seconds": 0.0003256797790527344,
+    "session_id": "session_20250804_180435"
+  },
+  {
+    "timestamp": "2025-08-05T00:06:57.653926",
+    "input": {
+      "text": "Arnav Sonavane\nMumbai, Maharashtra, India |+91 7506129737 |sonavane.arnav2@gmail.com\ngithub.com/w2sg-arnav |x.com/w2sgarnav\nEducation\nUniversity of Mumbai Jul. 2023 \u2013 May 2027\nB.Tech. in Electronics & Computer Science; GPA: 8.35 /10.0 Mumbai, India\n\u2022Core CSE Topics : Computer Architecture, Computer Networks, Operating Systems, Deep Learning, Data\nStructures & Algorithms\n\u2022Core Math Topics : Differential Equations, Linear Algebra, Probability, Matrix Computation\nExperience\nHarvard University (Remote) Sep. 2024 \u2013 Dec. 2024\nResearch Intern, Prof. Devashree Tripathy USA\n\u2022Reduced LLM inference time by 20% via VIDUR control-knob optimizations.\n\u2022Integrated Meta-Llama and CodeLlama, boosting tool-usage by 15%.\n\u2022Generated 10,000+ synthetic samples to enhance testing diversity.\n\u2022Accelerated distributed data processing pipelines by 10%.\nMIT Camera Culture Group, MIT Media Lab (Remote) Jan. 2025 \u2013 Mar. 2025\nMachine Learning Intern USA\n\u2022Designed obfuscation methods to safeguard ML model privacy.\n\u2022Developed attack models for security evaluation.\n\u2022Contributed new benchmark datasets and extended testing framework.\nNational Institutes of Health (Hybrid) Aug. 2024 \u2013 Present\nResearch Intern, Dr. Chris Grunseich USA\n\u2022Analyzed 100+ gene-expression datasets; achieved 90% serum and 99% plasma classification accuracy.\n\u2022Conducted Bartlett\u2019s, Levene\u2019s, and ANOVA tests to confirm biomarker reliability.\n\u2022Optimized pipelines to reduce processing time by 30%.\n\u2022Identified biomarkers for early-stage lung cancer detection.\nEntrepreneurs First, Bengaluru Mar. 2025 \u2013 Present\nFounding Engineer India\n\u2022Building AI-safety tools and LLM evaluation frameworks under EF VC.\nProjects\nClick Through Rate Model in DCR [GitHub] Jan. 2024 \u2013 Jun. 2024\n\u2022Developed a privacy-preserving data-sharing system, cutting model-build time by 40% across two partners.\n\u2022Reduced data prep time by 50%, boosting CTR analysis throughput.\n\u2022Processed 6,000,000+ interaction records, improving prediction accuracy by 12%.\nHierarchical Vision Transformer for Diseases [GitHub] Jan. 2025 \u2013 Present\n\u2022Implemented cross-attention between transformer blocks to highlight disease-specific regions.\n\u2022Designed a curriculum-learning schedule: 128 \u00d7128\u2192384\u00d7384 input resolutions.\n\u2022Adapted Masked Autoencoders for leaf disease pattern encoding.\n\u2022Generated synthetic rare-class images via GAN augmentation.\nTechnical Skills\nLanguages : Python, JavaScript, Java, C/C++, Go\nWeb : HTML5, CSS3, React.js, Vue.js, Node.js, Flask/Django, FastAPI\nDatabases : SQLite, PostgreSQL, MongoDB\nML & Data : PyTorch, TensorFlow, scikit-learn, NumPy, Pandas, LangChain, NLTK\nDevOps : Git, Docker, Kubernetes, Linux, Shell Scripting, Jenkins\nOther : Selenium, Web Scraping, Excel, Postman",
+      "target_role": "Skill Extraction"
+    },
+    "output": {
+      "extracted_skills": [
+        "python",
+        "javascript",
+        "java",
+        "c",
+        "c++",
+        "go",
+        "html5",
+        "css3",
+        "react",
+        "vue",
+        "nodejs",
+        "flask",
+        "django",
+        "fastapi",
+        "sqlite",
+        "postgresql",
+        "mongodb",
+        "pytorch",
+        "tensorflow",
+        "scikit-learn",
+        "numpy",
+        "pandas",
+        "langchain",
+        "nltk",
+        "git",
+        "docker",
+        "kubernetes",
+        "linux",
+        "shell-scripting",
+        "jenkins"
+      ],
+      "missing_skills": [],
+      "nice_to_have": [],
+      "roadmap_phases": 0,
+      "total_recommended_skills": 0
+    },
+    "full_result": {
+      "extracted_skills": [
+        "python",
+        "javascript",
+        "java",
+        "c",
+        "c++",
+        "go",
+        "html5",
+        "css3",
+        "react",
+        "vue",
+        "nodejs",
+        "flask",
+        "django",
+        "fastapi",
+        "sqlite",
+        "postgresql",
+        "mongodb",
+        "pytorch",
+        "tensorflow",
+        "scikit-learn",
+        "numpy",
+        "pandas",
+        "langchain",
+        "nltk",
+        "git",
+        "docker",
+        "kubernetes",
+        "linux",
+        "shell-scripting",
+        "jenkins"
+      ],
+      "performance_summary": {
+        "step_timings": {
+          "skill_extraction_only": 3.602
+        },
+        "total_time": 3.602,
+        "cache_stats": {
+          "hits": 0,
+          "misses": 0,
+          "hit_ratio": 0
+        }
+      }
+    },
+    "execution_time_seconds": 3.6025733947753906,
+    "session_id": "session_20250805_000657"
+  },
+  {
+    "timestamp": "2025-08-05T00:07:02.554434",
+    "input": {
+      "text": "Skills: python, javascript, java, c, c++, go, html5, css3, react, vue, nodejs, flask, django, fastapi, sqlite, postgresql, mongodb, pytorch, tensorflow, scikit-learn, numpy, pandas, langchain, nltk, git, docker, kubernetes, linux, shell-scripting, jenkins",
+      "target_role": "Target Role Assessment: full-stack-developer"
+    },
+    "output": {
+      "extracted_skills": [],
+      "missing_skills": [],
+      "nice_to_have": [],
+      "roadmap_phases": 0,
+      "total_recommended_skills": 0
+    },
+    "full_result": {
+      "target_role": "full-stack-developer",
+      "role_assessment": {
+        "role_name": "full-stack-developer",
+        "readiness_score": 0.354,
+        "readiness_label": "Needs foundation",
+        "missing_skills": [
+          {
+            "skill": "javascript",
+            "current_level": 2,
+            "target_level": 3,
+            "gap_degree": 1,
+            "importance": "must"
+          },
+          {
+            "skill": "html",
+            "current_level": 0,
+            "target_level": 3,
+            "gap_degree": 3,
+            "importance": "must"
+          },
+          {
+            "skill": "css",
+            "current_level": 0,
+            "target_level": 3,
+            "gap_degree": 3,
+            "importance": "must"
+          },
+          {
+            "skill": "react",
+            "current_level": 2,
+            "target_level": 3,
+            "gap_degree": 1,
+            "importance": "must"
+          },
+          {
+            "skill": "nodejs",
+            "current_level": 2,
+            "target_level": 3,
+            "gap_degree": 1,
+            "importance": "must"
+          },
+          {
+            "skill": "sql",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "must"
+          },
+          {
+            "skill": "rest-api",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "must"
+          },
+          {
+            "skill": "express",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "must"
+          },
+          {
+            "skill": "typescript",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "nice"
+          },
+          {
+            "skill": "vuejs",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "nice"
+          },
+          {
+            "skill": "angular",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "nice"
+          }
+        ],
+        "quick_win_recommendations": [
+          "Foundation needed in Html: Dedicate 8-12 hours to comprehensive training through online courses or bootcamps (Level 0\u21923)",
+          "Foundation needed in Css: Dedicate 8-12 hours to comprehensive training through online courses or bootcamps (Level 0\u21923)"
+        ]
+      }
+    },
+    "execution_time_seconds": 0.00030732154846191406,
+    "session_id": "session_20250805_000702"
+  },
+  {
+    "timestamp": "2025-08-05T00:13:59.711389",
+    "input": {
+      "text": "Geetesh\n \nDalal\n \n+91\n \n9821960747\n \n|\n \ngeeteshdalal.work@gmail.com\n \n|\n \nPortfolio\n \n|\n \nGitHub\n \n|\n \nLinkedIn\n \n \n \nEDUCATION\n \n \n \nBennett\n \nUniversity\n \n(The\n \nTimes\n \nGroup)\n \nGreater\n \nNoida,\n \nIndia\n \nB.Tech\n \n-\n \nComputer\n \nScience\n \nEngineering\n \n2023\n \n-\n \n2027\n \nCGP A:\n \n9.04\n \n \nPROJECTS\n \n \n \nGenPalette\n \n-\n \nAI\n \nColor\n \nPalette\n \nGenerator\n \n&\n \nVisualizer\n \nGitHub\n \n|\n \nLive\n \n \n\u25cf\n \nBuilt\n \nan\n \nAI-powered\n \nweb\n \napp\n \nusing\n \nGemini\n \nAPI\n \nto\n \ngenerate\n \ncohesive\n \ncolor\n \npalettes,\n \nwith\n \nlive\n \npreviews,\n \nan\n \nexplore\n \nsection\n \nof\n \nAI-generated\n \npalettes,\n \nand\n \na\n \ndashboard\n \nto\n \nsave\n \nfavourites.\n \n\u25cf\n \nOptimized\n \nperformance\n \nand\n \ncode\n \nquality\n \nby\n \ndynamically\n \nimporting\n \nroute-specific\n \ncomponents\n \nto\n \nreduce\n \nJS\n \nbundle\n \nsize\n \nby\n \n90KB\n \nand\n \nbuilding\n \ncustom\n \nReact\n \nhooks\n \nfor\n \ncleaner ,\n \nreusable,\n \nand\n \nmaintainable\n \nlogic.\n \n\u25cf\n \nImplemented\n \nAuth.js-based\n \nauthentication,\n \nRedux\n \nfor\n \nstate\n \nmanagement,\n \nand\n \nFramer\n \nMotion\n \nfor\n \nseamless\n \nUI\n \nanimations.\n \n\u25cf\n \nTechnologies:\n \nNext.js,\n \nReact.js,\n \nTailwind\n \nCSS,\n \nGemini\n \nAPI,\n \nMongoDB,\n \nRedux,\n \nAuth.js,\n \nFramer\n \nMotion\n \n \nReadmeEasy\n \n-\n \nAI\n \nPowered\n \nReadme\n \nGeneration\n \nTool\n \nGitHub\n \n|\n \nLive\n \n \n\u25cf\n \nBuilt\n \nan\n \nAI\n \ntool\n \nthat\n \ngenerates\n \nclean,\n \nstructured,\n \nand\n \nprofessional\n \nReadme.md\n \nfiles\n \nunder\n \n15\n \nseconds\n \nusing\n \nGemini\n \nAPI\n,\n \nbased\n \non\n \ninferred\n \nproject\n \ndata.\n \n\u25cf\n \nSuccessfully\n \ngenerated\n \n50+\n \nReadme.md\n \nfiles\n \nhelping\n \nusers\n \ncreate\n \npolished\n \nand\n \nstandardized\n \ndocumentation\n \neffortlessly\n \nwithin\n \nseconds.\n \n\u25cf\n \nTechnologies:\n \nNext.js,\n \nReact.js,\n \nTypeScript,\n \nTailwind\n \nCSS,\n \nGemini\n \nAPI,\n \nMongoDB\n \n \nCampusHive\n \n-\n \nCampus\n \nSocial\n \nNetworking\n \nPlatform\n \nGitHub\n \n|\n \nLive\n \n \n\u25cf\n \nDeveloped\n \na\n \nMERN\n \nstack\n \nweb\n \napplication\n \nfeaturing\n \nreal-time\n \nchat,\n \ncarpooling,\n \nlost\n \n&\n \nfound,\n \nand\n \nproject\n \ncollaboration\n \ndesigned\n \nto\n \nsave\n \nuniversity\n \nstudents\n \nup\n \nto\n \nestimated\n \n70%\n \nin\n \ntravel\n \ncosts\n \nand\n \nimprove\n \nitem\n \nrecovery\n \nrates\n \nby\n \nestimated\n \n80%\n.\n \n\u25cf\n \nIntegrated\n \nJWT-based\n \nauth,\n \nGoogle\n \nOAuth,\n \nfile\n \nuploads,\n \nand\n \nresponsive\n \ndesign\n \nto\n \nensure\n \nsecure\n \naccess\n \nand\n \nsmooth\n \nmobile\n \nexperience.\n \n\u25cf\n \nTechnologies:\n \nReact.js,\n \nNode.js,\n \nExpress.js,\n \nMongoDB,\n \nSocket.IO\n \n \nCodev\n \n-\n \nDeveloper\n \nPortfolio\n \n&\n \nDiscovery\n \nPlatform\n \nGitHub\n \n|\n \nLive\n \n \n\u25cf\n \nDeveloped\n \na\n \nfull-stack\n \nweb\n \nplatform\n \nenabling\n \ndevelopers\n \nto\n \ncreate\n \npersonalized\n \nportfolios\n \nwith\n \ncoding\n \nprofiles\n \n(LeetCode,\n \nGitHub,\n \nCodeforces),\n \nprojects,\n \nand\n \nskills\n \nestimated\n \nto\n \nboost\n \ndiscoverability\n \nby\n \nrecruiters\n \nand\n \npeers\n \nby\n \n60%.\n \n\u25cf\n \nIntegrated\n \nfeatures\n \nlike\n \nprofile\n \nphoto\n \nusing\n \nCloudinary ,\n \nglobal\n \nstate\n \nmanagement\n \nusing\n \nRedux,\n \nsmooth\n \nanimations\n \nusing\n \nFramer\n \nMotion,\n \nand\n \nresponsive\n \ndesign\n \nusing\n \nTailwind\n \nCSS.\n \n\u25cf\n \nTechnologies:\n \nNext.js,\n \nReact.js,\n \nTailwind\n \nCSS,\n \nMongoDB,\n \nRedux,\n \nFramer\n \nMotion\n \n \nSKILLS\n \n \n \nLanguages:\n \nJava,\n \nJavaScript,\n \nTypeScript\n \nFrontend:\n \nHTML,\n \nCSS,\n \nTailwind\n \nCSS,\n \nReact.js,\n \nNext.js,\n \nRedux,\n \nFramer\n \nMotion\n \nBackend:\n \nNode.js,\n \nExpress.js,\n \nREST\n \nAPIs\n \nDatabases:\n \nMongoDB,\n \nMySQL\n \nTools:\n \nGit,\n \nGitHub,\n \nPostman,\n \nVercel\n \n \nRELEVANT\n \nCOURSEWORK\n \n \n \nData\n \nStructures\n \n&\n \nAlgorithms,\n \nOperating\n \nSystems,\n \nComputer\n \nNetworks,\n \nDatabase\n \nManagement\n \nSystems\n \n(DBMS),\n \nObject-Oriented\n \nProgramming\n \n(OOP),\n \nFull\n \nStack\n \nDevelopment\n ",
+      "target_role": "Skill Extraction"
+    },
+    "output": {
+      "extracted_skills": [
+        "java",
+        "javascript",
+        "typescript",
+        "html",
+        "css",
+        "tailwind-css",
+        "react",
+        "nextjs",
+        "redux",
+        "framer-motion",
+        "nodejs",
+        "expressjs",
+        "rest-apis",
+        "mongodb",
+        "mysql",
+        "git",
+        "github",
+        "postman",
+        "vercel",
+        "socketio",
+        "jwt",
+        "google-oauth",
+        "cloudinary",
+        "gemini-api"
+      ],
+      "missing_skills": [],
+      "nice_to_have": [],
+      "roadmap_phases": 0,
+      "total_recommended_skills": 0
+    },
+    "full_result": {
+      "extracted_skills": [
+        "java",
+        "javascript",
+        "typescript",
+        "html",
+        "css",
+        "tailwind-css",
+        "react",
+        "nextjs",
+        "redux",
+        "framer-motion",
+        "nodejs",
+        "expressjs",
+        "rest-apis",
+        "mongodb",
+        "mysql",
+        "git",
+        "github",
+        "postman",
+        "vercel",
+        "socketio",
+        "jwt",
+        "google-oauth",
+        "cloudinary",
+        "gemini-api"
+      ],
+      "performance_summary": {
+        "step_timings": {
+          "skill_extraction_only": 3.531
+        },
+        "total_time": 3.531,
+        "cache_stats": {
+          "hits": 0,
+          "misses": 0,
+          "hit_ratio": 0
+        }
+      }
+    },
+    "execution_time_seconds": 3.5314385890960693,
+    "session_id": "session_20250805_001359"
+  },
+  {
+    "timestamp": "2025-08-05T00:14:03.644863",
+    "input": {
+      "text": "Skills: java, javascript, typescript, html, css, tailwind-css, react, nextjs, redux, framer-motion, nodejs, expressjs, rest-apis, mongodb, mysql, git, github, postman, vercel, socketio, jwt, google-oauth, cloudinary, gemini-api",
+      "target_role": "Target Role Assessment: ai-engineer"
+    },
+    "output": {
+      "extracted_skills": [],
+      "missing_skills": [],
+      "nice_to_have": [],
+      "roadmap_phases": 0,
+      "total_recommended_skills": 0
+    },
+    "full_result": {
+      "target_role": "ai-engineer",
+      "role_assessment": {
+        "role_name": "ai-engineer",
+        "readiness_score": 0.0,
+        "readiness_label": "Needs foundation",
+        "missing_skills": [
+          {
+            "skill": "python",
+            "current_level": 0,
+            "target_level": 3,
+            "gap_degree": 3,
+            "importance": "must"
+          },
+          {
+            "skill": "deep-learning",
+            "current_level": 0,
+            "target_level": 3,
+            "gap_degree": 3,
+            "importance": "must"
+          },
+          {
+            "skill": "tensorflow",
+            "current_level": 0,
+            "target_level": 3,
+            "gap_degree": 3,
+            "importance": "must"
+          },
+          {
+            "skill": "pytorch",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "must"
+          },
+          {
+            "skill": "machine-learning",
+            "current_level": 0,
+            "target_level": 3,
+            "gap_degree": 3,
+            "importance": "must"
+          },
+          {
+            "skill": "neural-networks",
+            "current_level": 0,
+            "target_level": 3,
+            "gap_degree": 3,
+            "importance": "must"
+          },
+          {
+            "skill": "computer-vision",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "must"
+          },
+          {
+            "skill": "nlp",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "must"
+          },
+          {
+            "skill": "transformers",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "nice"
+          },
+          {
+            "skill": "llm",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "nice"
+          },
+          {
+            "skill": "hugging-face",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "nice"
+          }
+        ],
+        "quick_win_recommendations": [
+          "Foundation needed in python: Start with course PY001 - 'Python for Everybody Specialization' (40h) (Level 0\u21923)",
+          "Foundation needed in Deep Learning: Dedicate 8-12 hours to comprehensive training through online courses or bootcamps (Level 0\u21923)"
+        ]
+      }
+    },
+    "execution_time_seconds": 0.0005035400390625,
+    "session_id": "session_20250805_001403"
+  },
+  {
+    "timestamp": "2025-08-05T00:17:57.598015",
+    "input": {
+      "text": "Geetesh\n \nDalal\n \n+91\n \n9821960747\n \n|\n \ngeeteshdalal.work@gmail.com\n \n|\n \nPortfolio\n \n|\n \nGitHub\n \n|\n \nLinkedIn\n \n \n \nEDUCATION\n \n \n \nBennett\n \nUniversity\n \n(The\n \nTimes\n \nGroup)\n \nGreater\n \nNoida,\n \nIndia\n \nB.Tech\n \n-\n \nComputer\n \nScience\n \nEngineering\n \n2023\n \n-\n \n2027\n \nCGP A:\n \n9.04\n \n \nPROJECTS\n \n \n \nGenPalette\n \n-\n \nAI\n \nColor\n \nPalette\n \nGenerator\n \n&\n \nVisualizer\n \nGitHub\n \n|\n \nLive\n \n \n\u25cf\n \nBuilt\n \nan\n \nAI-powered\n \nweb\n \napp\n \nusing\n \nGemini\n \nAPI\n \nto\n \ngenerate\n \ncohesive\n \ncolor\n \npalettes,\n \nwith\n \nlive\n \npreviews,\n \nan\n \nexplore\n \nsection\n \nof\n \nAI-generated\n \npalettes,\n \nand\n \na\n \ndashboard\n \nto\n \nsave\n \nfavourites.\n \n\u25cf\n \nOptimized\n \nperformance\n \nand\n \ncode\n \nquality\n \nby\n \ndynamically\n \nimporting\n \nroute-specific\n \ncomponents\n \nto\n \nreduce\n \nJS\n \nbundle\n \nsize\n \nby\n \n90KB\n \nand\n \nbuilding\n \ncustom\n \nReact\n \nhooks\n \nfor\n \ncleaner ,\n \nreusable,\n \nand\n \nmaintainable\n \nlogic.\n \n\u25cf\n \nImplemented\n \nAuth.js-based\n \nauthentication,\n \nRedux\n \nfor\n \nstate\n \nmanagement,\n \nand\n \nFramer\n \nMotion\n \nfor\n \nseamless\n \nUI\n \nanimations.\n \n\u25cf\n \nTechnologies:\n \nNext.js,\n \nReact.js,\n \nTailwind\n \nCSS,\n \nGemini\n \nAPI,\n \nMongoDB,\n \nRedux,\n \nAuth.js,\n \nFramer\n \nMotion\n \n \nReadmeEasy\n \n-\n \nAI\n \nPowered\n \nReadme\n \nGeneration\n \nTool\n \nGitHub\n \n|\n \nLive\n \n \n\u25cf\n \nBuilt\n \nan\n \nAI\n \ntool\n \nthat\n \ngenerates\n \nclean,\n \nstructured,\n \nand\n \nprofessional\n \nReadme.md\n \nfiles\n \nunder\n \n15\n \nseconds\n \nusing\n \nGemini\n \nAPI\n,\n \nbased\n \non\n \ninferred\n \nproject\n \ndata.\n \n\u25cf\n \nSuccessfully\n \ngenerated\n \n50+\n \nReadme.md\n \nfiles\n \nhelping\n \nusers\n \ncreate\n \npolished\n \nand\n \nstandardized\n \ndocumentation\n \neffortlessly\n \nwithin\n \nseconds.\n \n\u25cf\n \nTechnologies:\n \nNext.js,\n \nReact.js,\n \nTypeScript,\n \nTailwind\n \nCSS,\n \nGemini\n \nAPI,\n \nMongoDB\n \n \nCampusHive\n \n-\n \nCampus\n \nSocial\n \nNetworking\n \nPlatform\n \nGitHub\n \n|\n \nLive\n \n \n\u25cf\n \nDeveloped\n \na\n \nMERN\n \nstack\n \nweb\n \napplication\n \nfeaturing\n \nreal-time\n \nchat,\n \ncarpooling,\n \nlost\n \n&\n \nfound,\n \nand\n \nproject\n \ncollaboration\n \ndesigned\n \nto\n \nsave\n \nuniversity\n \nstudents\n \nup\n \nto\n \nestimated\n \n70%\n \nin\n \ntravel\n \ncosts\n \nand\n \nimprove\n \nitem\n \nrecovery\n \nrates\n \nby\n \nestimated\n \n80%\n.\n \n\u25cf\n \nIntegrated\n \nJWT-based\n \nauth,\n \nGoogle\n \nOAuth,\n \nfile\n \nuploads,\n \nand\n \nresponsive\n \ndesign\n \nto\n \nensure\n \nsecure\n \naccess\n \nand\n \nsmooth\n \nmobile\n \nexperience.\n \n\u25cf\n \nTechnologies:\n \nReact.js,\n \nNode.js,\n \nExpress.js,\n \nMongoDB,\n \nSocket.IO\n \n \nCodev\n \n-\n \nDeveloper\n \nPortfolio\n \n&\n \nDiscovery\n \nPlatform\n \nGitHub\n \n|\n \nLive\n \n \n\u25cf\n \nDeveloped\n \na\n \nfull-stack\n \nweb\n \nplatform\n \nenabling\n \ndevelopers\n \nto\n \ncreate\n \npersonalized\n \nportfolios\n \nwith\n \ncoding\n \nprofiles\n \n(LeetCode,\n \nGitHub,\n \nCodeforces),\n \nprojects,\n \nand\n \nskills\n \nestimated\n \nto\n \nboost\n \ndiscoverability\n \nby\n \nrecruiters\n \nand\n \npeers\n \nby\n \n60%.\n \n\u25cf\n \nIntegrated\n \nfeatures\n \nlike\n \nprofile\n \nphoto\n \nusing\n \nCloudinary ,\n \nglobal\n \nstate\n \nmanagement\n \nusing\n \nRedux,\n \nsmooth\n \nanimations\n \nusing\n \nFramer\n \nMotion,\n \nand\n \nresponsive\n \ndesign\n \nusing\n \nTailwind\n \nCSS.\n \n\u25cf\n \nTechnologies:\n \nNext.js,\n \nReact.js,\n \nTailwind\n \nCSS,\n \nMongoDB,\n \nRedux,\n \nFramer\n \nMotion\n \n \nSKILLS\n \n \n \nLanguages:\n \nJava,\n \nJavaScript,\n \nTypeScript\n \nFrontend:\n \nHTML,\n \nCSS,\n \nTailwind\n \nCSS,\n \nReact.js,\n \nNext.js,\n \nRedux,\n \nFramer\n \nMotion\n \nBackend:\n \nNode.js,\n \nExpress.js,\n \nREST\n \nAPIs\n \nDatabases:\n \nMongoDB,\n \nMySQL\n \nTools:\n \nGit,\n \nGitHub,\n \nPostman,\n \nVercel\n \n \nRELEVANT\n \nCOURSEWORK\n \n \n \nData\n \nStructures\n \n&\n \nAlgorithms,\n \nOperating\n \nSystems,\n \nComputer\n \nNetworks,\n \nDatabase\n \nManagement\n \nSystems\n \n(DBMS),\n \nObject-Oriented\n \nProgramming\n \n(OOP),\n \nFull\n \nStack\n \nDevelopment\n ",
+      "target_role": "Skill Extraction"
+    },
+    "output": {
+      "extracted_skills": [
+        "java",
+        "javascript",
+        "typescript",
+        "html",
+        "css",
+        "tailwind-css",
+        "react",
+        "nextjs",
+        "redux",
+        "framer-motion",
+        "nodejs",
+        "expressjs",
+        "rest-apis",
+        "mongodb",
+        "mysql",
+        "git",
+        "github",
+        "postman",
+        "vercel",
+        "socketio",
+        "jwt",
+        "google-oauth",
+        "cloudinary",
+        "gemini-api"
+      ],
+      "missing_skills": [],
+      "nice_to_have": [],
+      "roadmap_phases": 0,
+      "total_recommended_skills": 0
+    },
+    "full_result": {
+      "extracted_skills": [
+        "java",
+        "javascript",
+        "typescript",
+        "html",
+        "css",
+        "tailwind-css",
+        "react",
+        "nextjs",
+        "redux",
+        "framer-motion",
+        "nodejs",
+        "expressjs",
+        "rest-apis",
+        "mongodb",
+        "mysql",
+        "git",
+        "github",
+        "postman",
+        "vercel",
+        "socketio",
+        "jwt",
+        "google-oauth",
+        "cloudinary",
+        "gemini-api"
+      ],
+      "performance_summary": {
+        "step_timings": {
+          "skill_extraction_only": 3.674
+        },
+        "total_time": 3.674,
+        "cache_stats": {
+          "hits": 0,
+          "misses": 0,
+          "hit_ratio": 0
+        }
+      }
+    },
+    "execution_time_seconds": 3.6751551628112793,
+    "session_id": "session_20250805_001757"
+  },
+  {
+    "timestamp": "2025-08-05T00:18:01.254025",
+    "input": {
+      "text": "Skills: java, javascript, typescript, html, css, tailwind-css, react, nextjs, redux, framer-motion, nodejs, expressjs, rest-apis, mongodb, mysql, git, github, postman, vercel, socketio, jwt, google-oauth, cloudinary, gemini-api",
+      "target_role": "Target Role Assessment: cloud-architect"
+    },
+    "output": {
+      "extracted_skills": [],
+      "missing_skills": [],
+      "nice_to_have": [],
+      "roadmap_phases": 0,
+      "total_recommended_skills": 0
+    },
+    "full_result": {
+      "target_role": "cloud-architect",
+      "role_assessment": {
+        "role_name": "cloud-architect",
+        "readiness_score": 0.0,
+        "readiness_label": "Needs foundation",
+        "missing_skills": [
+          {
+            "skill": "aws",
+            "current_level": 0,
+            "target_level": 3,
+            "gap_degree": 3,
+            "importance": "must"
+          },
+          {
+            "skill": "azure",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "must"
+          },
+          {
+            "skill": "docker",
+            "current_level": 0,
+            "target_level": 3,
+            "gap_degree": 3,
+            "importance": "must"
+          },
+          {
+            "skill": "kubernetes",
+            "current_level": 0,
+            "target_level": 3,
+            "gap_degree": 3,
+            "importance": "must"
+          },
+          {
+            "skill": "terraform",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "must"
+          },
+          {
+            "skill": "linux",
+            "current_level": 0,
+            "target_level": 3,
+            "gap_degree": 3,
+            "importance": "must"
+          },
+          {
+            "skill": "networking",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "must"
+          },
+          {
+            "skill": "security",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "must"
+          },
+          {
+            "skill": "monitoring",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "must"
+          },
+          {
+            "skill": "gcp",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "nice"
+          },
+          {
+            "skill": "ansible",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "nice"
+          },
+          {
+            "skill": "jenkins",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "nice"
+          }
+        ],
+        "quick_win_recommendations": [
+          "Foundation needed in aws: Start with course AWS001 - 'AWS Cloud Practitioner' (6h) (Level 0\u21923)",
+          "Foundation needed in docker: Start with course DOCK001 - 'Docker Mastery' (19h) (Level 0\u21923)"
+        ]
+      }
+    },
+    "execution_time_seconds": 0.0002980232238769531,
+    "session_id": "session_20250805_001801"
+  },
+  {
+    "timestamp": "2025-08-05T00:18:06.381890",
+    "input": {
+      "text": "Skills: java, javascript, typescript, html, css, tailwind-css, react, nextjs, redux, framer-motion, nodejs, expressjs, rest-apis, mongodb, mysql, git, github, postman, vercel, socketio, jwt, google-oauth, cloudinary, gemini-api",
+      "target_role": "Target Role Assessment: ai-engineer"
+    },
+    "output": {
+      "extracted_skills": [],
+      "missing_skills": [],
+      "nice_to_have": [],
+      "roadmap_phases": 0,
+      "total_recommended_skills": 0
+    },
+    "full_result": {
+      "target_role": "ai-engineer",
+      "role_assessment": {
+        "role_name": "ai-engineer",
+        "readiness_score": 0.0,
+        "readiness_label": "Needs foundation",
+        "missing_skills": [
+          {
+            "skill": "python",
+            "current_level": 0,
+            "target_level": 3,
+            "gap_degree": 3,
+            "importance": "must"
+          },
+          {
+            "skill": "deep-learning",
+            "current_level": 0,
+            "target_level": 3,
+            "gap_degree": 3,
+            "importance": "must"
+          },
+          {
+            "skill": "tensorflow",
+            "current_level": 0,
+            "target_level": 3,
+            "gap_degree": 3,
+            "importance": "must"
+          },
+          {
+            "skill": "pytorch",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "must"
+          },
+          {
+            "skill": "machine-learning",
+            "current_level": 0,
+            "target_level": 3,
+            "gap_degree": 3,
+            "importance": "must"
+          },
+          {
+            "skill": "neural-networks",
+            "current_level": 0,
+            "target_level": 3,
+            "gap_degree": 3,
+            "importance": "must"
+          },
+          {
+            "skill": "computer-vision",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "must"
+          },
+          {
+            "skill": "nlp",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "must"
+          },
+          {
+            "skill": "transformers",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "nice"
+          },
+          {
+            "skill": "llm",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "nice"
+          },
+          {
+            "skill": "hugging-face",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "nice"
+          }
+        ],
+        "quick_win_recommendations": [
+          "Foundation needed in python: Start with course PY001 - 'Python for Everybody Specialization' (40h) (Level 0\u21923)",
+          "Foundation needed in Deep Learning: Dedicate 8-12 hours to comprehensive training through online courses or bootcamps (Level 0\u21923)"
+        ]
+      }
+    },
+    "execution_time_seconds": 0.0002810955047607422,
+    "session_id": "session_20250805_001806"
+  },
+  {
+    "timestamp": "2025-08-05T00:18:11.532426",
+    "input": {
+      "text": "Skills: java, javascript, typescript, html, css, tailwind-css, react, nextjs, redux, framer-motion, nodejs, expressjs, rest-apis, mongodb, mysql, git, github, postman, vercel, socketio, jwt, google-oauth, cloudinary, gemini-api",
+      "target_role": "Target Role Assessment: full-stack-developer"
+    },
+    "output": {
+      "extracted_skills": [],
+      "missing_skills": [],
+      "nice_to_have": [],
+      "roadmap_phases": 0,
+      "total_recommended_skills": 0
+    },
+    "full_result": {
+      "target_role": "full-stack-developer",
+      "role_assessment": {
+        "role_name": "full-stack-developer",
+        "readiness_score": 0.456,
+        "readiness_label": "Needs foundation",
+        "missing_skills": [
+          {
+            "skill": "javascript",
+            "current_level": 2,
+            "target_level": 3,
+            "gap_degree": 1,
+            "importance": "must"
+          },
+          {
+            "skill": "html",
+            "current_level": 2,
+            "target_level": 3,
+            "gap_degree": 1,
+            "importance": "must"
+          },
+          {
+            "skill": "css",
+            "current_level": 2,
+            "target_level": 3,
+            "gap_degree": 1,
+            "importance": "must"
+          },
+          {
+            "skill": "react",
+            "current_level": 2,
+            "target_level": 3,
+            "gap_degree": 1,
+            "importance": "must"
+          },
+          {
+            "skill": "nodejs",
+            "current_level": 2,
+            "target_level": 3,
+            "gap_degree": 1,
+            "importance": "must"
+          },
+          {
+            "skill": "sql",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "must"
+          },
+          {
+            "skill": "rest-api",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "must"
+          },
+          {
+            "skill": "express",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "must"
+          },
+          {
+            "skill": "vuejs",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "nice"
+          },
+          {
+            "skill": "angular",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "nice"
+          },
+          {
+            "skill": "postgresql",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "nice"
+          }
+        ],
+        "quick_win_recommendations": [
+          "Foundation needed in sql: Start with course SQL001 - 'SQL for Data Science' (15h) (Level 0\u21922)",
+          "Foundation needed in Rest Api: Dedicate 8-12 hours to comprehensive training through online courses or bootcamps (Level 0\u21922)"
+        ]
+      }
+    },
+    "execution_time_seconds": 0.00023412704467773438,
+    "session_id": "session_20250805_001811"
+  }
+]
