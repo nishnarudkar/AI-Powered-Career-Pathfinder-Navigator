@@ -49,35 +49,35 @@ This project was developed by a dedicated team of five individuals:
 -   [Aamir Sarang](https://github.com/Aamir-Sarang31)
 
 ## 📁 Project Structure
-
 AI-Powered-Career-Pathfinder-Navigator/
 ├── agents/
-│ ├── career_logger.py
-│ ├── career_pathfinder_optimized.py
-│ └── role_readiness_agent.py
+│   ├── career_logger.py
+│   ├── career_pathfinder_optimized.py
+│   └── role_readiness_agent.py
 ├── backend/
-│ ├── uploads/
-│ └── app.py
+│   ├── uploads/
+│   └── app.py
 ├── data/
-│ ├── courses.json
-│ └── job_roles.json
+│   ├── courses.json
+│   └── job_roles.json
 ├── deployment/
-│ ├── procfile
-│ └── render.yaml
+├── profile/
+│   └── render.yaml
 ├── docs/
-│ └── research/
+│   └── research/
 ├── frontend/
-│ ├── static/
-│ │ ├── animations.js
-│ │ ├── script.js
-│ │ └── styles.css
-│ └── templates/
-│ └── index.html
+│   └── static/
+│       ├── animations.js
+│       └── script.js
+├── styles.css
+├── templates/
+├── index.html
 ├── .env
 ├── .gitignore
 ├── LICENSE
 ├── README.md
 └── requirements.txt
+
 
 ## 🚀 Quick Start Guide
 
