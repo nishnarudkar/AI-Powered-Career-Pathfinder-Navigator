@@ -71,7 +71,13 @@ AI-Powered-Career-Pathfinder-Navigator/
 │   ├── static/
 │   │   ├── animations.js
 │   │   ├── script.js
-│   │   └── styles.css
+│   │   ├── script-new.js
+│   │   ├── styles.css
+│   │   ├── styles-new.css
+│   │   ├── styles-components.css
+│   │   ├── styles-credits.css
+│   │   ├── styles-modern.css
+│   │   └── styles-roadmap.css
 │   └── templates/
 │       └── index.html
 ├── .env
