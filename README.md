@@ -48,6 +48,7 @@ This project was developed by a dedicated team of five individuals:
 -   [Maitreya Pawar](https://github.com/Metzo64)
 -   [Aamir Sarang](https://github.com/Aamir-Sarang31)
 
+
 ## 📁 Project Structure
 ```
 AI-Powered-Career-Pathfinder-Navigator/
@@ -62,24 +63,23 @@ AI-Powered-Career-Pathfinder-Navigator/
 │   ├── courses.json
 │   └── job_roles.json
 ├── deployment/
-├── profile/
+│   ├── procfile
 │   └── render.yaml
 ├── docs/
 │   └── research/
 ├── frontend/
-│   └── static/
-│       ├── animations.js
-│       └── script.js
-├── styles.css
-├── templates/
-├── index.html
+│   ├── static/
+│   │   ├── animations.js
+│   │   ├── script.js
+│   │   └── styles.css
+│   └── templates/
+│       └── index.html
 ├── .env
 ├── .gitignore
 ├── LICENSE
 ├── README.md
 └── requirements.txt
 ```
-
 ## 🚀 Quick Start Guide
 
 ### Prerequisites
