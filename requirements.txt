@@ -1,0 +1,10 @@
+flask
+python-dotenv
+PyPDF2
+python-docx
+langgraph
+langchain
+langchain-openai
+openai
+gunicorn
+gevent
