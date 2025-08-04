@@ -3,5 +3,6 @@ services:
     name: my-web-app
     env: python
     buildCommand: ""
-    startCommand: gunicorn app:app
+    startCommand: gunicorn --worker-class gevent --workers 1 --bind 0.0.0.0:$PORT 'backend.app:app'
     plan: free
+
