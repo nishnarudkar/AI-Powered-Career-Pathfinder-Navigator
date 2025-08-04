@@ -1,0 +1,83 @@
+.team-credits {
+    margin-top: 30px;
+    padding-top: 20px;
+    border-top: 1px solid rgba(255, 255, 255, 0.2);
+    animation: fadeScale 0.8s cubic-bezier(0.16, 1, 0.3, 1) 0.4s backwards;
+}
+
+.credit-title {
+    font-size: 1em; /* Increased font size */
+    color: rgba(255, 255, 255, 0.85); /* Increased opacity */
+    margin-bottom: 10px; /* Increased margin */
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+    font-weight: 600; /* Added font weight */
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.2); /* Added text shadow */
+}
+
+.team-members {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px; /* Increased gap */
+    align-items: center;
+    font-size: 1.2em; /* Increased font size */
+    color: white; /* Changed to fully opaque white */
+    font-weight: 500; /* Added font weight */
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.2); /* Added text shadow */
+}
+
+.team-members a.team-member {
+    text-decoration: none; /* Remove underline from links */
+    color: white;
+}
+
+.team-member {
+    position: relative;
+    padding: 6px 14px; /* Increased padding */
+    border-radius: 20px;
+    background: rgba(255, 255, 255, 0.15); /* Slightly more visible background */
+    transition: all 0.3s ease;
+    cursor: pointer;
+}
+
+.team-member:hover {
+    background: rgba(255, 255, 255, 0.3); /* Brighter hover effect */
+    transform: translateY(-2px);
+}
+
+.team-divider {
+    color: rgba(255, 255, 255, 0.5); /* Slightly more visible divider */
+    font-size: 0.8em;
+}
+
+/* Animation for team members */
+.team-member {
+    animation: fadeScale 0.5s cubic-bezier(0.16, 1, 0.3, 1) backwards;
+}
+
+.team-members .team-member:nth-child(1) { animation-delay: 0.5s; }
+.team-members .team-member:nth-child(3) { animation-delay: 0.6s; }
+.team-members .team-member:nth-child(5) { animation-delay: 0.7s; }
+.team-members .team-member:nth-child(7) { animation-delay: 0.8s; }
+.team-members .team-member:nth-child(9) { animation-delay: 0.9s; }
+
+/* Responsive design for team credits */
+@media (max-width: 768px) {
+    .team-credits {
+        margin-top: 25px;
+        padding-top: 15px;
+    }
+
+    .team-members {
+        font-size: 1em;
+    }
+
+    .team-member {
+        padding: 5px 12px;
+    }
+    
+    .team-divider {
+        margin: 0 4px;
+    }
+}

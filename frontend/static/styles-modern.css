@@ -1,0 +1,338 @@
+/* Modern Animations */
+@keyframes fadeScale {
+    0% {
+        opacity: 0;
+        transform: scale(0.95);
+    }
+    100% {
+        opacity: 1;
+        transform: scale(1);
+    }
+}
+
+@keyframes slideInLeft {
+    0% {
+        opacity: 0;
+        transform: translateX(-20px);
+    }
+    100% {
+        opacity: 1;
+        transform: translateX(0);
+    }
+}
+
+@keyframes floatUpDown {
+    0%, 100% {
+        transform: translateY(0);
+    }
+    50% {
+        transform: translateY(-10px);
+    }
+}
+
+@keyframes pulseGlow {
+    0%, 100% {
+        box-shadow: 0 0 0 0 rgba(102, 126, 234, 0.4);
+    }
+    50% {
+        box-shadow: 0 0 20px 5px rgba(102, 126, 234, 0.6);
+    }
+}
+
+@keyframes gradientFlow {
+    0% {
+        background-position: 0% 50%;
+    }
+    50% {
+        background-position: 100% 50%;
+    }
+    100% {
+        background-position: 0% 50%;
+    }
+}
+
+@keyframes headerPattern {
+    0% {
+        background-size: 12px 12px;
+        opacity: 0.5;
+    }
+    50% {
+        background-size: 16px 16px;
+        opacity: 0.7;
+    }
+    100% {
+        background-size: 12px 12px;
+        opacity: 0.5;
+    }
+}
+
+@keyframes headerGlow {
+    0%, 100% {
+        opacity: 0;
+        transform: translateX(-100%) skewX(-20deg);
+    }
+    50% {
+        opacity: 1;
+        transform: translateX(100%) skewX(-20deg);
+    }
+}
+
+@keyframes bounce {
+    0%, 100% {
+        transform: scale(1);
+    }
+    50% {
+        transform: scale(1.05);
+    }
+}
+
+@keyframes shimmer {
+    0% {
+        background-position: -1000px 0;
+    }
+    100% {
+        background-position: 1000px 0;
+    }
+}
+
+/* Animated Elements */
+header {
+    position: relative;
+    background: linear-gradient(45deg, #0a2342, #1e40af, #3b82f6);
+    background-size: 400% 400%;
+    animation: gradientFlow 10s ease infinite;
+    overflow: hidden;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);
+}
+
+header::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-image: radial-gradient(circle at 1px 1px, rgba(255, 255, 255, 0.2) 1px, transparent 0);
+    background-size: 12px 12px;
+    animation: headerPattern 6s ease infinite;
+    pointer-events: none;
+    opacity: 0.7;
+}
+
+header::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: linear-gradient(90deg, 
+        rgba(255, 255, 255, 0) 0%,
+        rgba(255, 255, 255, 0.2) 50%,
+        rgba(255, 255, 255, 0) 100%
+    );
+    animation: headerGlow 4s ease-in-out infinite;
+    pointer-events: none;
+    transform: skewX(-20deg);
+}
+
+header h1 {
+    animation: fadeScale 0.8s cubic-bezier(0.16, 1, 0.3, 1);
+    position: relative;
+    z-index: 1;
+}
+
+header p {
+    animation: slideInLeft 0.8s cubic-bezier(0.16, 1, 0.3, 1) 0.2s backwards;
+    position: relative;
+    z-index: 1;
+}
+
+.section {
+    animation: fadeScale 0.6s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.btn {
+    animation: slideInLeft 0.5s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+/* Floating Animation for Icons */
+.section-icon {
+    animation: floatUpDown 3s ease-in-out infinite;
+}
+
+/* Pulsing Animation for Important Elements */
+.upload-area {
+    animation: pulseGlow 3s infinite;
+}
+
+/* Gradient Animation */
+.gradient-animate {
+    background: linear-gradient(270deg, #667eea, #764ba2, #667eea);
+    background-size: 200% 200%;
+    animation: gradientFlow 6s ease infinite;
+}
+
+/* Bounce Animation for Interactive Elements */
+.interactive-element {
+    animation: bounce 2s ease-in-out infinite;
+}
+
+/* Delayed Animations for List Items */
+.roadmap-item {
+    animation: slideInLeft 0.5s cubic-bezier(0.16, 1, 0.3, 1);
+    animation-fill-mode: both;
+}
+
+.roadmap-item:nth-child(1) { animation-delay: 0.1s; }
+.roadmap-item:nth-child(2) { animation-delay: 0.2s; }
+.roadmap-item:nth-child(3) { animation-delay: 0.3s; }
+.roadmap-item:nth-child(4) { animation-delay: 0.4s; }
+.roadmap-item:nth-child(5) { animation-delay: 0.5s; }
+
+/* Skill Tag Animations */
+.skill-tag {
+    animation: fadeScale 0.3s ease-out;
+    transition: all 0.3s ease;
+}
+
+.skill-tag:hover {
+    transform: translateY(-2px) scale(1.05);
+}
+
+/* Button Hover Effects */
+.btn:hover {
+    animation: pulseGlow 2s infinite;
+    transform: translateY(-2px);
+}
+
+/* Loading States */
+.shimmer {
+    background: linear-gradient(
+        90deg,
+        #f0f0f0 0%,
+        #f8f8f8 50%,
+        #f0f0f0 100%
+    );
+    background-size: 1000px 100%;
+    animation: shimmer 2s infinite linear;
+}
+
+/* Hover Effects */
+.hover-lift {
+    transition: transform 0.4s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.hover-lift:hover {
+    transform: translateY(-4px);
+}
+
+/* Focus States */
+.focus-ring {
+    transition: box-shadow 0.3s ease;
+}
+
+.focus-ring:focus {
+    outline: none;
+    box-shadow: 0 0 0 3px rgba(79, 70, 229, 0.4);
+}
+
+/* Modern Card Styles */
+.glass-card {
+    background: rgba(255, 255, 255, 0.7);
+    backdrop-filter: blur(10px);
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    box-shadow: 
+        0 4px 6px -1px rgba(0, 0, 0, 0.1),
+        0 2px 4px -1px rgba(0, 0, 0, 0.06);
+}
+
+/* Interactive Elements */
+.interactive-bg {
+    position: relative;
+    overflow: hidden;
+}
+
+.interactive-bg::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: radial-gradient(
+        circle at var(--mouse-x, center) var(--mouse-y, center),
+        rgba(255, 255, 255, 0.1) 0%,
+        transparent 60%
+    );
+    pointer-events: none;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+}
+
+.interactive-bg:hover::after {
+    opacity: 1;
+}
+
+/* Progress Indicators */
+.progress-ring {
+    transition: stroke-dashoffset 0.35s;
+    transform: rotate(-90deg);
+    transform-origin: 50% 50%;
+}
+
+/* Modern Inputs */
+.modern-input {
+    background: rgba(255, 255, 255, 0.9);
+    border: 2px solid rgba(79, 70, 229, 0.1);
+    border-radius: 12px;
+    padding: 12px 16px;
+    transition: all 0.3s ease;
+}
+
+.modern-input:focus {
+    border-color: var(--primary-color);
+    box-shadow: 0 0 0 4px rgba(79, 70, 229, 0.1);
+    background: white;
+}
+
+/* Tags and Pills */
+.pill {
+    background: rgba(79, 70, 229, 0.1);
+    color: var(--primary-color);
+    padding: 6px 12px;
+    border-radius: 20px;
+    font-size: 0.875rem;
+    font-weight: 500;
+    transition: all 0.3s ease;
+}
+
+.pill:hover {
+    background: rgba(79, 70, 229, 0.15);
+    transform: translateY(-1px);
+}
+
+/* Status Indicators */
+.status-dot {
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    display: inline-block;
+    margin-right: 6px;
+}
+
+.status-dot.active {
+    background: var(--accent-color);
+    box-shadow: 0 0 0 4px rgba(16, 185, 129, 0.2);
+}
+
+/* Tooltips */
+.modern-tooltip {
+    background: rgba(17, 24, 39, 0.95);
+    backdrop-filter: blur(10px);
+    border-radius: 8px;
+    padding: 8px 12px;
+    font-size: 0.875rem;
+    color: white;
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+}

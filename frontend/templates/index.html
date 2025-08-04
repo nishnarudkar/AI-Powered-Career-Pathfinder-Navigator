@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Career Pathfinder</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css">
+    <link rel="stylesheet" href="https://unpkg.com/tippy.js@6/animations/scale.css">
+    <link rel="stylesheet" href="/static/styles.css">
+    <link rel="stylesheet" href="/static/styles-components.css">
+    <link rel="stylesheet" href="/static/styles-roadmap.css">
+    <link rel="stylesheet" href="/static/styles-modern.css">
+    <link rel="stylesheet" href="/static/styles-credits.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap">
+    <script src="https://unpkg.com/@popperjs/core@2"></script>
+    <script src="https://unpkg.com/tippy.js@6"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="/static/script.js" defer></script>
+    <script src="/static/animations.js" defer></script>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>🚀 AI Career Pathfinder</h1>
+            <p>Discover your personalized journey to your dream tech career with AI-powered skill gap analysis and learning roadmaps</p>
+            <div class="team-credits">
+                <p class="credit-title">Developed by</p>
+                <div class="team-members">
+                    <a href="https://github.com/nishnarudkar" target="_blank" class="team-member">Nishant Narudkar</a>
+                    <span class="team-divider">•</span>
+                    <a href="https://github.com/Saksham-3175" target="_blank" class="team-member">Saksham Shukla</a>
+                    <span class="team-divider">•</span>
+                    <a href="https://github.com/Vatsal211005" target="_blank" class="team-member">Vatsal Parmar</a>
+                    <span class="team-divider">•</span>
+                    <a href="https://github.com/Metzo64" target="_blank" class="team-member">Maitreya Pawar</a>
+                    <span class="team-divider">•</span>
+                    <a href="https://github.com/Aamir-Sarang31" target="_blank" class="team-member">Aamir Sarang</a>
+                </div>
+            </div>
+        </header>
+
+        <div class="content">
+            <div class="section">
+                <div class="section-header">
+                    <div class="section-icon">📄</div>
+                    <h2>Upload Your Resume</h2>
+                </div>
+                <div class="upload-area" id="upload-area">
+                    <div class="upload-icon">☁️</div>
+                    <div class="upload-text">Drop your resume here or click to browse</div>
+                    <div class="upload-subtext">Supports PDF and DOCX files</div>
+                    <input type="file" id="resume-input" accept=".pdf,.docx">
+                    <div class="file-info" id="file-info" style="display: none;">
+                        <span id="file-name">✅ No file selected</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="section">
+                <div class="section-header">
+                    <div class="section-icon">🎯</div>
+                    <h2>Your Current Skills</h2>
+                </div>
+                <div class="skills-input-container">
+                    <div class="skills-input">
+                        <input type="text" id="skill-input" placeholder="Enter a skill (e.g., Python)">
+                        <button class="btn btn-primary" id="add-skill">Add Skill</button>
+                    </div>
+                    <button class="btn btn-secondary" id="extract-skills">🤖 Auto-extract from Resume</button>
+                </div>
+                <ul id="skills-list"></ul>
+            </div>
+
+            <div class="section">
+                <div class="section-header">
+                    <div class="section-icon">💼</div>
+                    <h2>Target Job Role</h2>
+                </div>
+                <p class="section-description">Choose your target role to see your readiness assessment and learning roadmap</p>
+                <select id="job-role">
+                    <option value="">🎯 Choose your dream role...</option>
+                    <option value="data-scientist">📊 Data Scientist</option>
+                    <option value="ml-engineer">🤖 Machine Learning Engineer</option>
+                    <option value="ai-engineer">🧠 AI Engineer</option>
+                    <option value="cloud-architect">☁️ Cloud Solutions Architect</option>
+                    <option value="devops-engineer">⚙️ DevOps Engineer</option>
+                    <option value="full-stack-developer">💻 Full Stack Developer</option>
+                    <option value="cybersecurity-analyst">🔒 Cybersecurity Analyst</option>
+                    <option value="product-manager">📈 Product Manager (Tech)</option>
+                </select>
+                
+                <div class="readiness-results" id="readiness-results" style="display: none;">
+                    <div class="section-header">
+                        <div class="section-icon">📊</div>
+                        <h3>Your Readiness for <span id="selected-role-name"></span></h3>
+                    </div>
+                    <div id="readiness-assessment"></div>
+                </div>
+
+                <div class="industry-evaluation" id="industry-evaluation" style="display: none;">
+                    <div class="section-header">
+                        <div class="section-icon">🏢</div>
+                        <h3>Industry Readiness Analysis</h3>
+                    </div>
+                    <div id="industry-assessment"></div>
+                </div>
+                
+                <div class="roadmap-controls">
+                    <button class="btn btn-primary" id="generate-roadmap" onclick="testClick()">✨ Generate My Learning Roadmap</button>
+                    <p class="helper-text">Select a target role above to enable roadmap generation</p>
+                </div>
+            </div>
+
+            <div class="loading" id="loading">
+                <div class="loading-text">🔍 Analyzing your skills and crafting your personalized roadmap...</div>
+                <div class="spinner"></div>
+                <div class="progress-bar">
+                    <div class="progress-fill"></div>
+                </div>
+            </div>
+
+            <div class="roadmap-container" id="roadmap-container">
+                <div class="roadmap-header">
+                    <h2>🗺️ Your Personalized Learning Roadmap</h2>
+                    <p class="roadmap-subtitle">Based on your current skills and target role</p>
+                </div>
+                
+                <div class="time-estimates-container" id="time-estimates-container" style="display: none;">
+                    <div class="time-estimates-header">
+                        <span class="time-icon">⏱️</span>
+                        <span class="time-title">Time Investment Plan</span>
+                    </div>
+                    <div class="time-estimates-content">
+                        <p id="overall-time-frame"></p>
+                        <div class="time-breakdown">
+                            <span class="time-detail" id="total-hours"></span>
+                            <span class="time-detail" id="buffered-hours"></span>
+                            <span class="time-detail" id="weekly-commitment"></span>
+                        </div>
+                    </div>
+                </div>
+                
+                <ul class="roadmap-list" id="roadmap-list"></ul>
+            </div>
+
+            <div class="resources-container" id="resources-container" style="display: none;">
+                <div class="resources-header">
+                    <span class="resources-icon">📚</span>
+                    <span class="resources-title">Recommended Resources</span>
+                </div>
+                <p class="resources-text" id="resources"></p>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
