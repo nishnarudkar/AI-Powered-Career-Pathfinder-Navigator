@@ -22,6 +22,7 @@ An intelligent career guidance platform that analyzes skill gaps and generates p
 | **Data Processing** | PyPDF2, python-docx, JSON                   |
 | **Deployment** | Render                      |
 | **Version Control** | Git, GitHub                                 |
+| **ENVIRONMENT VARIABLES** | OPENAI_API_KEY , LANGSMITH_API_KEY          |
 
 ## 📸 Screenshots
 
